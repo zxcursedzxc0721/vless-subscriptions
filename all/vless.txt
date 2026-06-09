@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: All Countries
-# Updated: 2026-06-09T13:29:55.704Z
+# Updated: 2026-06-09T13:34:06.915Z
 # Configs: 1890
 
 vless://882e17c8-b013-4e99-9774-36e26e5001ff@185.242.19.249:443?encryption=none&type=xhttp&security=tls&host=top3739667002.mwscdn.ru&path=/livestreamcontent/&mode=packet-up&extra=null&fp=chrome&sni=top3739667002.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B%2ACIDR%5D
