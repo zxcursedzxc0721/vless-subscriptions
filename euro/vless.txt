@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-09T13:36:25.104Z
+# Updated: 2026-06-09T13:38:14.473Z
 # Configs: 15
 
 vless://8bbf020e-653f-4a82-9900-1214e4e37dab@45.151.183.101:443?flow=xtls-rprx-vision&fp=firefox&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
