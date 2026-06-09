@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-09T20:01:15.216Z
-# Configs: 239
+# Updated: 2026-06-09T21:01:34.519Z
+# Configs: 237
 
 vless://7fe363a0-c6e2-4609-9301-7a7d92ddb780@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=e67fb918ed6b9ffb#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?type=ws&security=tls&path=/storage&sni=s95410.cdn.ngenix.net&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
@@ -240,5 +240,3 @@ vless://0fb084ae-8c3d-46ad-8b04-bf41bca23ea8@a3.buzz-vpn.com:42428?type=tcp&secu
 vless://d6dba391-9247-4a51-9e9b-eae045378b90@fox.chocolatemango.live:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Россия | SNI max.ru | 🤟 OBWL back
 vless://1f0a8364-ae34-07d0-b999-34a723111ebd@filter.anti-vpn.ru:52006?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru&allowinsecure=0#🇷🇺 Россия | SNI max.ru | 🤟 OBWL back
 vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@ru.appav.net:2083?flow=&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=goya.rutube.ru&type=grpc#🇷🇺 Россия | SNI goya.rutube.ru | 🤟 OBWL back
-vless://739e2291-0823-45be-89ba-b47111e1e375@ru-selectel-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=sni.ru-selectel-01.com&fp=firefox&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=caa0a516476ad539&flow=xtls-rprx-vision#ð·ðº RU - 001
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1.l-itx.info:443?fp=firefox&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#ð XX - 005
