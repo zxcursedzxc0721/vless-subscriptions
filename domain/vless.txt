@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-09T13:06:14.512Z
+# Updated: 2026-06-09T13:15:37.588Z
 # Configs: 229
 
 vless://b6c78959-ce5f-41d2-ad14-4be945c357c6@pl.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=844352756c1fabba#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ads.x5.ru
