@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-10T06:01:15.639Z
+# Updated: 2026-06-10T07:01:15.564Z
 # Configs: 7
 
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.200.28.25:8443?mode=auto&path=/&security=reality&encryption=none&pbk=vo6Xrwkla8OBS5O6lEinNvHXxW8DxCmb8HGHD86VzkU&fp=chrome&type=xhttp&sni=www.google.com&sid=0e#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
