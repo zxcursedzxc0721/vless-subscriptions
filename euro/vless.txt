@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-10T04:01:21.349Z
+# Updated: 2026-06-10T05:01:15.660Z
 # Configs: 4
 
 vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@51.250.8.143:525?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=9759b96f487c&type=xhttp&path=%2Fapi%2Fads&mode=auto#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D%20YA
