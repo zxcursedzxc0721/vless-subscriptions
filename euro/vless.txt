@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-11T13:00:49.625Z
+# Updated: 2026-06-11T14:00:47.820Z
 # Configs: 17
 
 vless://100d1b8a-de82-42ec-b78e-e91c97e65cf0@45.197.134.25:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d037f6f67cc90016&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
