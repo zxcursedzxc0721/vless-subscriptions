@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-11T22:00:46.704Z
-# Configs: 222
+# Updated: 2026-06-11T23:00:45.964Z
+# Configs: 221
 
 vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@hype-1.topupaxme.icu:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&security=reality&sid=&sni=max.ru&type=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
@@ -28,8 +28,6 @@ vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&secu
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&sni=storage.yandex.net#0424 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&sni=storage.yandex.net#0490 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://5481bfe3-bf42-425c-b561-cb9d64bff7ff@w6.homestorage.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&sni=5post-gate.x5.ru#0538 | 🌐 Unknown | 🏳️ SNI-X5 | VLESS | TG: @YoutubeUnBlockRu
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=554dad6ab34f7baf.itx-server.digital#🇧🇦 Босния 11 | [WL]
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l10-1.l-itx.info:443?fp=firefox&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sid=6ba85179e30d4fc3&sni=yandex.by&type=xhttp#🇷🇺 Россия 8 | [WL]
 vless://1a12bfb1-6104-4329-9456-4d5f3842cb7b@gertest.nekosocks.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=gertest.nekosocks.com&pbk=5HK6AhUPIiVxSCT12HkhlxqfSBaPh6UPqONgMAlSKD0&sid=f34a04185a7a081e#%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%2024%20%D1%87%D0%B0%D1%81%D0%B0
 vless://f98ab063-1dfb-41da-b875-fc50f6bdc174@ch-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sni=storage.yandex.net&sid=445ab326fc7c90ac#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://3bf526cd-2764-436e-bee8-f2082dc993f9@pl.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
@@ -225,3 +223,4 @@ vless://0fb084ae-8c3d-46ad-8b04-bf41bca23ea8@a3.buzz-vpn.com:42428?type=tcp&secu
 vless://d6dba391-9247-4a51-9e9b-eae045378b90@fox.chocolatemango.live:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Россия | SNI max.ru | 🤟 OBWL back
 vless://1f0a8364-ae34-07d0-b999-34a723111ebd@filter.anti-vpn.ru:52006?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru&allowinsecure=0#🇷🇺 Россия | SNI max.ru | 🤟 OBWL back
 vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@ru.appav.net:2083?flow=&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=goya.rutube.ru&type=grpc#🇷🇺 Россия | SNI goya.rutube.ru | 🤟 OBWL back
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=554dad6ab34f7baf.itx-server.digital#ð XX - 047
