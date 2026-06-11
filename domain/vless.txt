@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-11T11:00:46.758Z
+# Updated: 2026-06-11T12:00:46.305Z
 # Configs: 235
 
 vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru2.cdn-global.pro:443?security=reality&encryption=none&pbk=FaFJaC1LA4xpzdDY1e0suuH8IBDYdRbjUFH3c-BgRBY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ru2.cdn-global.pro&sid=c8b5e9595f818d04#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
