@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-12T14:00:45.883Z
+# Updated: 2026-06-12T15:00:45.801Z
 # Configs: 227
 
 vless://db7fecc6-7677-4b25-9a6a-d34149648b4b@br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D
