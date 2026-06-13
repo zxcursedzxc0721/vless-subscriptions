@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-13T00:00:46.547Z
+# Updated: 2026-06-13T01:00:46.167Z
 # Configs: 7
 
 vless://e6ffd79d-0d49-4841-be27-8d97326ed046@198.105.112.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de-bridge.esimpson.org&fp=qq&pbk=ctuathZ3GIEJFM4QwIDWbYPcBc5fdtkroOyL2l4w1yY&sid=c7621239&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
