@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-13T07:00:46.588Z
+# Updated: 2026-06-13T08:00:45.620Z
 # Configs: 6
 
 vless://49779841-38f4-498a-baaf-5834733f1dfe@144.31.179.43:8080?type=xhttp&headerType=none&security=reality&encryption=none&sni=ozon.ru&fp=firefox&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
