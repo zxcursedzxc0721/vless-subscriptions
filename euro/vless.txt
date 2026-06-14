@@ -1,11 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-14T09:00:59.788Z
-# Configs: 6
+# Updated: 2026-06-14T10:00:59.233Z
+# Configs: 4
 
-vless://6e201a46-edf4-48f4-863d-71d313d9c05c@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
 vless://79b3a65b-3f70-4fff-85e4-82a7b9d37f73@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
-vless://9b4e2dff-3f04-4397-a748-902ab1965ec1@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
-vless://b30d9a65-efb7-491f-907f-31a5fb09e9e4@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
-vless://a8160c2f-561b-4849-83d2-9900d1442c74@45.144.50.212:443?fp=firefox&pbk=MlXt3-f7eUcUBoZgCOEKCO0vi0idFZ_0XTlzpF0TIzI&security=reality&sni=ads.x5.ru&type=grpc#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ads.x5.ru
-vless://a6557bab-5f60-40fb-bc3b-1cd2ed2425a6@161.104.44.15:443?fp=firefox&pbk=0EsjnmPXqgmtnYhWNvjM93k6Lso3M9biZRiA4Z7sKUc&security=reality&sni=ads.x5.ru&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20ads.x5.ru
+vless://9dc84b73-9278-4280-9e16-bf81739a8216@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
+vless://17179554-37e4-4f43-95ae-7e07aefae622@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2329
+vless://69a354f9-a733-4183-b3ec-a141f1cfb95c@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2344
