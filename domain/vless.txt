@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-15T11:00:47.549Z
+# Updated: 2026-06-15T12:00:48.899Z
 # Configs: 210
 
 vless://c470171c-2951-4806-988d-61d4d811486d@auto.riotvpn.eu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
