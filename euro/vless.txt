@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-15T00:00:58.973Z
+# Updated: 2026-06-15T01:00:58.646Z
 # Configs: 17
 
 vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@104.165.205.15:443?flow=xtls-rprx-vision&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=l1.cloudgaming.one&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
