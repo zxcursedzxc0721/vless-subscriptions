@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-16T19:00:46.094Z
+# Updated: 2026-06-16T20:00:46.001Z
 # Configs: 10
 
 vless://a8160c2f-561b-4849-83d2-9900d1442c74@144.31.178.160:8443?type=xhttp&security=reality&sni=sun1-90.userapi.com&fp=firefox&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&sid=fda2928a0a987b11#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5BSNI-RU%5D%20sun1-90.userapi.com
