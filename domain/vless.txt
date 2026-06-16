@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-16T12:00:46.272Z
+# Updated: 2026-06-16T13:00:46.490Z
 # Configs: 242
 
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?fp=firefox&host=yandex.by&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
