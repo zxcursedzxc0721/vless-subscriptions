@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-16T00:00:45.508Z
-# Configs: 16
+# Updated: 2026-06-16T01:00:44.685Z
+# Configs: 13
 
 vless://d945d410-9a71-426f-964a-fc37c653a4b5@2.59.135.178:6443?security=reality&sni=avatars.mds.yandex.net&type=xhttp&path=%2F&fp=qq&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://d945d410-9a71-426f-964a-fc37c653a4b5@45.145.43.247:6443?security=reality&sni=avatars.mds.yandex.net&type=xhttp&path=%2F&fp=qq&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
@@ -16,6 +16,3 @@ vless://ad7b2fde-d820-4dfe-be66-09fde32ddf61@45.196.224.233:8443?flow=xtls-rprx-
 vless://d945d410-9a71-426f-964a-fc37c653a4b5@45.145.42.48:6443?security=reality&sni=avatars.mds.yandex.net&type=xhttp&path=%2F&fp=qq&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20avatars.mds.yandex.net
 vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@200.234.229.109:8443?flow=xtls-rprx-vision&fp=firefox&pbk=14isAyQkkB_jdJ_uBtTGESevP2jjflqiBA1k_3SXyCo&security=reality&sni=ads.x5.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5BSNI-RU%5D%20ads.x5.ru
 vless://bbcde690-aca4-48dd-8da7-85fbad4b6d99@72.56.124.220:443?fp=firefox&pbk=TM6YMck66FyZu1mIF766ADrNUE6IohY8IH-_0GH0ZDM&security=reality&serviceName=grpc&sid=34afb6c42580a17e&sni=cdn.lemanapro.ru&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20cdn.lemanapro.ru
-vless://2c5ffa87-54f4-4057-8cd4-2dad3c3d6226@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2331
-vless://e1c878c9-95ae-4af6-8b78-a4019f27c172@51.250.4.238:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2346
-vless://e1c878c9-95ae-4af6-8b78-a4019f27c172@51.250.47.193:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2347
