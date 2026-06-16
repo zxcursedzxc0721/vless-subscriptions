@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-16T19:00:46.094Z
-# Configs: 240
+# Updated: 2026-06-16T20:00:46.001Z
+# Configs: 239
 
 vless://a65d1817-49a5-449f-81b8-37e6e179dc57@br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=e3152b486a086f4e&sni=rbc.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D
 vless://1e05097f-8aaf-0001-8d55-0732a1b373aa@converso.dropluch.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=converso.dropluch.com&fp=firefox&pbk=TPFB4tiIQpMR-_kVAGz7IlQT-q8QomLiGNOzjfF4xRU&sid=9b3d61f0a8c4e72b&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
@@ -242,4 +242,3 @@ vless://0fb084ae-8c3d-46ad-8b04-bf41bca23ea8@a3.buzz-vpn.com:42428?type=tcp&secu
 vless://d6dba391-9247-4a51-9e9b-eae045378b90@fox.chocolatemango.live:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Россия | SNI max.ru | 🤟 OBWL back
 vless://1f0a8364-ae34-07d0-b999-34a723111ebd@filter.anti-vpn.ru:52006?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru&allowinsecure=0#🇷🇺 Россия | SNI max.ru | 🤟 OBWL back
 vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@ru.appav.net:2083?flow=&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=goya.rutube.ru&type=grpc#🇷🇺 Россия | SNI goya.rutube.ru | 🤟 OBWL back
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:2053?allowinsecure=0&encryption=none&fp=firefox&host=itx-server.digital&path=%2Fws&security=tls&sni=eh.vk.com&type=ws&allowInsecure=1&insecure=1#ð XX - 005
