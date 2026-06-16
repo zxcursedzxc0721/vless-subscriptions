@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-16T10:00:45.713Z
-# Configs: 9
+# Updated: 2026-06-16T11:00:46.321Z
+# Configs: 10
 
 vless://e7e0f0f7-442b-43f4-b91d-488689c42796@147.45.240.66:443?encryption=none&fp=chrome&mode=auto&path=%2F6507017e73cea4cab18b6f70&pbk=nQx1Zx8b8pAIThNttjahU_ekbKU0FhpwktM0JBoDbTw&security=reality&sid=c672a150&sni=www.python.org&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@51.250.94.115:8443?flow=xtls-rprx-vision&fp=firefox&pbk=14isAyQkkB_jdJ_uBtTGESevP2jjflqiBA1k_3SXyCo&security=reality&sni=ads.x5.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
@@ -11,4 +11,5 @@ vless://ad7b2fde-d820-4dfe-be66-09fde32ddf61@45.196.224.100:8443?flow=xtls-rprx-
 vless://ad7b2fde-d820-4dfe-be66-09fde32ddf61@45.196.224.233:8443?flow=xtls-rprx-vision&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=364994a6f61fc955&sni=rbc.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5BSNI-RU%5D%20rbc.ru
 vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@200.234.229.109:8443?flow=xtls-rprx-vision&fp=firefox&pbk=14isAyQkkB_jdJ_uBtTGESevP2jjflqiBA1k_3SXyCo&security=reality&sni=ads.x5.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5BSNI-RU%5D%20ads.x5.ru
 vless://bbcde690-aca4-48dd-8da7-85fbad4b6d99@72.56.124.220:443?fp=firefox&pbk=TM6YMck66FyZu1mIF766ADrNUE6IohY8IH-_0GH0ZDM&security=reality&serviceName=grpc&sid=34afb6c42580a17e&sni=cdn.lemanapro.ru&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20cdn.lemanapro.ru
-vless://8bd28db7-6e76-4851-9307-d34261246077@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%2357
+vless://8bd28db7-6e76-4851-9307-d34261246077@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2344
+vless://e57dcaa9-f1c3-466f-ab09-7f738b57b2c6@51.250.47.193:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2350
