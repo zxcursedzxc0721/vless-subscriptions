@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-16T04:00:45.125Z
+# Updated: 2026-06-16T05:00:44.352Z
 # Configs: 17
 
 vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@65.109.199.141:25000?fp=firefox&mode=gun&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&security=reality&seq=you_are_beautiful4569&serviceName=shakhle&sid=6ba85179e30d4fc3&sni=www.yahoo.com&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
