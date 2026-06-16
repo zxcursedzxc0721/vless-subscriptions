@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-15T23:00:44.861Z
+# Updated: 2026-06-16T00:00:45.508Z
 # Configs: 16
 
 vless://d945d410-9a71-426f-964a-fc37c653a4b5@2.59.135.178:6443?security=reality&sni=avatars.mds.yandex.net&type=xhttp&path=%2F&fp=qq&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
