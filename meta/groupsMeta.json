@@ -3,7 +3,7 @@
     "id": "all",
     "name": "ALL",
     "flag": "🏳️",
-    "count": 767
+    "count": 753
   },
   {
     "id": "euro",
@@ -15,19 +15,19 @@
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 335
+    "count": 326
   },
   {
     "id": "domain",
     "name": "Домен",
     "flag": "🌐",
-    "count": 238
+    "count": 239
   },
   {
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 169
+    "count": 163
   },
   {
     "id": "us",
