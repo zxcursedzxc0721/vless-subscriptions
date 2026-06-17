@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-17T07:00:46.131Z
+# Updated: 2026-06-17T08:00:48.004Z
 # Configs: 244
 
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@der.moktana.app:443?type=grpc&security=reality&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=2e9f4c7b1a8d6e3f&sni=der.moktana.app&mode=gun&serviceName=moktana.net.v1.StreamService#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
