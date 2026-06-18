@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-18T13:00:43.813Z
-# Configs: 19
+# Updated: 2026-06-18T14:00:46.149Z
+# Configs: 16
 
 vless://JetVPN_979711@146.19.254.109:443?mode=gun&security=reality&encryption=none&pbk=WIeO8R9We0X2lv0M3-E_yOkXyUBayIRKIBDUMDVu6BE&fp=firefox&spx=%2F&type=grpc&sni=ya.ru&sid=ffffffffff#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ya.ru
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&sid=4d3ff920673f7534&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20max.ru
@@ -19,6 +19,3 @@ vless://4cdc3b59-bd29-493f-85c0-4e78ec008adf@51.250.47.193:443?flow=xtls-rprx-vi
 vless://36c1bdae-381d-4c60-9f11-12a7835e580a@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=RJtIKw17_0x-zmAL0vL4FrgeKqxHt2Faai-oSTBPmWI&sid=ef276a7580e24ac8&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23145
 vless://36c1bdae-381d-4c60-9f11-12a7835e580a@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=lM4aY7R07Gem9x-TKqvCuKcZSLuZU-_2lyZqxmQLHDs&sid=a9e95077bdf34209&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23148
 vless://b76d75c8-2df0-44f1-a355-b31a921935d8@51.250.40.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&sid=5b1dde1bbe5b42b4#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23184
-vless://785c7771-8d7f-48ca-bbc2-1a22e360d4d0@132.243.223.219:8443?type=grpc&security=reality&fp=chrome&pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&sid=ea1058117be12087&sni=max.ru&mode=gun&serviceName=max.ru#0025 | 🇩🇪 Germany | 🏳️ SNI-MAX | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://e5ece3f4-3418-452a-ace1-63e720f098d0@144.31.120.2:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=NS90nlp59sIHNzpSnHckBsFK-uDmNAOd8yZcyPWzlDo&sid=931a16&sni=sun6-22.userapi.com#0031 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
-vless://ac2d70ef-eceb-4f98-9477-f0f27a18aad0@45.196.224.233:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=364994a6f61fc955&sni=storage.yandex.net#0039 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
