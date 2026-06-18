@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-18T15:00:46.226Z
+# Updated: 2026-06-18T16:00:43.718Z
 # Configs: 211
 
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
