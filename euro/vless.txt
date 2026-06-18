@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-18T16:00:43.718Z
+# Updated: 2026-06-18T17:00:45.397Z
 # Configs: 17
 
 vless://ded3638e-ab7f-4ff8-bc60-9fc6666cff22@45.81.33.43:443?type=grpc&headerType=none&security=reality&encryption=none&sni=mageia.ubuntuhosting.host&fp=firefox&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=c86b&serviceName=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
