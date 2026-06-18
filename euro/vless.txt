@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-18T22:00:32.684Z
+# Updated: 2026-06-18T23:00:31.046Z
 # Configs: 25
 
 vless://ded3638e-ab7f-4ff8-bc60-9fc6666cff22@45.81.33.43:443?fp=firefox&mode=gun&pbk=nbrx6gGjaQ27MLBl-0Tp23ALk9sm95NeOFxhP2ufO1E&security=reality&serviceName=gun&sid=b6549e&sni=endeavouros.ubuntuhosting.host&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
