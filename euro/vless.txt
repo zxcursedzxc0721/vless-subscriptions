@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-19T22:32:50.611Z
+# Updated: 2026-06-19T23:00:31.181Z
 # Configs: 20
 
 vless://8a59eb4c-d127-4f32-9f51-9a1be5086fc0@65.109.217.246:2026?type=tcp&headerType=none&security=reality&encryption=none&sni=www.oracle.com&fp=firefox&pbk=yt2kyF7DABbLCwB49Hd3VuNu7-QN57GiLoeiD5vVg30&sid=c576f7ccd9019b&spx=/1xYs210rjIjteeD&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
