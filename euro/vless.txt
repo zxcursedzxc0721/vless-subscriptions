@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-19T11:00:32.092Z
+# Updated: 2026-06-19T12:00:33.011Z
 # Configs: 21
 
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20max.ru
