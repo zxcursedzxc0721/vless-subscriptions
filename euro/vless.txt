@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-20T10:00:31.906Z
-# Configs: 18
+# Updated: 2026-06-20T11:00:30.564Z
+# Configs: 17
 
 vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?encryption=none&type=xhttp&path=%2Fxhttp&host=max.ru&mode=auto&security=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20max.ru
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20max.ru
@@ -20,4 +20,3 @@ vless://32844752-0e3c-4115-adc5-ad79945c5fe2@51.250.66.16:443?flow=xtls-rprx-vis
 vless://d7e0ffc2-8768-4ee8-bdf7-219526f5ffd4@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=wi0mLRyP_rX2sM_uqvDeILAN7_2mDnZ4DmAlC4okjXQ&sid=ce1ad22ee3205e62&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23173
 vless://d7e0ffc2-8768-4ee8-bdf7-219526f5ffd4@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23179
 vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&sid=52a6#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23195
-vless://c1c17194-aa9a-457f-a25b-7b7b6faa3d7b@51.250.30.255:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=b3ItaOdaN2_LdGZgl0IOniSTF9Jh7igSh-NUQ8gn-gY&sid=79cae2cc52d60a#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%232
