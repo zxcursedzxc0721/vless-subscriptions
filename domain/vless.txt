@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-20T17:00:32.658Z
+# Updated: 2026-06-20T18:00:31.657Z
 # Configs: 210
 
 vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&mode=multi&serviceName=multi#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
