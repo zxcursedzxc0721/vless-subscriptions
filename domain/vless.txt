@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-21T17:00:32.861Z
-# Configs: 217
+# Updated: 2026-06-21T18:00:32.102Z
+# Configs: 216
 
 vless://8060e623-cfa6-4fc5-9c89-14e43fc621b7@cuisine.mikata.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=edge&host=cuisine.mikata.ru&mode=stream-up&path=%2F%3Fed%3D2048&security=tls&sni=cuisine.mikata.ru&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?type=ws&security=tls&fp=qq&sni=s10211.cdn.ngenix.net&path=/api/user&host=s10211.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
@@ -21,7 +21,6 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?path=%2
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fjdhfyws&host=amooaliii.net&sni=amooaliii.net&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?path=/rdfgtws&security=tls&encryption=none&host=vangoghhh.info&fp=chrome&type=ws&sni=vangoghhh.info#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://ec242fb6-faeb-4f34-afb8-3fbf80e527e3@fr-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#%F0%9F%87%AB%F0%9F%87%B7Обходы - TG: AirLinkVPNBot |0265|
 vless://c782a4b0-60d6-4540-8152-8725753fdad3@in-pq-01.info:8104/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=firefox&security=reality&pbk=yOWj4KtHTjRo6SutNETYUgiNUXES0NY-PcpE9a4MqFM&sid=8ad0b8c7e0e5ff8b#🇬🇧 Великобритания | SNI rbc.ru | 🤟 OBWL back
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@de1.vitok.cc:443/?type=tcp&encryption=none&sni=max.ru&security=reality&pbk=zxzgWvYs4pMN3fEduth1soI1yMZDkynb1bBM4tj85EE&sid=5e841fab#🇩🇪 Германия | SNI max.ru | 🤟 OBWL back
 vless://141bbdef-a341-4846-aec7-9d6531ff8790@w30yxdu3ab.de.cdnfludelivery.com:9090?mode=gun&security=reality&encryption=none&authority=api-maps.yandex.ru&pbk=0C_OR7d6g8nJiz_H_3hbRJ_XhrVJZJ0sBHr7lqstdz8&fp=qq&type=grpc&serviceName=api-maps.yandex.ru&sni=api-maps.yandex.ru&sid=d7abeb515312dc2f#🇩🇪 Германия | SNI api-maps.yandex.ru | 🤟 OBWL back
