@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-21T03:00:32.488Z
+# Updated: 2026-06-21T04:00:32.396Z
 # Configs: 218
 
 vless://ec242fb6-faeb-4f34-afb8-3fbf80e527e3@fr-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
