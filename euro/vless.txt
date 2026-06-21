@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-21T17:00:32.861Z
+# Updated: 2026-06-21T18:00:32.102Z
 # Configs: 11
 
 vless://e13efb4a-6739-4018-9789-0597a1451bd0@62.192.174.168:443?fp=firefox&mode=gun&pbk=TleO2NpQAVohMUsmgQrR-QZuUbwYw-57kn3Lhcqt43c&security=reality&serviceName=grpc&sid=9c96420532ebe46c&sni=www.samsung.com&type=grpc#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
