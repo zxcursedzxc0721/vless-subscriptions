@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-22T13:00:26.101Z
+# Updated: 2026-06-22T14:00:26.918Z
 # Configs: 325
 
 vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.terminatorr.ru:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.terminatorr.ru#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
