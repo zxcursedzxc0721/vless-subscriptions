@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-22T01:00:33.049Z
+# Updated: 2026-06-22T02:00:32.466Z
 # Configs: 5
 
 vless://ec242fb6-faeb-4f34-afb8-3fbf80e527e3@130.49.179.128:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=data-sync&fp=chrome&sni=google.com&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
