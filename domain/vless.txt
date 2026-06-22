@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-22T18:00:28.177Z
+# Updated: 2026-06-22T19:00:29.047Z
 # Configs: 304
 
 vless://eb8bce52-b6b5-4dff-91f5-71afafe9beec@kaz1.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=513b0a&sni=max.ru&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D%20VK
