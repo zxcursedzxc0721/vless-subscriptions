@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-22T04:00:33.313Z
+# Updated: 2026-06-22T05:00:38.769Z
 # Configs: 2
 
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@45.80.110.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=/pabloping&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
