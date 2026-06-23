@@ -1,15 +1,14 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-23T20:00:15.212Z
-# Configs: 10
+# Updated: 2026-06-23T21:00:16.421Z
+# Configs: 9
 
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@164.38.155.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.80.110.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
 vless://36562b99-aadd-4e38-b566-24e0d219b1d6@161.104.48.27:443?encryption=none&type=xhttp&security=reality&path=/berketgo&mode=auto&extra=null&fp=firefox&sni=okko.tv&pbk=tFKuLI3W0VZ7IxAL6hFQhD7DWmxAl0_NCjLya_I64zQ&sid=b2d4f6e8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20okko.tv
-vless://cd63c05b-c657-4960-b6e2-c988f9719967@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2359
-vless://9433194c-eb47-4b3e-8a61-eb8b78001227@51.250.33.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-6-5.nodes.ac&pbk=c8Sx7-8OcvtHEbVU59r-9DQrNdSI91GbMaHR-du4BxA&sid=b7b3ff64ca530808#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2378
-vless://b001f31e-539b-4853-b045-3ac720b0bf79@51.250.9.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2386
-vless://128e6310-d558-4609-bd5b-5fd2a8a0ee0e@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2389
-vless://277ae2f7-2297-4395-979e-7d722aca6377@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=wi0mLRyP_rX2sM_uqvDeILAN7_2mDnZ4DmAlC4okjXQ&sid=ce1ad22ee3205e62&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23160
-vless://277ae2f7-2297-4395-979e-7d722aca6377@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23165
+vless://34c05617-c165-4454-b274-1a28222b7846@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2350
+vless://dfb8d536-fb1d-4594-b9d7-eb49c211b278@51.250.33.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-6-5.nodes.ac&pbk=c8Sx7-8OcvtHEbVU59r-9DQrNdSI91GbMaHR-du4BxA&sid=b7b3ff64ca530808#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2372
+vless://62674ef8-e001-4a8c-91db-19cb7783c937@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2374
+vless://7fbafe0c-0032-4cbb-b66b-19b13a9a8d62@51.250.9.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2389
+vless://fbf53616-f586-4379-a0f9-dbe7c361678e@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2394
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
