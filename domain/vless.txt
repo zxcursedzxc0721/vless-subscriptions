@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-23T03:00:26.340Z
+# Updated: 2026-06-23T04:00:26.307Z
 # Configs: 324
 
 vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry4.brocollisuper.click:443?allowInsecure=1&insecure=1&type=grpc&security=tls&sni=fry4.brocollisuper.click&serviceName=grpc-api#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
