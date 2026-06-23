@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-23T02:00:26.395Z
-# Configs: 6
+# Updated: 2026-06-23T03:00:26.340Z
+# Configs: 8
 
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@164.38.155.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.80.110.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
@@ -9,3 +9,5 @@ vless://2b569745-25b5-4da1-bb86-0f02f87ca4b3@134.17.94.163:443?security=reality&
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.66.68:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=TXwYCrwkhTEeqtxTf3ZYmXNwYcmVtR9eVXJRo7Kvxmk&sid=8c5041b3#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5BSNI-RU%5D%20api-maps.yandex.ru
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@138.199.20.4:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=sT3IlhEi8k7BA0jYkn5TkJ8HcX3_FZ7USnfnqCAGrhw&sid=1750fe7d#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5BSNI-RU%5D%20api-maps.yandex.ru
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20max.ru
+vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@138.16.152.178:6443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=your-custom-path&fp=firefox&sni=maps.apple.com&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2388
+vless://795b7f0a-6398-4a45-91d9-2ecb0a3eb85b@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2391
