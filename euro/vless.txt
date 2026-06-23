@@ -1,15 +1,13 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-23T17:00:15.820Z
-# Configs: 10
+# Updated: 2026-06-23T18:00:16.062Z
+# Configs: 8
 
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.80.110.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@164.38.155.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
-vless://36562b99-aadd-4e38-b566-24e0d219b1d6@161.104.48.27:443?encryption=none&type=xhttp&security=reality&path=/berketgo&mode=auto&extra=null&fp=firefox&sni=okko.tv&pbk=tFKuLI3W0VZ7IxAL6hFQhD7DWmxAl0_NCjLya_I64zQ&sid=b2d4f6e8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20okko.tv
-vless://07c9560f-d016-4206-acb7-cf76f1a7a684@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2355
-vless://4c994cb4-4013-47e3-bd99-a2ac5cb18f4f@51.250.33.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-6-5.nodes.ac&pbk=c8Sx7-8OcvtHEbVU59r-9DQrNdSI91GbMaHR-du4BxA&sid=b7b3ff64ca530808#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2368
-vless://dd062589-0fb1-4b47-b5f1-b30a2aa0fb1a@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2376
-vless://33ca90b0-3b48-4310-b31e-c4c7473f09ee@51.250.9.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2391
-vless://56d904c9-d2e2-4378-bf37-274799f4ce31@51.250.82.20:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2394
-vless://6aa677a6-f76c-49ea-b9db-64f8413c5175@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2397
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@164.38.155.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.80.110.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+vless://f795d60d-39d5-4c6e-9dfd-1b2d960b7678@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2350
+vless://6bb548b9-4370-4170-8c77-c92f3c4b06fd@51.250.33.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-6-5.nodes.ac&pbk=c8Sx7-8OcvtHEbVU59r-9DQrNdSI91GbMaHR-du4BxA&sid=b7b3ff64ca530808#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2368
+vless://dc8cf521-c540-490a-b566-274ee714de7c@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2374
+vless://060e17a5-323e-466d-80d7-f1f81b0593a5@51.250.9.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2387
+vless://77fa3d65-eb4b-48a6-b1d1-e807b45dc765@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2391
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
