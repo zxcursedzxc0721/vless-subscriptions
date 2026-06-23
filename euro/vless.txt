@@ -1,12 +1,11 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-23T10:00:25.564Z
-# Configs: 7
+# Updated: 2026-06-23T11:00:25.430Z
+# Configs: 6
 
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@164.38.155.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.80.110.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20max.ru
-vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:6443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=your-custom-path&fp=chrome&sni=maps.apple.com&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2371
-vless://50f2d156-089c-47ea-8f5c-e829950d0fd2@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2372
-vless://291a72d1-f3c6-4b36-a59e-3750fed8099e@51.250.33.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-6-5.nodes.ac&pbk=c8Sx7-8OcvtHEbVU59r-9DQrNdSI91GbMaHR-du4BxA&sid=b7b3ff64ca530808#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2383
-vless://c9c65cea-5a60-4294-a03e-aebc05290fe9@51.250.9.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2398
+vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:6443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=your-custom-path&fp=chrome&sni=maps.apple.com&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2375
+vless://5528d31c-501b-45c7-8335-2d08712dec32@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2376
+vless://fdcdadad-ab7f-4bd6-8b65-8dd1ae281491@51.250.33.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-6-5.nodes.ac&pbk=c8Sx7-8OcvtHEbVU59r-9DQrNdSI91GbMaHR-du4BxA&sid=b7b3ff64ca530808#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23100
