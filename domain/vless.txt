@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-23T11:00:25.430Z
+# Updated: 2026-06-23T12:00:25.518Z
 # Configs: 318
 
 vless://027266f2-bec4-4ef2-ba4f-0627e6032557@hentai-cdn.apruxdomain.xyz:80?type=ws&sni=hentai-cdn.apruxdomain.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
