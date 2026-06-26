@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-26T02:00:16.061Z
+# Updated: 2026-06-26T03:00:16.875Z
 # Configs: 222
 
 vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&host=s10211.cdn.ngenix.net&fp=qq&type=ws&sni=s10211.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
