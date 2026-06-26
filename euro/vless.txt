@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-26T02:00:16.061Z
+# Updated: 2026-06-26T03:00:16.875Z
 # Configs: 14
 
 vless://7a9afda4-5e6f-11f1-bd95-ee5f4ed81fa1@201.51.8.114:2053?type=grpc&security=reality&fp=qq&pbk=rNUwP0R2G7cBaach3vA1SnQKjQ0op8F5_H4YkkqWLyA&sid=2922502119a30f6f&sni=dzen.ru&mode=gun&serviceName=grpc-direct#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20dzen.ru
