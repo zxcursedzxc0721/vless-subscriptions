@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-26T13:00:17.506Z
+# Updated: 2026-06-26T14:00:16.853Z
 # Configs: 15
 
 vless://197f6a70-559c-4fad-91d5-e532010abd76@45.145.56.180:1932?encryption=none&security=reality&sni=www.vk.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
