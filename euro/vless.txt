@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-27T10:00:17.306Z
+# Updated: 2026-06-27T11:00:16.903Z
 # Configs: 16
 
-vless://e0e576ae-2428-4928-a280-2d3b96daf30d@45.13.226.97:443?fp=firefox&pbk=3zq_fR7PzSDc9NBQiECTiUISD1rhvsXSMgd_ZIcqvWY&security=reality&sid=ec42626e&sni=www.avito.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20www.avito.ru
+vless://197f6a70-559c-4fad-91d5-e532010abd76@45.145.56.180:1932?encryption=none&security=reality&sni=www.vk.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://17550015-678f-43ad-b0d2-65c0a829bedb@45.151.182.89:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.cloudload.org&pbk=tBm4fiAXNY7qfnNa0TVKHIn3Ayd2caatRhXGh3US-zM&sid=a1ab5a56bc42abb1#%F0%9F%87%B7%F0%9F%87%BA%20Delta%20%E2%80%94%20%2313
 vless://218ab141-d078-47ba-92c4-ccd98aaba7db@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2339
 vless://39791b7a-8388-4dc9-aa11-5d8878e8b4bd@51.250.33.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-6-5.nodes.ac&pbk=c8Sx7-8OcvtHEbVU59r-9DQrNdSI91GbMaHR-du4BxA&sid=b7b3ff64ca530808#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2354
