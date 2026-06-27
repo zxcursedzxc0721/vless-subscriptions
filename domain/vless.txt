@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-27T00:00:16.668Z
+# Updated: 2026-06-27T01:00:16.556Z
 # Configs: 232
 
 vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@vkw.t817smgn6zs.ru:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
@@ -37,9 +37,9 @@ vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@de1.vitok.cc:443/?type=tcp&encrypti
 vless://7cf3e42a-a7bc-4b98-94e2-dba7dee77ec8@demw.verymad.net:27439?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Re0aWbYgk775QZ2eiIzh9fwPANq8HfLlrp9vbTC8vXQ&sid=3a1e&sni=www.vk.com&spx=%2FT3RNbsyxNh3cJPB#🇩🇪 Германия | SNI www.vk.com | 🤟 OBWL back
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&sni=eh.vk.com&spx=/o7Aaf6fjwgbitolAe#🇩🇪 Германия | SNI eh.vk.com | 🤟 OBWL back
 vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&sni=www.ozon.ru&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff#🇳🇱 Нидерланды | SNI www.ozon.ru | 🤟 OBWL back
-vless://09a61668-5802-4b2e-ae84-d7ca482cac1d@ru.verymad.net:20468?type=tcp&security=reality&encryption=none&fp=firefox&pbk=fZN3RaPoUpvSEE07sPTzvQva27vY3ooA3RYci5KL42Q&sid=a198d287017f32&sni=www.vk.com&spx=%2FLSiXfaHGN6JNCKm#🇷🇺 Россия | SNI www.vk.com | 🤟 OBWL back
 vless://4c2535f4-db10-4dd8-9b3b-07f60261fdf4@mws-ru-01.live:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=caa0a516476ad539&fp=firefox#🇷🇺 Россия | SNI rbc.ru | 🤟 OBWL back
 vless://144dd2a3-3059-4094-b7da-1901ab2e3033@germany.futurefast.ru:2443?type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=Fw91C5rhL7w_xvF1jDPs9kDv7LAZDFqWlxTpFCRVdnc&sid=a1b2c3d4&flow=xtls-rprx-vision#🇷🇺 Россия | SNI max.ru | 🤟 OBWL back
+vless://09a61668-5802-4b2e-ae84-d7ca482cac1d@ru.verymad.net:20468?type=tcp&security=reality&encryption=none&fp=firefox&pbk=fZN3RaPoUpvSEE07sPTzvQva27vY3ooA3RYci5KL42Q&sid=a198d287017f32&sni=www.vk.com&spx=%2FLSiXfaHGN6JNCKm#🇷🇺 Россия | SNI www.vk.com | 🤟 OBWL back
 vless://e3be59a5-6d25-404f-9bb0-714bb2b5c211@vlfr.golu-gulu.online:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=Zp5YfgXYswrmGT4c3Nz1vLqjxIfnq1ImYB7yFC7CaQY&security=reality&sid=412eff221aa9cf59&sni=eh.vk.com&type=tcp#🇫🇷 Франция | SNI eh.vk.com | 🤟 OBWL back
 vless://55ff1fff-2ecd-44e9-940d-7420c862b7d2@plmw.verymad.net:28737?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Q8yB9j_8uP7SgGdVZdQQBzcnB7IROViEbnGtedncSVo&sid=790693&sni=www.vk.com&spx=%2FL11802LebVvHowb#🇵🇱 Польша | SNI www.vk.com | 🤟 OBWL back
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#🇬🇧 Великобритания | SNI m.vk.com | 🤟 OBWL back
