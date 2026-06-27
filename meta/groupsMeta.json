@@ -3,55 +3,55 @@
     "id": "all",
     "name": "ALL",
     "flag": "🏳️",
-    "count": 604
+    "count": 578
   },
   {
     "id": "euro",
     "name": "EURO",
     "flag": "🏳️",
-    "count": 17
+    "count": 15
   },
   {
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 271
+    "count": 189
   },
   {
     "id": "domain",
     "name": "Домен",
     "flag": "🌐",
-    "count": 233
+    "count": 243
   },
   {
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 77
+    "count": 121
   },
   {
     "id": "de",
     "name": "Германия",
     "flag": "🇩🇪",
-    "count": 13
+    "count": 11
   },
   {
     "id": "ca",
     "name": "Канада",
     "flag": "🇨🇦",
-    "count": 2
+    "count": 3
   },
   {
     "id": "us",
     "name": "США",
     "flag": "🇺🇸",
-    "count": 3
+    "count": 5
   },
   {
     "id": "zz",
     "name": "ZZ",
     "flag": "🏳️",
-    "count": 1
+    "count": 2
   },
   {
     "id": "fr",
