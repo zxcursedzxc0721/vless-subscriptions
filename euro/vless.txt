@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-28T04:00:16.783Z
+# Updated: 2026-06-28T05:00:16.400Z
 # Configs: 13
 
 vless://e0e576ae-2428-4928-a280-2d3b96daf30d@45.13.226.97:443?fp=firefox&pbk=3zq_fR7PzSDc9NBQiECTiUISD1rhvsXSMgd_ZIcqvWY&security=reality&sid=ec42626e&sni=www.avito.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20www.avito.ru
