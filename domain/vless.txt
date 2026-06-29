@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-29T10:01:01.695Z
+# Updated: 2026-06-29T11:01:01.504Z
 # Configs: 224
 
 vless://7b973a03-7d66-4ae0-85a8-d43a5e561b74@msk.v2raytun-proxy.app:2083?mode=gun&security=reality&encryption=none&pbk=-ljhp6OZ_8KudLYANB-6BD6XaLIS5RqWvFnYRXKrXms&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=a7c236bb91557d48#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
