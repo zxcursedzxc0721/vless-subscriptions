@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-29T06:01:01.778Z
+# Updated: 2026-06-29T07:01:02.008Z
 # Configs: 231
 
 vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@partner.zoom.us:8080?type=ws&path=%2Ffree-server.techsonic.me&host=free-server.techsonic.me&sni=partner.zoom.us#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D
