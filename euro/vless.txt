@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-06-30T07:01:02.194Z
-# Configs: 16
+# Updated: 2026-06-30T08:01:01.550Z
+# Configs: 15
 
 vless://c0961459-f199-4c41-899b-b16138f875e7@138.124.19.48:28737?fp=firefox&pbk=Q8yB9j_8uP7SgGdVZdQQBzcnB7IROViEbnGtedncSVo&security=reality&sid=5dcc574365&sni=www.vk.com&spx=%2F9XAp5VbEXkOhR62&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://17930cee-cbea-484b-ad7f-7b8062825fee@117.55.202.15:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=max.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20max.ru
@@ -17,5 +17,4 @@ vless://23df05f7-6f35-49e7-999d-ffc2b4d7c468@51.250.83.32:443?flow=xtls-rprx-vis
 vless://23df05f7-6f35-49e7-999d-ffc2b4d7c468@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23145
 vless://09a82360-741e-4a89-a55b-e8f212de17c2@51.250.40.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=zYJherUg8rsyTsumgWLweMea_Tp2j4ZpVuRlskKTwiY&sid=92df5620ac107be4#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23220
 vless://3ef170be-05d0-479c-9753-aa2f860964ea@130.49.190.234:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cloudflare.com&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23247
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.139:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&sni=storage.yandex.net#0020 | 🇹🇷 Turkey | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
