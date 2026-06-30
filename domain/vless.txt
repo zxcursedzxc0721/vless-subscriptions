@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-30T01:01:02.585Z
+# Updated: 2026-06-30T02:01:01.764Z
 # Configs: 229
 
 vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@vkw.t817smgn6zs.ru:443?sni=vk.com&fp=chrome&sid=a1&flow=xtls-rprx-vision&security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
