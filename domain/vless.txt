@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-30T03:01:04.198Z
+# Updated: 2026-06-30T04:01:01.955Z
 # Configs: 233
 
 vless://bd99da97-265e-425b-82cc-4ec009fe9ce2@brn.perecmus.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&sni=www.amd.com&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
