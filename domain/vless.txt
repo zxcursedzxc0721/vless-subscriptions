@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-06-30T10:01:01.430Z
+# Updated: 2026-06-30T11:01:02.340Z
 # Configs: 230
 
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
