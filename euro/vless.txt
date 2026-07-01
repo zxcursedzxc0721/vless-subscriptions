@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-01T03:00:31.001Z
+# Updated: 2026-07-01T04:00:31.396Z
 # Configs: 23
 
 vless://145df0c3-2fcd-493f-8116-a12e261c55d4@51.250.47.219:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&sni=yandex.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
