@@ -1,12 +1,12 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-01T09:00:31.126Z
-# Configs: 22
+# Updated: 2026-07-01T10:00:30.679Z
+# Configs: 23
 
 vless://3283529b-3bc4-4e15-803a-7d5751a3df07@51.250.87.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=MofBU4YalVzrV7O_T5OmaUA5BmkITNw8qbkVSeOMvTE&sid=33ebf55b473ae1dd&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA
 vless://7a9afda4-5e6f-11f1-bd95-ee5f4ed81fa1@201.51.8.114:2053?fp=firefox&mode=gun&pbk=rNUwP0R2G7cBaach3vA1SnQKjQ0op8F5_H4YkkqWLyA&security=reality&serviceName=grpc-direct&sid=2922502119a30f6f&sni=dzen.ru&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20dzen.ru
 vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@141.133.175.194:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%AC%F0%9F%87%A7%20%5BSNI-RU%5D%20ads.x5.ru
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@130.49.190.234:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cloudflare.com&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%2374
+vless://3ef170be-05d0-479c-9753-aa2f860964ea@130.49.190.234:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cloudflare.com&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%2356
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.224:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#0001 | 🇱🇹 Lithuania | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.180:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&sni=storage.yandex.net#0006 | 🇹🇷 Turkey | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@154.222.9.176:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&sni=storage.yandex.net#0011 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
@@ -24,4 +24,5 @@ vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.114:8443?type=tcp&securi
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.115:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&nonce=T791wreI#0269 | 🇱🇹 Lithuania | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.138:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&_t=95458af4#0328 | 🇱🇹 Lithuania | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.216:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#0362 | 🇱🇹 Lithuania | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.135:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&sni=storage.yandex.net#0372 | 🇹🇷 Turkey | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
