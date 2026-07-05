@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-05T03:00:40.038Z
+# Updated: 2026-07-05T04:00:39.653Z
 # Configs: 6
 
 vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@141.133.175.194:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ads.x5.ru
