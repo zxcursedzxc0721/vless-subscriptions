@@ -1,14 +1,13 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-06T21:00:41.258Z
-# Configs: 9
+# Updated: 2026-07-06T22:00:41.827Z
+# Configs: 8
 
-vless://70b5d815-f43a-4e5d-9e0c-05ef852f993f@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23100
-vless://fbc661b8-2316-4da7-a6bd-1a39c85d2bc8@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23114
-vless://d7f5066c-3780-4788-a8b5-1ed1a47f107b@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23131
-vless://24eaf97d-f316-4524-ab43-df6fcdf79029@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23157
-vless://12b61b83-428c-43a8-a8a6-67f6ceb4ee02@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23168
-vless://78aa50d4-192a-49ce-90d6-843c8d08115c@51.250.66.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23227
-vless://27b1cf91-e17a-4e17-92d7-daaa506481fa@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=RJtIKw17_0x-zmAL0vL4FrgeKqxHt2Faai-oSTBPmWI&sid=ef276a7580e24ac8&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23281
-vless://27b1cf91-e17a-4e17-92d7-daaa506481fa@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=a-pxMyDrgkZ4eAM_I7k0mJiBn3AN0eyqeiSGtV03F1U&sid=d30f4e10dc056830&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23283
+vless://3657ef19-3c38-4bf9-9df0-73887da5eb2b@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23119
+vless://8afe1feb-1b4d-4db8-b6b6-6bbf1ac4b083@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23131
+vless://85626e98-5245-47ad-90cf-f28276a08edf@51.250.66.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23141
+vless://a49777ff-004d-44b5-8c1d-7e5ec5bbf7a7@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23156
+vless://e90c1c74-928d-45a9-a9c8-ce324be5246b@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23169
+vless://189d7d4f-e184-43da-bc49-36c5cd09f456@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23280
+vless://189d7d4f-e184-43da-bc49-36c5cd09f456@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=a-pxMyDrgkZ4eAM_I7k0mJiBn3AN0eyqeiSGtV03F1U&sid=d30f4e10dc056830&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23293
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
