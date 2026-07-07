@@ -1,13 +1,12 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-07T03:00:40.114Z
-# Configs: 8
+# Updated: 2026-07-07T04:00:40.111Z
+# Configs: 7
 
-vless://1d86024c-eae6-4dbe-961c-139ab1f973c4@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23143
-vless://6cc34120-6ae8-442e-84ac-4ca3b85c2e79@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23174
-vless://eb4807ef-216b-4660-8580-d4058d446e6a@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23191
-vless://12dcd2f9-147a-428e-96db-083654677555@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23217
-vless://619b0039-5bd6-4aee-b98d-9b9fcf964145@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23231
-vless://94f939e3-5d1c-4481-ad0c-6c82d07122eb@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23254
-vless://ff579efe-eba8-4827-acea-004a62a73839@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23268
+vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@141.133.175.194:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ads.x5.ru
+vless://b6f29f8d-016e-4f30-b57f-c0cdafab2a40@141.133.175.194:443?security=reality&encryption=none&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ads.x5.ru
+vless://619b0039-5bd6-4aee-b98d-9b9fcf964145@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23165
+vless://ff579efe-eba8-4827-acea-004a62a73839@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23183
+vless://39d645b7-074f-4ca3-8c9d-d7323c20c75f@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23212
+vless://fa44820d-c5f1-4e88-904e-c783475cff02@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23228
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
