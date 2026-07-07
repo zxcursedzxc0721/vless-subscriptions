@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-07T08:00:41.037Z
+# Updated: 2026-07-07T09:00:41.086Z
 # Configs: 11
 
 vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@141.133.175.194:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ads.x5.ru
@@ -12,5 +12,5 @@ vless://118a48a2-e6ca-42a3-977d-66d0e194b597@51.250.82.20:443?flow=xtls-rprx-vis
 vless://efa91f9f-b9eb-45c4-b0ca-4d72ffc5f2b8@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23317
 vless://efa91f9f-b9eb-45c4-b0ca-4d72ffc5f2b8@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=yandex.ru&pbk=a-pxMyDrgkZ4eAM_I7k0mJiBn3AN0eyqeiSGtV03F1U&sid=d30f4e10dc056830&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23327
 vless://08d08748-6005-46ff-ace4-0696c9776a16@51.250.40.74:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=ads.x5.ru&pbk=zYJherUg8rsyTsumgWLweMea_Tp2j4ZpVuRlskKTwiY&sid=92df5620ac107be4#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23409
-vless://74aa7979-7de3-4431-81de-f17448f35dec@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23110
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.190:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#0024 | 🇱🇹 Lithuania | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
