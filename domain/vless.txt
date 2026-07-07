@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-07-07T06:00:40.418Z
+# Updated: 2026-07-07T07:00:40.938Z
 # Configs: 65
 
 vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@de.riotvpn.eu:8443?encryption=none&type=grpc&serviceName=grpc-yandex&mode=multi&security=reality&sni=avatars.mds.yandex.net&fp=qq&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
