@@ -1,10 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-07-10T03:00:27.131Z
-# Configs: 92
+# Updated: 2026-07-10T04:00:27.497Z
+# Configs: 91
 
 vless://2b947013-7551-4a8e-bc4f-470e9e987e88@brn.perecmus.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://bd99da97-265e-425b-82cc-4ec009fe9ce2@brn.perecmus.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&sni=www.amd.com&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@usr.moktana.app:443/?type=grpc&encryption=none&flow=&serviceName=moktana.net.v1.StreamService&sni=usr.moktana.app&fp=firefox&security=reality&pbk=_yzmX8WwaZJD4ddVgOZWJsx6r0lJzhTrTbkQLhwiWXk&sid=c8540a3e9e1d8136#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
 vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20api-maps.yandex.ru
 vless://080e0b5f-c956-452b-aaa0-2dfd791e8aa3@api.rodina-platform.online:2072?encryption=none&type=xhttp&security=reality&sni=max.ru&pbk=Ii9Wmi9ozX7Z9Vf3n1xp2lqUw0pmfXVdOXjdLGLMSHs&sid=7016808acbb46323&fp=firefox&path=/&host=max.ru&mode=packet-up&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20max.ru
