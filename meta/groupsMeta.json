@@ -9,31 +9,31 @@
     "id": "euro",
     "name": "EURO",
     "flag": "🏳️",
-    "count": 15
+    "count": 16
   },
   {
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 267
+    "count": 263
   },
   {
     "id": "domain",
     "name": "Домен",
     "flag": "🌐",
-    "count": 84
+    "count": 88
   },
   {
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 27
+    "count": 26
   },
   {
     "id": "de",
     "name": "Германия",
     "flag": "🇩🇪",
-    "count": 10
+    "count": 11
   },
   {
     "id": "dk",
