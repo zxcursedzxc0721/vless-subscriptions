@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-11T13:00:18.667Z
+# Updated: 2026-07-11T14:00:19.614Z
 # Configs: 11
 
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
