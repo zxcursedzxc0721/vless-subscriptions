@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-12T07:00:18.512Z
+# Updated: 2026-07-12T08:00:21.106Z
 # Configs: 13
 
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@138.16.186.81:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=www.ya.ru&pbk=JdgBWRW9oVqhmaKIZlEPo2FftgUf0QiuWoMAFWxlRTU&sid=a85b2f0272d396a0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
