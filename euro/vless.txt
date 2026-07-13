@@ -1,10 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-13T21:00:59.038Z
+# Updated: 2026-07-13T22:00:58.816Z
 # Configs: 5
 
 vless://def2a5c2-2b7c-4806-a8a3-c492ae1069f8@51.250.47.173:5555?encryption=none&type=xhttp&security=reality&path=%2F&mode=packet-up&extra=null&fp=ios&sni=ya.ru&pbk=jCOAuKp-qfIaD8tWYWhAGqX7r58Vv4MLX7CSynaP-RI&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?&security=reality&flow=xtls-rprx-vision&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&fp=firefox&sni=yastatic.net&type=tcp&headerType=none&host=yastatic.net&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D
-vless://d604e923-cfbd-4aab-809d-e2b07e9824a6@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23128
-vless://6197991f-2c96-4c65-bc0f-0bd748b5d62d@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23154
+vless://77e2dbfe-dae8-4480-98f2-042fe70cfe0d@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23132
+vless://71270a61-2b23-4b3e-98f5-cc963316fdc9@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23151
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
