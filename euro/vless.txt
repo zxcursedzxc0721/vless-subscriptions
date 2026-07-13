@@ -1,15 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-13T17:00:58.162Z
-# Configs: 10
+# Updated: 2026-07-13T18:00:58.431Z
+# Configs: 3
 
-vless://def2a5c2-2b7c-4806-a8a3-c492ae1069f8@51.250.47.173:443?security=reality&encryption=none&pbk=xlZzy5X1gHbt7I3n8bxpQkwBkMgmFIYAgtHaSzGZ7AU&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=21f76882c439a553#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=yastatic.net&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D
-vless://73214f4b-c2ee-4ca4-b183-adb22335fd17@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23126
-vless://a8412fd5-5e6a-4e6f-8fba-47e36692e45e@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23160
-vless://88356ac6-e1b3-4367-8c34-bd94b3229183@51.250.40.74:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&sid=5b1dde1bbe5b42b4#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23262
-vless://596b215c-3743-4893-b24a-4e396c4ab80f@107.189.16.18:443?type=tcp&security=reality&encryption=mlkem768x25519plus.random.0rtt.yAL1-2X9fcAH52mufKxMPAOLqgkJ8qLqOAdTNUBlUw4&fp=firefox&pbk=MrhDlM8Z1X9NHG9dqhF878GY-if8OgerU0KdxwDnuB8&sid=1166da58252149eb&sni=api-maps.yandex.ru#0324 | 🇳🇱 Netherlands | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://8a4d32e8-ab02-4398-84a7-8d7672426ad6@144.31.164.108:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&sni=api-maps.yandex.ru#0799 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://8a59eb4c-d127-4f32-9f51-9a1be5086fc0@65.109.217.246:2026?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=yt2kyF7DABbLCwB49Hd3VuNu7-QN57GiLoeiD5vVg30&security=reality&sid=c576f7ccd9019b&sni=www.oracle.com&spx=%2F1xYs210rjIjteeD&type=tcp#🇦🇪 ОАЭ 1 | [WL]
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:8443?flow=xtls-rprx-vision&fp=firefox&pbk=ULdsBE21mblUYXU9xmPQOp66egYcagcgTGZ2gUhnyyg&security=reality&sni=eh.vk.com&type=tcp#🇷🇺 Россия 9 | [WL]
+vless://def2a5c2-2b7c-4806-a8a3-c492ae1069f8@51.250.47.173:5555?mode=packet-up&path=%2F&security=reality&encryption=none&pbk=jCOAuKp-qfIaD8tWYWhAGqX7r58Vv4MLX7CSynaP-RI&fp=firefox&spx=%2F&type=xhttp&sni=ya.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?type=tcp&security=reality&sni=yastatic.net&fp=chrome&flow=xtls-rprx-vision&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
