@@ -1,11 +1,11 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-13T02:00:58.971Z
+# Updated: 2026-07-13T03:00:58.285Z
 # Configs: 6
 
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?&security=reality&flow=xtls-rprx-vision&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&fp=firefox&sni=yastatic.net&type=tcp&headerType=none&host=yastatic.net&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D
 vless://e708dd75-cf26-4a45-aba3-45da05615910@189.74.117.3:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=api.yandex-api.org&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
-vless://9a077894-c71f-4bba-9805-0c48432c98cf@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23200
-vless://c50d2ca7-d131-4561-b293-b143e47f1daa@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23224
-vless://5d2566a7-a112-4199-8e29-f876a53062f8@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23242
+vless://c50d2ca7-d131-4561-b293-b143e47f1daa@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23200
+vless://4ee17374-4b25-48f9-bac4-e00f07b16ea2@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23225
+vless://37a44722-5802-4e24-80c5-034d9458c6be@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23248
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
