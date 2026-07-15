@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-15T00:00:08.165Z
+# Updated: 2026-07-15T01:00:07.669Z
 # Configs: 32
 
 vless://4cbecc04-ea0c-44e7-a9da-8fe952526322@164.138.100.199:443?encryption=none&type=grpc&serviceName=fi-br-yandex&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
