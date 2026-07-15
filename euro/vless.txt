@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-15T15:00:09.098Z
-# Configs: 36
+# Updated: 2026-07-15T16:00:08.758Z
+# Configs: 35
 
 vless://6f863118-5880-4356-b3d1-8c6ee5e31e32@45.150.39.81:443?type=grpc&security=reality&fp=chrome&sni=intel.com&pbk=qsGRVznUjYZIDS8hyMCMS9YCpRFugys-dbpXhR3jVjQ&sid=712d&serviceName=intel.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://4392b776-41a2-4300-b545-a3d2724b605b@51.250.46.89:443?security=reality&encryption=none&pbk=KYNrRy0ElOU9Hg5tmWRwpf-Ff3R8Gjcjdk91jZt2nGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.tracker.yandex.net&sid=bb6c8a1e7c#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
@@ -38,4 +38,3 @@ vless://71282400-6e18-4d23-b1b7-738b1884f3dc@164.138.100.200:443?encryption=none
 vless://7836b5eb-0685-4af3-baca-2d75cad5d4de@164.138.100.200:443?encryption=none&type=grpc&serviceName=ch-br-yandex&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
 vless://0f8923d5-77b8-4046-9899-6892dde4ef32@45.9.12.156:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23265
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
-vless://a256bcb1-e3fd-4148-b206-26ccc93a7f9e@45.9.12.15:443?encryption=none&security=reality&type=tcp&sni=fi.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AEОбходы - TG: AirLinkVPNBot |0532|
