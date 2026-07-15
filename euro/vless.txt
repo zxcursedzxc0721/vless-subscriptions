@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-15T07:00:07.850Z
+# Updated: 2026-07-15T08:00:08.221Z
 # Configs: 33
 
 vless://16646b55-46c3-4fb6-981f-90023b81fa50@189.74.117.3:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-api.org&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
