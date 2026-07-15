@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-15T11:00:08.485Z
+# Updated: 2026-07-15T12:00:07.976Z
 # Configs: 37
 
 vless://4392b776-41a2-4300-b545-a3d2724b605b@51.250.46.89:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=cdn.tracker.yandex.net&pbk=KYNrRy0ElOU9Hg5tmWRwpf-Ff3R8Gjcjdk91jZt2nGg&sid=bb6c8a1e7c#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
