@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-16T11:00:26.003Z
-# Configs: 34
+# Updated: 2026-07-16T12:00:26.197Z
+# Configs: 32
 
 vless://71282400-6e18-4d23-b1b7-738b1884f3dc@164.138.100.199:443?encryption=none&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=fi-br-yandex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 vless://7836b5eb-0685-4af3-baca-2d75cad5d4de@164.138.100.199:443?encryption=none&type=grpc&serviceName=fi-br-yandex&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
@@ -33,7 +33,5 @@ vless://57aa54c1-0257-4226-9965-b59c6b715f54@2.26.5.214:2087?type=grpc&security=
 vless://58aeca19-0425-4b55-bdef-01ded23f5acc@2.26.5.168:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=8pUN-PAnf8heTQepzV7AslEWwwePXGH4TV2tD44Xgy4&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20ads.x5.ru
 vless://b7d6ce85-3c4e-4751-884f-26dfa8a011e2@2.26.5.207:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=fgAGnqn2g6u4ZacmOsYR0yqA27FGZpKl7NvhD3rnRz0&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20ads.x5.ru
 vless://c0d40301-6308-4841-808e-3bd63f05f224@2.26.5.151:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=kqCqlxubsl4d8UCWI2kRRmO1qKX_NodCFwuYhEGKBi0&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20ads.x5.ru
-vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@45.151.101.137:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-ru-2053-4f7b2a&fp=chrome&sni=www.amazon.com&pbk=l_C0QQhMVDqhDT3-_AS8cBoOOhKksv8ubX4cf4EVjwo&sid=17&spx=%2F5QFfdWJo6AMdStV#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2396
-vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@201.51.2.12:443?encryption=none&type=raw&security=reality&fp=firefox&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23103
-vless://c26f6350-8fc7-4035-84f9-c498b469432a@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23130
+vless://dda4446a-afc1-42c0-9c5e-3e81ebbfd8b8@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23134
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
