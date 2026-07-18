@@ -1,11 +1,12 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-07-18T12:00:19.081Z
-# Configs: 188
+# Updated: 2026-07-18T13:00:28.294Z
+# Configs: 189
 
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws&sni=26bc92586944.apruxdomain.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?security=false&type=ws&headerType=none&host=26bc92586944.apruxdomain.online&path=%2F&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://5b38fd24-4d47-4ee2-a077-7d125e723230@ru-kas.white-aist.com:8446?encryption=none&security=reality&sni=yahoo.com&pbk=pf35NPPeasQGSt7VDSpI3_RKenLZ1UKI-FrEnKbfvH8&type=grpc&authority=&serviceName=grpc&mode=gun&fp=qq#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@nl2.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&serviceName=web.max.ru&mode=gun&fp=chrome#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20%5BSNI-RU%5D%20web.max.ru
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@usa.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&pbk=MF_E-_CYAXdWxC1N_wTkdFyk3K7_1cNqNDPb0vnwl20&sid=8311761729abcdef&serviceName=web.max.ru&mode=gun&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5BSNI-RU%5D%20web.max.ru
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@usa.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&pbk=MF_E-_CYAXdWxC1N_wTkdFyk3K7_1cNqNDPb0vnwl20&sid=8311761729abcdef&serviceName=web.max.ru&mode=gun&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5BSNI-RU%5D%20web.max.ru
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://46912bf7-cc5b-4719-9d22-72330720edd0@ams2.globalschool.edu.kg:39154?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=WEMJ-tqGjsjNEAV85q2AIr1jLR2aLfFLCWkkHSb3ViU&sid=d68bea4c&sni=ozon.ru#0001 | 🌐 Unknown | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
 vless://370bffc1-c80b-4f03-a608-33d6c0a7214e@ams2.globalschool.edu.kg:39154?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WEMJ-tqGjsjNEAV85q2AIr1jLR2aLfFLCWkkHSb3ViU&sid=d68bea4c&sni=ozon.ru#0046 | 🌐 Unknown | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
