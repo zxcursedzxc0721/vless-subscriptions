@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-07-20T07:01:01.588Z
+# Updated: 2026-07-20T08:01:02.010Z
 # Configs: 219
 
 vless://6d8f273f-6c6c-47bc-8804-69c8f2085246@api.yandex-api.org:443?encryption=none&security=reality&sni=api.yandex-api.org&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
