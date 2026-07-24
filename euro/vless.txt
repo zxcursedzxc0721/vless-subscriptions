@@ -1,11 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-24T20:00:36.738Z
-# Configs: 6
+# Updated: 2026-07-24T21:00:38.128Z
+# Configs: 4
 
-vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@45.150.39.33:8443?type=tcp&security=reality&sni=storage.yandex.net&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
 vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=EDeWEPBq0QDOPp73PNVlaV2EWaEBWhgBcNy3MROgZ00&sid=04b38b6b152a1b0b&sni=wildberries.ru#0096 | 🇩🇪 Germany | 🏳️ SNI-Wildberries | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@45.206.5.122:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&sni=storage.yandex.net#0226 | 🇬🇧 United Kingdom | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be&sni=api-maps.yandex.ru#0271 | 🇷🇺 Russia | 🏳️ CIDR-OLD | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
-vless://58807845-c95f-4871-9b38-244d7c977908@45.9.16.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yoU2y9WO4ORh1VKyUA4oaLmazDfnSG0exaDoz7ecDxc&security=reality&sid=d7&sni=rbc.ru&type=tcp#ð XX - 005
-vless://58807845-c95f-4871-9b38-244d7c977908@45.9.16.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jqzSuWedCQ1nnFYbaRYjGzzW2Ox5okghCN3RImBDGnw&security=reality&sid=d7&sni=autonews.ru&type=tcp#ð XX - 006
