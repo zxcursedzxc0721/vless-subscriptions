@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-07-24T08:01:25.453Z
+# Updated: 2026-07-24T09:00:40.451Z
 # Configs: 209
 
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@desrv.noooo.win:443?security=reality&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744&sni=stats.vk-portal.net&type=xhttp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20stats.vk-portal.net
