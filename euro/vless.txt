@@ -1,13 +1,12 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-07-26T04:00:22.246Z
-# Configs: 8
+# Updated: 2026-07-26T05:00:21.852Z
+# Configs: 7
 
-vless://6949d13a-6695-4ef6-95a6-59f5a17c0978@189.74.117.4:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api.yandex-api.org&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
-vless://259ceb97-b0f4-46cd-86ba-7d28cf9e8224@45.9.13.238:40017?fp=edge&pbk=Dl4-nKAkksLHmX2yR0LWAzyFBjIj1W10R4OxHKMX2AI&security=reality&sni=cdn6-72.yahoo.com&type=xhttp#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=/&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-vless://7bf3bde9-c3f8-4e53-836f-38d752e807e6@51.250.95.67:52000?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ndSxyXpSzx2SnGiRSZ6SSzVmOWVsgRMzVfqBm6PKog4&security=reality&sni=ads.x5.ru&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@138.16.181.6:8444?&security=reality&flow=xtls-rprx-vision&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&fp=firefox&sni=storage.yandex.net&type=tcp&headerType=none&host=storage.yandex.net&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://8b02563b-cf46-4c94-bb82-e0fdecd26630@161.104.48.137:443?encryption=none&fp=ios&mode=gun&pbk=erUxbU3_rhHJqRE6rTj-FRfz9IbTPnxx5DgKaT5C6Rs&security=reality&serviceName=api.v1.StreamService&sid=6d08059a&sni=funny2.oneok.name&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://f7a12c2a-8849-428e-8785-fcec05a17ec4@189.74.117.4:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-api.org&type=raw#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=/&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@138.16.181.6:8444?&security=reality&flow=xtls-rprx-vision&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&fp=firefox&sni=storage.yandex.net&type=tcp&headerType=none&host=storage.yandex.net&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://8b02563b-cf46-4c94-bb82-e0fdecd26630@161.104.48.137:443?encryption=none&fp=edge&mode=gun&pbk=erUxbU3_rhHJqRE6rTj-FRfz9IbTPnxx5DgKaT5C6Rs&security=reality&serviceName=api.v1.StreamService&sid=6d08059a&sni=funny2.oneok.name&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://6949d13a-6695-4ef6-95a6-59f5a17c0978@189.74.117.4:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api.yandex-api.org&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
+vless://259ceb97-b0f4-46cd-86ba-7d28cf9e8224@45.9.13.238:40019?encryption=none&extra=null&fp=firefox&pbk=Dl4-nKAkksLHmX2yR0LWAzyFBjIj1W10R4OxHKMX2AI&security=reality&sni=cdn4-23.yahoo.com&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7Обходы - TG: AirLinkVPNBot |0217|
