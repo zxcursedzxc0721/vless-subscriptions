@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-07-27T11:00:40.742Z
+# Updated: 2026-07-27T12:00:41.237Z
 # Configs: 226
 
 vless://b4e99731-fa4f-4cc8-a848-95963dcb15a9@spbnoda.shoptwo.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=spbnoda.shoptwo.xyz&pbk=lEw7Th7hb6fO4wu2Ykmq3A52Qsmesryh40YEzaRSknE&sid=a7183b9ea73e367f&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
