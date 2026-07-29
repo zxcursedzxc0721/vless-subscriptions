@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-07-29T02:00:39.324Z
+# Updated: 2026-07-29T03:00:38.973Z
 # Configs: 218
 
 vless://7f967c17-c037-4a61-b73d-404468e5add8@rude.go-bull.pro:2089?security=reality&encryption=none&pbk=I1v1juarLekOXUXIO1eh3-gUntqQQgnKYAbax8OKVU0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=proshkola.ru&sid=45d6167db76a82c1#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK
