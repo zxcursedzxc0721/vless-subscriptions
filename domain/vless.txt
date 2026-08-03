@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-08-03T08:01:12.144Z
+# Updated: 2026-08-03T09:01:11.855Z
 # Configs: 243
 
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?security=reality&encryption=none&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&path=%2F&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20id.vk.com
