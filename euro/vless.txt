@@ -1,9 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-05T08:01:01.896Z
-# Configs: 4
+# Updated: 2026-08-05T09:01:01.413Z
+# Configs: 5
 
-vless://2c22eaa4-4fe2-49dc-9d34-879dbfa0420e@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23135
-vless://9530dd99-fc18-4955-babe-194cd14c0a87@51.250.82.20:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=ads.x5.ru&spx=%2F&type=raw#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23159
-vless://30b57d42-63cf-4bd7-8f6e-0dddca1598ea@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8&security=reality&sid=22730c666bd10642&sni=api-maps.yandex.ru&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23183
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%235
+vless://fa83bb83-1715-45b1-81cd-aa55b804e1ff@51.250.66.16:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=ads.x5.ru&spx=%2F&type=raw#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23158
+vless://a3c2ade6-ee25-4806-8b98-34993694974b@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8&security=reality&sid=22730c666bd10642&sni=api-maps.yandex.ru&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23184
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@161.104.90.17:443?encryption=none&fp=ios&pbk=itfYOjWaEZ8FSD730zUvrhCbbzWgSWFDXjnAWCj23Rc&security=reality&sid=e371d988&sni=www.samsung.com&spx=%2F&type=raw#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23303
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия 25 | [WL]
