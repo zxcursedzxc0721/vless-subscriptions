@@ -1,9 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-06T19:01:10.193Z
-# Configs: 4
+# Updated: 2026-08-06T20:01:13.201Z
+# Configs: 3
 
 vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%232
-vless://9b4c96f9-60e8-4694-b069-c46992390555@51.250.47.71:443?encryption=none&path=%2Fwebsocket&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2358
-vless://59f35135-8361-49f2-b782-13857593b349@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23127
-vless://f7c24812-d841-46cd-ac9c-05ff6248236b@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zYJherUg8rsyTsumgWLweMea_Tp2j4ZpVuRlskKTwiY&security=reality&sid=92df5620ac107be4&sni=ads.x5.ru&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23317
+vless://342cad3e-8cee-4740-87b9-2bea663dd8ad@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23114
+vless://894f2b1d-2ce1-41ff-adbb-7cef46144c51@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&security=reality&sid=5b1dde1bbe5b42b4&sni=smartcaptcha.yandexcloud.net&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23272
