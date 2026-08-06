@@ -1,10 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-06T11:01:08.628Z
-# Configs: 5
+# Updated: 2026-08-06T12:01:08.070Z
+# Configs: 3
 
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%235
-vless://9b4c96f9-60e8-4694-b069-c46992390555@51.250.47.71:443?encryption=none&path=%2Fwebsocket&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2379
-vless://fc2c122f-574d-439e-b0fd-b1310edce833@51.250.66.16:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=ads.x5.ru&spx=%2F&type=raw#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23191
-vless://7fdf9bbb-96f1-415f-aee7-ecb20632d1a7@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&security=reality&sid=5b1dde1bbe5b42b4&sni=smartcaptcha.yandexcloud.net&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23215
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@161.104.90.17:443?encryption=none&fp=ios&pbk=itfYOjWaEZ8FSD730zUvrhCbbzWgSWFDXjnAWCj23Rc&security=reality&sid=e371d988&sni=www.samsung.com&spx=%2F&type=raw#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23493
+vless://9b4c96f9-60e8-4694-b069-c46992390555@51.250.47.71:443?encryption=none&fp=chrome&host=cloudflare.vhub.pro&path=%2Fwebsocket&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2360
+vless://f1f2f7ef-4c41-45fb-a80b-f94fff6e3199@51.250.82.20:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=api-maps.yandex.ru&spx=%2F&type=raw#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23203
+vless://d51ee2d3-b7b9-457d-b7b1-812e9071f372@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zYJherUg8rsyTsumgWLweMea_Tp2j4ZpVuRlskKTwiY&security=reality&sid=92df5620ac107be4&sni=ads.x5.ru&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23474
