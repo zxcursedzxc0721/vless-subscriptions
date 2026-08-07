@@ -1,11 +1,11 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-07T00:01:08.586Z
+# Updated: 2026-08-07T01:01:13.318Z
 # Configs: 6
 
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.9.12.121:443?type=xhttp&security=reality&pbk=iudzEpcjL_9hNvn7rf05GwUfV5zMpf8TSumBNo4VLTM&sid=b30a30f0&sni=www.tradingview.com&path=%2F630fdd2a-0f82-4a85-9ecf-7f490b9e8c24&mode=auto&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%232
-vless://ec3ca124-3e47-4657-b7a3-f34dd4a1f2b8@51.250.7.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&security=reality&sid=27e53bbcab7593d7&sni=yandex.ru&spx=%2F&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23123
-vless://06a27fbb-f915-4328-988d-1e41a84c828a@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23137
-vless://12880574-abb6-4bf7-b28b-792aa1f6dd60@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8&security=reality&sid=22730c666bd10642&sni=api-maps.yandex.ru&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23186
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@161.104.90.17:443?encryption=none&fp=ios&pbk=itfYOjWaEZ8FSD730zUvrhCbbzWgSWFDXjnAWCj23Rc&security=reality&sid=e371d988&sni=www.samsung.com&spx=%2F&type=raw#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23301
+vless://cc3b58de-9fcf-4cca-815c-7fa305e22899@51.250.7.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&security=reality&sid=27e53bbcab7593d7&sni=yandex.ru&spx=%2F&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23128
+vless://4dc6340c-7bc6-4a2f-8cbc-2383900b8e71@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23147
+vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@161.104.18.163:8880?encryption=none&host=cnd.finland2.2.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23167
+vless://5dd7cff8-d1cc-4618-b7e4-af91ad0d0703@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&security=reality&sid=5b1dde1bbe5b42b4&sni=smartcaptcha.yandexcloud.net&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23315
