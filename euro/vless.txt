@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-09T13:00:30.448Z
+# Updated: 2026-08-09T14:00:31.873Z
 # Configs: 2
 
 vless://b1cf484e-651f-432b-b086-f148e010669e@161.104.17.189:8880?type=ws&path=%2Frutube&host=rutube.ummapeople.online&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
