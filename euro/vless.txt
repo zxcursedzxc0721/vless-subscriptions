@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-10T09:00:30.663Z
+# Updated: 2026-08-10T10:00:30.867Z
 # Configs: 3
 
 vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.14.31:443?security=reality&encryption=none&pbk=dqNf0WzsieOO2lPrm_clopblTaFeX9xHNwWsaUY9CC0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bestrecipes-online.site&sid=ec35d84c1661b372#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
