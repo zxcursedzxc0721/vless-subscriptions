@@ -1,9 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-10T07:00:30.597Z
-# Configs: 4
+# Updated: 2026-08-10T08:00:30.508Z
+# Configs: 2
 
-vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:6443?encryption=none&security=reality&sni=maps.apple.com&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&type=grpc&authority=&serviceName=your-custom-path&mode=gun&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.14.31:443?security=reality&encryption=none&pbk=dqNf0WzsieOO2lPrm_clopblTaFeX9xHNwWsaUY9CC0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bestrecipes-online.site&sid=ec35d84c1661b372#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://b1cf484e-651f-432b-b086-f148e010669e@161.104.17.189:8880?type=ws&path=%2Frutube&host=rutube.ummapeople.online&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
