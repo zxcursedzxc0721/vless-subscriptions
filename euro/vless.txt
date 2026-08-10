@@ -1,8 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-10T21:00:30.543Z
-# Configs: 7
+# Updated: 2026-08-10T22:00:30.433Z
+# Configs: 8
 
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@51.250.78.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&pbk=S9wjXFiaNV25ogTVg_jxSN3_sZMKvky7QEaMazEBslM&sid=958171c6fbfad8d5&packetEncoding=xudp&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20YA
 vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%236
 vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2338
 vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.14.31:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=dqNf0WzsieOO2lPrm_clopblTaFeX9xHNwWsaUY9CC0&security=reality&sid=ec35d84c1661b372&sni=bestrecipes-online.site&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20Hosting%20%E2%80%94%20%2365
