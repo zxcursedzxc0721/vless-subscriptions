@@ -1,10 +1,11 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-12T05:00:30.731Z
-# Configs: 5
+# Updated: 2026-08-12T06:00:31.912Z
+# Configs: 6
 
-vless://29599e53-9f62-44f2-9888-65b70ca63651@45.151.101.194:443?type=xhttp&security=reality&path=%2Fapi%2Fv2%2Fsync&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.kaspersky.ru&pbk=nmdu3rhLXUr8KzGtN_0D4Zc5JS1V8t9S4_iDXvtWk2I&sid=6bf03e9d7a1c8524&encryption=none&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-vless://d80cd696-ec21-4afd-ad8e-cb65893535a4@144.31.238.115:2443?encryption=none&security=reality&sni=ads.x5.ru&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=ef567890&type=grpc&serviceName=grpc&packetEncoding=xudp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
+vless://29599e53-9f62-44f2-9888-65b70ca63651@45.151.101.194:443?type=xhttp&security=reality&path=%2Fapi%2Fv2%2Fsync&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.kaspersky.ru&pbk=nmdu3rhLXUr8KzGtN_0D4Zc5JS1V8t9S4_iDXvtWk2I&sid=6bf03e9d7a1c8524&encryption=none&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://fe5b12dc-08f0-4078-ba02-34d239922a2e@2.27.59.11:12303?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ens3hLP8kjd-Zye3nW1Q_CC2kJFo0PdPbplj9VLwkWg&sid=b06215326af874d6&sni=music.yandex.ru&spx=%2F&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20music.yandex.ru
 vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%235
-vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2377
-vless://7e10c27d-02bd-4d6a-8e9b-8681105147e6@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23162
+vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2365
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:8443?encryption=none&fp=safari&mode=gun&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&security=reality&serviceName=your-custom-path&sid=2da4299da566b7&sni=maps.apple.com&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23213
+vless://228ae2d4-e87c-4965-810a-66af02330802@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&security=reality&sid=5b1dde1bbe5b42b4&sni=smartcaptcha.yandexcloud.net&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23285
