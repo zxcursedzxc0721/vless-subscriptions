@@ -1,8 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-08-12T12:00:33.013Z
-# Configs: 227
+# Updated: 2026-08-12T13:00:32.543Z
+# Configs: 228
 
+vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?type=raw&security=reality&sni=obx1.vypnet.su&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@ru.saint-1store.cv:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Oyd0sn1z_6uNSN6AN63Q7aBq7AUQ1bOsB9MT3FyyiRM&sid=837fa04e73d6b581&sni=www.ya.ru#0049 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@est.vrsvpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&sid=15aa18f971da1f81&sni=web.max.ru#0183 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
