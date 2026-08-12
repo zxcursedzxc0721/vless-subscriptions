@@ -1,10 +1,12 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-12T12:00:33.013Z
-# Configs: 5
+# Updated: 2026-08-12T13:00:32.543Z
+# Configs: 7
 
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.141.172:443?security=reality&type=tcp&sni=media11.abvphelp.cc&pbk=LZyjSvaqbGOe9ELbGAT31gXirkeE294OxksO_-mPk0A&sid=40fdb230&spx=%2F&encryption=none&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?type=ws&security=none&encryption=none&path=%2Fv1&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://489b61b6-e7fa-4254-ad2b-6ac989b75d86@45.152.198.104:25343?type=tcp&headerType=none&security=reality&encryption=none&sni=proxy11.h1guro.ovh&pbk=ibI55x4fumFYQPkdGT5sY7pQn905UF80NuaYuEhfXBg&sid=416d4465d2b70b06&flow=xtls-rprx-vision&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.141.172:443?security=reality&type=tcp&sni=media11.abvphelp.cc&pbk=LZyjSvaqbGOe9ELbGAT31gXirkeE294OxksO_-mPk0A&sid=40fdb230&spx=%2F&encryption=none&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%235
-vless://18b259fe-6ee7-4671-b5d0-5024edefb58d@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23128
-vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:8443?encryption=none&fp=firefox&mode=gun&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&security=reality&serviceName=your-custom-path&sid=2da4299da566b7&sni=maps.apple.com&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23172
+vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2336
+vless://5da0fbc7-5660-4ed7-b6fe-b05ee0b17042@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23135
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:8443?encryption=none&fp=firefox&mode=gun&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&security=reality&serviceName=your-custom-path&sid=2da4299da566b7&sni=maps.apple.com&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%E2%80%94%20%23189
+vless://3260407d-8ecf-4d7c-9501-2c8e99956d68@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zYJherUg8rsyTsumgWLweMea_Tp2j4ZpVuRlskKTwiY&security=reality&sid=92df5620ac107be4&sni=ads.x5.ru&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23249
