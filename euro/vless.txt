@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-13T00:00:34.338Z
+# Updated: 2026-08-13T01:00:32.107Z
 # Configs: 6
 
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.141.172:443?security=reality&type=tcp&sni=media11.abvphelp.cc&pbk=LZyjSvaqbGOe9ELbGAT31gXirkeE294OxksO_-mPk0A&sid=40fdb230&spx=%2F&encryption=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
