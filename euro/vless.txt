@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-13T13:00:35.710Z
+# Updated: 2026-08-13T14:00:33.010Z
 # Configs: 4
 
 vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443?type=tcp&security=reality&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&sni=cloudflare.com&sid=15&flow=xtls-rprx-vision&spx=%2F&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D
 vless://792bf655-fd87-4b54-8a18-f0e0e0b95eff@146.255.188.164:443?type=tcp&security=reality&pbk=ptxofoopyTPBZYp8iC-3x4V-GfN05OzYO9YH4ItnWXo&sni=ads.x5.ru&sid=84&flow=xtls-rprx-vision&spx=%2F&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%235
-vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2378
+vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2383
+vless://766cf67e-03fb-4c59-996a-d5fa79c2e0e6@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23151
