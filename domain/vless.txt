@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-08-14T05:00:32.422Z
+# Updated: 2026-08-14T06:00:33.142Z
 # Configs: 232
 
 vless://80bd9045-a93a-4065-86a9-02e9401b8f73@tunelio.ciphero.xyz:443?security=reality&encryption=none&sni=tunelio.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
