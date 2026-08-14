@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-08-14T00:00:32.722Z
+# Updated: 2026-08-14T01:00:33.432Z
 # Configs: 231
 
 vless://36da9d41-80de-4e14-8d68-a5ecb032af71@ncd.crsmaps.com:443?type=ws&security=tls&encryption=none&sni=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522359&host=ncd.crsmaps.com&fp=edge#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D
