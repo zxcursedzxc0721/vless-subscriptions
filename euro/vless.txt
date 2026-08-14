@@ -1,10 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-14T09:00:37.047Z
-# Configs: 5
+# Updated: 2026-08-14T10:00:36.825Z
+# Configs: 3
 
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.141.172:443?security=reality&pbk=LZyjSvaqbGOe9ELbGAT31gXirkeE294OxksO_-mPk0A&sid=40fdb230&sni=media11.abvphelp.cc&type=tcp&headerType=none&host=media11.abvphelp.cc&path=%2F&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2384
-vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&security=reality&sid=15&sni=cloudflare.com&spx=%2F&type=raw#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%E2%80%94%20%23101
-vless://0a8f5ff6-a5e6-4b55-ad6a-33eb3e3c8895@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23161
-vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=neW65LaKi88zH-X9gRQPhl5YqQLz9E4IrVnOpS4BnkU&security=reality&sid=45b10e93bc618c2c&sni=www.cloudflare.com&type=raw#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23191
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.141.172:443/?type=tcp&encryption=none&flow=&sni=media11.abvphelp.cc&security=reality&pbk=LZyjSvaqbGOe9ELbGAT31gXirkeE294OxksO_-mPk0A&sid=40fdb230&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2392
+vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&security=reality&sid=15&sni=cloudflare.com&spx=%2F&type=raw#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%E2%80%94%20%23113
