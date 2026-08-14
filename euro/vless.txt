@@ -1,9 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-14T00:00:32.722Z
-# Configs: 4
+# Updated: 2026-08-14T01:00:33.432Z
+# Configs: 3
 
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%2312
-vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2389
-vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&security=reality&sid=15&sni=cloudflare.com&spx=%2F&type=raw#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%E2%80%94%20%23111
-vless://dd22d24b-5466-4b5b-b448-b2174faede52@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23165
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%2310
+vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2394
+vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&security=reality&sid=15&sni=cloudflare.com&spx=%2F&type=raw#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%E2%80%94%20%23119
