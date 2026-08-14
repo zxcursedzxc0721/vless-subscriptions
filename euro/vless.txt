@@ -1,10 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-13T23:00:34.229Z
-# Configs: 5
+# Updated: 2026-08-14T00:00:32.722Z
+# Configs: 4
 
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%237
-vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2387
-vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&security=reality&sid=15&sni=cloudflare.com&spx=%2F&type=raw#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%E2%80%94%20%23103
-vless://5793d5f0-7829-4782-8818-6056187839ff@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23157
-vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=neW65LaKi88zH-X9gRQPhl5YqQLz9E4IrVnOpS4BnkU&security=reality&sid=45b10e93bc618c2c&sni=www.cloudflare.com&type=raw#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23203
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%2312
+vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2389
+vless://7007f4fb-b059-41e1-a8f0-d6df6bc803ac@2.27.54.187:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lSuq5s560VLvzELn2cTjWpT1IcL9rlgFOOCkxu_HN1M&security=reality&sid=15&sni=cloudflare.com&spx=%2F&type=raw#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%E2%80%94%20%23111
+vless://dd22d24b-5466-4b5b-b448-b2174faede52@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23165
