@@ -1,12 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-15T03:00:30.735Z
-# Configs: 7
+# Updated: 2026-08-15T04:00:31.924Z
+# Configs: 3
 
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@161.104.16.112:8880?type=ws&security=none&encryption=none&path=%2Fcdn%2Fassets%2Fstream&host=cnd.finland2.2.myfilecdn.com&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@161.104.18.163:8880?type=ws&security=none&encryption=none&path=%2Fcdn%2Fassets%2Fstream&host=cnd.finland2.2.myfilecdn.com&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@134.0.116.208:9878?type=grpc&headerType=none&security=reality&encryption=none&sni=dl.google.com&fp=edge&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&serviceName=grpc-tunnel#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://4a334454-22f7-0002-9bec-583e1e8a2773@51.250.7.143:2096?encryption=none&fp=firefox&mode=gun&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&serviceName=grpc&sid=1ed136481e0ede74&sni=an.yandex.ru&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
-vless://4a334454-22f7-491b-9bec-583e1e8a2773@51.250.7.143:2096?encryption=none&fp=firefox&mode=gun&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&serviceName=grpc&sid=1ed136481e0ede74&sni=strm.yandex.net&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 vless://de6d11a5-d833-4f18-a4f9-464b80f0f864@205.237.104.58:4443?encryption=none&fp=firefox&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&security=reality&serviceName=grpc-service&sid=361c68748712c743&sni=dev.max.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20dev.max.ru
-vless://40cf07b0-01d0-4898-a4cd-b6533210f087@144.31.127.203:8443?encryption=none&type=xhttp&security=reality&sni=api.vk.ru&pbk=FMa1j8qQTn98uxWeoHiAWQxP_pPD2r7x3bjKjT83-yM&sid=144f524372a89dcd&fp=firefox&path=%2Fapi%2Fv1%2Ffeed&host=api.vk.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20api.vk.ru
+vless://4a334454-22f7-491b-9bec-583e1e8a2773@51.250.7.143:2096?encryption=none&fp=chrome&mode=gun&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&serviceName=grpc&sid=1ed136481e0ede74&sni=an.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2310
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%2320
