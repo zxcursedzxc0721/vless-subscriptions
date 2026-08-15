@@ -1,10 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-15T13:00:30.903Z
+# Updated: 2026-08-15T14:00:31.232Z
 # Configs: 5
 
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@134.0.116.208:9878?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://de6d11a5-d833-4f18-a4f9-464b80f0f864@205.237.104.58:4443?encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&security=reality&serviceName=grpc-service&sid=361c68748712c743&sni=dev.max.ru&type=grpc&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20dev.max.ru
 vless://40cf07b0-01d0-4898-a4cd-b6533210f087@144.31.127.203:8443?host=api.vk.ru&path=%2Fapi%2Fv1%2Ffeed&pbk=FMa1j8qQTn98uxWeoHiAWQxP_pPD2r7x3bjKjT83-yM&security=reality&sid=144f524372a89dcd&sni=api.vk.ru&type=xhttp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20api.vk.ru
 vless://6413aa86-6eb4-45a8-87ca-24b0227159b7@144.31.127.203:8443?encryption=none&type=xhttp&path=%2Fapi%2Fv1%2Ffeed&host=api.vk.ru&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%22300-500%22%2C%22maxConcurrency%22%3A%224-8%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%7D&security=reality&sni=api.vk.ru&pbk=FMa1j8qQTn98uxWeoHiAWQxP_pPD2r7x3bjKjT83-yM&sid=144f524372a89dcd&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20api.vk.ru
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%237
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%238
