@@ -1,8 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-15T04:00:31.924Z
-# Configs: 3
+# Updated: 2026-08-15T05:00:31.740Z
+# Configs: 2
 
 vless://de6d11a5-d833-4f18-a4f9-464b80f0f864@205.237.104.58:4443?encryption=none&fp=firefox&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&security=reality&serviceName=grpc-service&sid=361c68748712c743&sni=dev.max.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20dev.max.ru
-vless://4a334454-22f7-491b-9bec-583e1e8a2773@51.250.7.143:2096?encryption=none&fp=chrome&mode=gun&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&serviceName=grpc&sid=1ed136481e0ede74&sni=an.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2310
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%2320
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%2313
