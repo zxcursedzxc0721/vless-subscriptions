@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-16T04:00:37.049Z
+# Updated: 2026-08-16T05:00:36.754Z
 # Configs: 9
 
 vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@161.104.16.112:8880?type=ws&security=none&encryption=none&path=%2Fcdn%2Fassets%2Fstream&host=cnd.finland2.2.myfilecdn.com&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
