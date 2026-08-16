@@ -1,11 +1,12 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-16T00:00:36.905Z
-# Configs: 6
+# Updated: 2026-08-16T01:00:36.353Z
+# Configs: 7
 
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@134.0.116.208:9878?encryption=none&fp=edge&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@134.0.116.208:9878?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://994fcbac-4433-4ea3-b42b-9073037ab5fa@45.9.14.159:38444?type=xhttp&security=reality&encryption=none&sni=max.ru&path=%2Fassets%2Ff11e6a35d9be8565dc73bbb1&pbk=z6CzPNecp20sehGM6VjzL2C-vvKXqfiDKbfsTiUbJW0&sid=aaaa&mode=packet-up&spx=%2F&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://ead060e5-21f9-5369-b9f9-175ab7faa20f@191.44.32.103:5000?encryption=none&flow=xtls-rprx-vision&pbk=SLrTZEGZV42hDpfoCkqPZwwVK2V57Db3y6LxKbxexGU&security=reality&sid=ec4a18&sni=www.vk.com&spx=%2F1rlps4jHgkaq01i&type=tcp&fp=firefox#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5BSNI-RU%5D%20www.vk.com
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&type=ws&path=/v1&packetEncoding=xudp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+vless://ead060e5-21f9-5369-b9f9-175ab7faa20f@191.44.32.103:5000?encryption=none&flow=xtls-rprx-vision&pbk=SLrTZEGZV42hDpfoCkqPZwwVK2V57Db3y6LxKbxexGU&security=reality&sid=ec4a18&sni=www.vk.com&spx=%2F1rlps4jHgkaq01i&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5BSNI-RU%5D%20www.vk.com
+vless://62b72631-985d-4768-8b5a-7cc06753e0f0@205.237.104.58:4443?encryption=none&fp=firefox&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&security=reality&serviceName=grpc-service&sid=361c68748712c743&sni=dev.max.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20dev.max.ru
 vless://896002a8-3afc-49e6-8fac-5129fb717b49@205.237.104.58:4443?encryption=none&fp=firefox&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&security=reality&serviceName=grpc-service&sid=361c68748712c743&sni=dev.max.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20dev.max.ru
 vless://de6d11a5-d833-4f18-a4f9-464b80f0f864@205.237.104.58:4443?encryption=none&fp=firefox&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&security=reality&serviceName=grpc-service&sid=361c68748712c743&sni=dev.max.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20dev.max.ru
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%238
