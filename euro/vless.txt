@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-17T15:02:05.412Z
+# Updated: 2026-08-17T16:01:36.980Z
 # Configs: 9
 
 vless://6a0a3a97-f063-5599-b5fa-2b5ad599a683@132.243.207.38:5000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0qifn7FGo1Fv6bAhw29gy5SmVHcWarBfIHTUPOwpXVs&sid=6a68f5b95265&sni=www.vk.com#0224 | 🇬🇧 United Kingdom | 🏳️ SNI-VK | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
