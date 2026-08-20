@@ -1,10 +1,12 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-20T07:01:06.752Z
-# Configs: 5
+# Updated: 2026-08-20T08:01:07.692Z
+# Configs: 7
 
+vless://4829c2f5-f45a-4330-9b3c-d381b9efdbec@104.143.201.196:443?authority=id.pervye.ru&encryption=none&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&security=reality&serviceName=ns&sni=id.pervye.ru&type=grpc&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://5ca83936-136d-4314-8453-4ba10a86cf60@51.250.4.141:8443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2390
 vless://b9dcfc57-1c53-401d-8450-75e0791e8514@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23134
 vless://e0c09115-cf72-4bfa-accc-05437c6e1802@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zYJherUg8rsyTsumgWLweMea_Tp2j4ZpVuRlskKTwiY&security=reality&sid=92df5620ac107be4&sni=ads.x5.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23142
 vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=neW65LaKi88zH-X9gRQPhl5YqQLz9E4IrVnOpS4BnkU&security=reality&sid=45b10e93bc618c2c&sni=www.cloudflare.com&type=raw#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23192
 vless://994fcbac-4433-4ea3-b42b-9073037ab5fa@45.9.14.159:38444?encryption=none&extra=null&fp=chrome&mode=packet-up&path=%2Fassets%2Ff11e6a35d9be8565dc73bbb1&pbk=z6CzPNecp20sehGM6VjzL2C-vvKXqfiDKbfsTiUbJW0&security=reality&sid=aaaa&sni=max.ru&spx=%2F&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23222
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Aeza%20Group%20%E2%80%94%20%231
