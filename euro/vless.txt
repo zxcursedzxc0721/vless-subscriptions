@@ -1,10 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-22T18:01:04.958Z
-# Configs: 7
+# Updated: 2026-08-22T19:01:06.075Z
+# Configs: 6
 
-vless://663836b2-f676-43fb-977f-47c495b1b383@45.144.48.223:443?encryption=none&flow=xtls-rprx-vision&pbk=rgVwK1tNuKMOuTY2ZLXoV511cXPO-L8mXTq0jhG5_WU&security=reality&sid=3476d0c6139ad353&sni=st.ozone.ru&type=tcp&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20st.ozone.ru
-vless://663836b2-f676-43fb-977f-47c495b1b383@45.144.51.101:443?encryption=none&flow=xtls-rprx-vision&pbk=rgVwK1tNuKMOuTY2ZLXoV511cXPO-L8mXTq0jhG5_WU&security=reality&sid=3476d0c6139ad353&sni=st.ozone.ru&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20st.ozone.ru
+vless://663836b2-f676-43fb-977f-47c495b1b383@45.144.51.101:443?encryption=none&flow=xtls-rprx-vision&pbk=rgVwK1tNuKMOuTY2ZLXoV511cXPO-L8mXTq0jhG5_WU&security=reality&sid=3476d0c6139ad353&sni=st.ozone.ru&type=tcp&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20st.ozone.ru
 vless://ef686c43-eab9-4a1e-a55b-74e212ba5d0c@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2392
 vless://b5278aad-86f0-4a3c-af34-27419c9ecc2c@51.250.82.20:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=api-maps.yandex.ru&spx=%2F&type=raw#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23126
 vless://994fcbac-4433-4ea3-b42b-9073037ab5fa@45.9.14.159:38444?encryption=none&extra=null&fp=chrome&mode=packet-up&path=%2Fassets%2Ff11e6a35d9be8565dc73bbb1&pbk=z6CzPNecp20sehGM6VjzL2C-vvKXqfiDKbfsTiUbJW0&security=reality&sid=aaaa&sni=max.ru&spx=%2F&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23169
