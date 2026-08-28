@@ -1,8 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-28T19:01:07.265Z
-# Configs: 12
+# Updated: 2026-08-28T20:01:06.414Z
+# Configs: 14
 
+vless://01b32226-fa15-4bd5-8824-b0577a3f8973@51.250.86.16:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2372
+vless://01b32226-fa15-4bd5-8824-b0577a3f8973@51.250.90.49:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2385
 vless://9fd78c11-d331-4c1d-ba6c-046e970c1464@147.45.134.184:8443?type=tcp&security=reality&fp=firefox&pbk=FnoA9F_919MbdRH1bFYENR1Yl9C0MeDdb47rZ4R-IGo&sid=dd910a5b30&sni=dzen.ru#0093 | 🇳🇱 Netherlands | 🏳️ SNI-DZEN | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:2053?type=tcp&security=reality&fp=chrome&pbk=EDeWEPBq0QDOPp73PNVlaV2EWaEBWhgBcNy3MROgZ00&sid=04b38b6b152a1b0b&sni=wildberries.ru#0339 | 🇩🇪 Germany | 🏳️ SNI-Wildberries | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.66.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=TXwYCrwkhTEeqtxTf3ZYmXNwYcmVtR9eVXJRo7Kvxmk&sid=8c5041b3&sni=api-maps.yandex.ru#1052 | 🇨🇿 Czechia | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
