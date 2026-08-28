@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-28T16:01:06.305Z
-# Configs: 13
+# Updated: 2026-08-28T17:01:06.157Z
+# Configs: 12
 
 vless://ae5a5936-17cc-48fe-b8f2-eeb538f52163@51.250.90.49:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23100
 vless://13b54a52-a29f-4737-9941-26f54a4f87c4@2.26.90.15:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&sni=www.yandex.ru#0148 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
@@ -12,7 +12,6 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?type=tcp&security
 vless://9fd78c11-d331-4c1d-ba6c-046e970c1464@147.45.134.184:8443?type=tcp&security=reality&fp=firefox&pbk=FnoA9F_919MbdRH1bFYENR1Yl9C0MeDdb47rZ4R-IGo&sid=dd910a5b30&sni=dzen.ru#2322 | 🇳🇱 Netherlands | 🏳️ SNI-DZEN | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:8443?type=tcp&security=reality&fp=firefox&pbk=UQ6dyuQKvCZjFH3BiGswrecUsrptDXQ67dvKFuQC5DA&sid=74933f39a9693c&sni=yandex.ru#2578 | 🇮🇹 Italy | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://40205ae5-d30f-4216-b2e0-0506dbbd382e@2.26.100.192:445?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM&sid=c226283c4de5b1ad&sni=ads.x5.ru&packetEncoding=none#4187 | 🇫🇮 Finland | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.66.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=TXwYCrwkhTEeqtxTf3ZYmXNwYcmVtR9eVXJRo7Kvxmk&sid=8c5041b3&sni=api-maps.yandex.ru#4782 | 🇨🇿 Czechia | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?security=reality&encryption=none&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&headerType=none&fp=firefox&type=tcp&sni=mirror.yandex.ru&sid=d94e8f45#🇳🇱 Obhod WBL | mirror.yandex.ru
 vless://2c5268a3-4d6b-43ec-8930-a5de3d3cbbb7@45.8.228.173:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zl_9lzG7OEYb9p6gLEvuF4U5Qvx0c7a4HhSTiQDexg8&security=reality&sni=dzen.ru&type=tcp#🇵🇱 Obhod WBL | dzen.ru
 vless://994fcbac-4433-4ea3-b42b-9073037ab5fa@45.9.14.159:38444?encryption=none&extra=null&fp=chrome&mode=packet-up&path=%2Fassets%2Ff11e6a35d9be8565dc73bbb1&pbk=z6CzPNecp20sehGM6VjzL2C-vvKXqfiDKbfsTiUbJW0&security=reality&sid=aaaa&sni=max.ru&spx=%2F&type=xhttp#🇳🇱 Obhod WBL | max.ru
