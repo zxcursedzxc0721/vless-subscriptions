@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-08-30T11:01:05.554Z
+# Updated: 2026-08-30T12:01:05.572Z
 # Configs: 10
 
 vless://4ca27679-dbac-4bfa-bada-508888189e8d@51.250.41.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&security=reality&sid=27e53bbcab7593d7&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA
