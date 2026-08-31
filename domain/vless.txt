@@ -1,8 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-08-31T14:01:05.972Z
-# Configs: 536
+# Updated: 2026-08-31T15:01:06.660Z
+# Configs: 538
 
+vless://2f600710-9f4e-4eab-8de1-89f60a878e55@svctl1.jarvesitw.ru:2053?encryption=none&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=9pnT4mQOSTtEJFSpq5oFCl7dvdOVDl8Kha2elOG01Wc&sid=547f53b7&spx=%2F&flow=xtls-rprx-vision&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@ru.opngtr.nl:443?type=tcp&security=reality&pbk=X5QCQAU6PhQ0ZYdMfsOD8SzK2tAcKqGbqHcGKOCkHg0&sid=3e70d4cbb01bddfd&sni=ru.savesafe.cc&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://1a12bfb1-6104-4329-9456-4d5f3842cb7b@gertest.nekosocks.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=gertest.nekosocks.com&pbk=5HK6AhUPIiVxSCT12HkhlxqfSBaPh6UPqONgMAlSKD0&sid=f34a04185a7a081e#%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%2024%20%D1%87%D0%B0%D1%81%D0%B0
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443/?type=tcp&encryption=none&flow=&sni=ads.x5.ru&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn&fp=chrome&security=reality&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://6dfc9149-1ff9-41c3-8563-0ef284381731@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=1374bddeb25d&sni=www.tradingview.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
