@@ -3,13 +3,13 @@
     "id": "all",
     "name": "ALL",
     "flag": "🏳️",
-    "count": 2556
+    "count": 2551
   },
   {
     "id": "euro",
     "name": "EURO",
     "flag": "🏳️",
-    "count": 17
+    "count": 19
   },
   {
     "id": "ru",
@@ -27,7 +27,7 @@
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 566
+    "count": 561
   },
   {
     "id": "se",
@@ -45,13 +45,13 @@
     "id": "de",
     "name": "Германия",
     "flag": "🇩🇪",
-    "count": 11
+    "count": 13
   },
   {
     "id": "us",
     "name": "США",
     "flag": "🇺🇸",
-    "count": 10
+    "count": 8
   },
   {
     "id": "il",
