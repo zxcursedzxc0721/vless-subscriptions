@@ -1,11 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-01T21:01:06.429Z
+# Updated: 2026-09-01T22:01:08.147Z
 # Configs: 550
 
-vless://bd7501b8-5c29-4b4d-a060-76446349c835@bz11.wba-pn.ru:2053?type=ws&security=tls&sni=bz11.wba-pn.ru&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-vless://a53839e6-36df-43bd-a381-da93ee4e8118@media-bs22-f53l.mx.yndx-cdn.com:20443?type=tcp&headerType=none&security=reality&encryption=none&sni=player.mx.yndx-cdn.com&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&spx=%2F&flow=xtls-rprx-vision&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D
+vless://bd7501b8-5c29-4b4d-a060-76446349c835@bz11.wba-pn.ru:2053?type=ws&security=tls&sni=bz11.wba-pn.ru&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#0906 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s299.kukuss.top:18153?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u643766u3f35bd4ds298.wagahaha.xyz#1058 | 🌐 Unknown | 🏳️ CIDR-OLD | VLESS | TG: @YoutubeUnBlockRu
@@ -553,3 +551,5 @@ vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&securit
 vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?fp=firefox&security=tls&sni=vk.com&type=ws&allowInsecure=1&insecure=1#🇷🇺 Obhod WBL | vk.com
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&security=tls&sni=vk.com&fp=chrome#🇳🇱 Obhod WBL | vk.com
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
+vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun&fp=android#ð³ð± NL - 002
+vless://a53839e6-36df-43bd-a381-da93ee4e8118@media-bs22-f53l.mx.yndx-cdn.com:20443?type=tcp&headerType=none&security=reality&encryption=none&sni=player.mx.yndx-cdn.com&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&spx=%2F&flow=xtls-rprx-vision&fp=chrome#ð XX - 005
