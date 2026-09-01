@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-01T03:01:06.016Z
+# Updated: 2026-09-01T04:01:05.744Z
 # Configs: 549
 
 vless://f7bb615a-ea5d-4823-8158-f57dca98a87a@api.yandex-dev.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.yandex-dev.online&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%5B%2ACIDR%5D
