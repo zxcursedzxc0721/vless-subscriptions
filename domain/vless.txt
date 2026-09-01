@@ -1,11 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-01T08:01:05.644Z
-# Configs: 549
+# Updated: 2026-09-01T09:01:06.762Z
+# Configs: 547
 
-vless://a435200f-b7e8-4994-b0e8-93744c260d42@fast.news.gazette.help:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=cz.h2.cleanersaz.help&pbk=0FScwLVFXdFyt3PN0vI5sDxlHupfts4ZI1wIy4_mqH0&sid=854c259df41e3148&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@ru.opngtr.nl:443?type=tcp&security=reality&pbk=X5QCQAU6PhQ0ZYdMfsOD8SzK2tAcKqGbqHcGKOCkHg0&sid=3e70d4cbb01bddfd&sni=cdn.savesafe.cc&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@tw-2.kihsuyhf8jkiugsxb.cfd:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=wVab-m6Kbn-m07IbVYXUGMplMtJ47U6SHkpwM8iVb3k&sni=tw-2.kihsuyhf8jkiugsxb.cfd&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#0828 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s299.kukuss.top:18153?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u643766u3f35bd4ds298.wagahaha.xyz#0969 | 🌐 Unknown | 🏳️ CIDR-OLD | VLESS | TG: @YoutubeUnBlockRu
@@ -552,3 +549,4 @@ vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&secur
 vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@bz2.wba-pn.ru:2053?type=ws&security=tls&path=%2F&sni=vk.com&fp=android#🇩🇪 Obhod WBL | vk.com
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@ww3.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#🇷🇺 Obhod WBL | passport.yandex.ru
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@ru.opngtr.nl:443?type=tcp&security=reality&pbk=X5QCQAU6PhQ0ZYdMfsOD8SzK2tAcKqGbqHcGKOCkHg0&sid=3e70d4cbb01bddfd&sni=cdn.savesafe.cc&flow=xtls-rprx-vision&fp=android#ð·ðº RU - 001
