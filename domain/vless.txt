@@ -1,9 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-02T06:01:06.405Z
+# Updated: 2026-09-02T07:01:05.978Z
 # Configs: 549
 
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@ru.opngtr.nl:443?flow=xtls-rprx-vision&pbk=X5QCQAU6PhQ0ZYdMfsOD8SzK2tAcKqGbqHcGKOCkHg0&security=reality&sid=3e70d4cbb01bddfd&sni=cdn.savesafe.cc&type=tcp&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#0683 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s299.kukuss.top:18153?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u643766u3f35bd4ds298.wagahaha.xyz#0808 | 🌐 Unknown | 🏳️ CIDR-OLD | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
@@ -552,3 +551,4 @@ vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&securit
 vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?fp=firefox&security=tls&sni=vk.com&type=ws&allowInsecure=1&insecure=1#🇷🇺 Obhod WBL | vk.com
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&security=tls&sni=vk.com&fp=chrome#🇳🇱 Obhod WBL | vk.com
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@ru.opngtr.nl:443?type=tcp&security=reality&pbk=X5QCQAU6PhQ0ZYdMfsOD8SzK2tAcKqGbqHcGKOCkHg0&sid=3e70d4cbb01bddfd&sni=cdn.savesafe.cc&flow=xtls-rprx-vision&fp=android#ð·ðº RU - 001
