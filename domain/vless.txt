@@ -1,9 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-03T08:01:06.399Z
-# Configs: 559
+# Updated: 2026-09-03T09:01:06.335Z
+# Configs: 555
 
-vless://8f126e1e-2733-43b2-81ad-1fc66a8a1fb0@media-bs22-f53l.mx.yndx-cdn.com:20443?encryption=none&flow=xtls-rprx-vision&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&security=reality&sid=505c94b8c65afb0a&sni=player.mx.yndx-cdn.com&spx=%2F&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@kz2.techdatacloud.org:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&sid=dfbfa87e9f37f1f0&sni=cloud.mail.ru#2213 | 🇰🇿 Kazakhstan | 🏳️ SNI-MAILRU | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://ef413f33-39e6-4143-8084-e65076c2de03@it1.dedushka.top:47050?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=C7bvUEE2_1o8gD-uRY1D3iY5w4KfeLELTmKCcm4V3wo&sid=ef957bcb74957eb4&sni=api-maps.yandex.ru#2316 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
@@ -559,6 +558,3 @@ vless://9adc4114-18c3-4c31-9ef7-b35e87c9d499@pl-dp-01.online:443/?type=tcp&encry
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&security=tls&sni=vk.com&fp=chrome#🇳🇱 Obhod WBL | vk.com
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
-vless://96a0c2b2-c54c-4ed5-9e96-17fd76f2c453@api.irbistelekom.ru:443?type=xhttp&security=tls&host=api.irbistelekom.ru&path=%2Fapi%2Fv3%2Fconnect&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%7D&sni=api.irbistelekom.ru&alpn=http%2F1.1&encryption=none&fp=qq#ð·ðº RU - 001
-vless://adff89a7-bde7-4614-962a-4068a65a655e@cdn11.cloud-cdn.xyz:443?flow=xtls-rprx-vision&headertype=none&pbk=xG6u83MW-QpWnhsmfV77wSlUPyDnrALdKU_hSNwTqxE&security=reality&sid=4c4c46b76c0d436f&sni=d2-de.cloud-s3.xyz&spx=%2F&type=tcp&fp=edge#ð XX - 003
-vless://6eb642a2-f8ee-47cc-9c13-fabb0a50350d@sadcatx.duckdns.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=sadcatx.duckdns.org&alpn=h2%2Chttp%2F1.1&cs=TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256&fp=firefox#ð XX - 033
