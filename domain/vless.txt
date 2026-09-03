@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-03T00:01:09.493Z
+# Updated: 2026-09-03T01:01:07.792Z
 # Configs: 555
 
 vless://adff89a7-bde7-4614-962a-4068a65a655e@cdn11.cloud-cdn.xyz:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=fl.cloud-s3.xyz&pbk=hvf_8QEX4pt-BjtgdiPCb1WsiLHG9Mk46e7oqHi8eCQ&sid=4375ebbdd8c3ae9c&spx=%2F&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
