@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-04T04:01:08.881Z
+# Updated: 2026-09-04T05:01:07.804Z
 # Configs: 556
 
-vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@bs1.whitehost.org:443?security=tls&encryption=none&insecure=0&headerType=none&fp=ios&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wde5.whitedeu.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@bs1.whitehost.org:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wde5.whitedeu.org&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@kz2.techdatacloud.org:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&sid=dfbfa87e9f37f1f0&sni=cloud.mail.ru#2186 | 🇰🇿 Kazakhstan | 🏳️ SNI-MAILRU | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#3960 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
