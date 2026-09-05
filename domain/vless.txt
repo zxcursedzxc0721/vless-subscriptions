@@ -1,10 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-05T02:01:06.986Z
+# Updated: 2026-09-05T03:01:06.083Z
 # Configs: 560
 
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@ns.o11111o.club:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://cf80b5fc-c445-4373-87e6-f8a22ad10d81@ru-i.monkeyisland.xyz:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ru-i.monkeyisland.xyz&alpn=h2&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://cf80b5fc-c445-4373-87e6-f8a22ad10d81@ru-i.monkeyisland.xyz:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ru-i.monkeyisland.xyz&alpn=h2&flow=xtls-rprx-vision&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@ns.o11111o.club:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@parta3.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=parta3.api3-max.ru#0346 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz1.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kamaz1.api3-max.ru#1394 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
