@@ -1,8 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-05T09:01:06.035Z
-# Configs: 560
+# Updated: 2026-09-05T10:01:05.829Z
+# Configs: 561
 
+vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@ns.o11111o.club:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@parta3.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=parta3.api3-max.ru#0498 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz1.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=kamaz1.api3-max.ru#2063 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
@@ -15,6 +16,8 @@ vless://cf80b5fc-c445-4373-87e6-f8a22ad10d81@ru-i.monkeyisland.xyz:443?type=tcp&
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#6933 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s299.kukuss.top:18153?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u643766u3f35bd4ds298.wagahaha.xyz#7917 | 🌐 Unknown | 🏳️ CIDR-OLD | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://1a12bfb1-6104-4329-9456-4d5f3842cb7b@gertest.nekosocks.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=gertest.nekosocks.com&pbk=5HK6AhUPIiVxSCT12HkhlxqfSBaPh6UPqONgMAlSKD0&sid=f34a04185a7a081e#%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%2024%20%D1%87%D0%B0%D1%81%D0%B0
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443/?type=tcp&encryption=none&flow=&sni=ads.x5.ru&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn&fp=chrome&security=reality&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ad790e5f-3e31-43c6-b047-336577a3b3de@node1.ietotozheproidet.site:8443?mode=auto&security=reality&encryption=none&pbk=Kkmh_Pj-uL3j602QnDv68La6V2BtaX08GFm449joNTs&fp=qq&type=xhttp&sni=dowload.max.ru#🇩🇪 Obhod WBL | dowload.max.ru
 vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?security=reality&encryption=none&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cs10210.vk.com&sid=7a5b89ecdb01f781#🌐 Obhod WBL | cs10210.vk.com
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4e07408562be#🇷🇺 Obhod WBL | api-maps.yandex.ru
@@ -29,7 +32,6 @@ vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@est.vrsvpn.com:443?type=tcp&securit
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@kz.vrsvpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Cfi8a4Pk4645E8ZNKIp14GW9DeNivoXYYBG2CHr6wm4&sid=45ba18f116ad1f81&sni=web.max.ru#🇰🇿 Obhod WBL | web.max.ru
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@usa.vrsvpn.com:444?type=grpc&security=reality&fp=firefox&pbk=MF_E-_CYAXdWxC1N_wTkdFyk3K7_1cNqNDPb0vnwl20&sid=8311761729abcdef&sni=web.max.ru&serviceName=web.max.ru#🇺🇸 Obhod WBL | web.max.ru
 vless://15041021-33ff-447e-bdd2-5a6f226f5ba2@de3.vpn-club-service.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yDPh2enztmRE8NH294bVNoILyZaQmZnH1gBvrd9RGQo&sid=a1b2c3d4&sni=help.max.ru#🇩🇪 Obhod WBL | help.max.ru
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@ns.o11111o.club:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#🇩🇪 Obhod WBL | id.vk.com
 vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@kz2.techdatacloud.org:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&sid=dfbfa87e9f37f1f0&sni=cloud.mail.ru#🇷🇺 Obhod WBL | cloud.mail.ru
 vless://0fb084ae-8c3d-46ad-8b04-bf41bca23ea8@a3.buzz-vpn.com:42428?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ccICtTNR2BXmdCzazGcyci16c7O1kJIv6ugDM6xY2XY&sid=24adcebe&sni=eh.vk.com&spx=/#🇩🇪 Obhod WBL | eh.vk.com
 vless://8153a965-34bf-1770-99a6-99a9390fd38a@ing.anti-vpn.ru:52006?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru#🇷🇺 Obhod WBL | max.ru
@@ -246,7 +248,6 @@ vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?fp=firefox&secu
 vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@bz9.wba-pn.ru:2053?fp=chrome&packetEncoding=none&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#🇳🇱 Obhod WBL | speedtest.tinkoff.ru
 vless://a3f59a62-b4ad-4f02-bfce-ef68e63ab6f7@nlxy.korgivps.ru:8443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/user&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#🇳🇱 Obhod WBL | speedtest.tinkoff.ru
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&sni=video.yandex.ru#🇷🇺 Obhod WBL | video.yandex.ru
-vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a#🇷🇺 Obhod WBL | yandex.ru
 vless://217145c8-86d1-47c2-800f-1a85dec46a3c@node2.frost-api.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=01e7&fp=chrome#🇷🇺 Obhod WBL | max.ru
 vless://9f487abf-c202-4eb9-bdb7-314be6ff7c8d@dh4.bazookavpn.ru:5443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=4NNuaXGO3d41JlTFanma4dOCjeIAtrVUNt7tIdO9tXE&sid=a3494a358ec8684e#🇪🇪 Obhod WBL | api-maps.yandex.ru
 vless://9f487abf-c202-4eb9-bdb7-314be6ff7c8d@dh5.bazookavpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.com&fp=qq&pbk=gdhS6mw4lrbfCxdh7ZYYr2vnm-TE8O5xhBR4coyUanM&sid=3d6d8414c15150ef#🇪🇪 Obhod WBL | eh.vk.com
