@@ -1,18 +1,16 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-06T09:01:05.498Z
-# Configs: 562
+# Updated: 2026-09-06T10:01:05.751Z
+# Configs: 560
 
-vless://d4719d52-c3fc-4651-98e1-535dbd77dbcf@cdn2.24lider.ru:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn2.24lider.ru#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-vless://721df957-3c91-439d-b937-0c620d8d56bd@yt3.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=fi1-cosmostechnology.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://721df957-3c91-439d-b937-0c620d8d56bd@yt4.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=fi1-cosmostechnology.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://d4719d52-c3fc-4651-98e1-535dbd77dbcf@cdn2.24lider.ru:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn2.24lider.ru&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#0063 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#0153 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
-vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#2979 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
-vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@pr-media.pepro.site:14443?type=ws&security=tls&fp=chrome&sni=pr-media.pepro.site#3205 | 🌐 Unknown | 🏳️ CIDR-Regru | VLESS | TG: @YoutubeUnBlockRu
-vless://cf80b5fc-c445-4373-87e6-f8a22ad10d81@ru-i.monkeyisland.xyz:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ru-i.monkeyisland.xyz#4032 | 🌐 Unknown | 🏳️ CIDR-IHC | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
-vless://51231507-67c3-4141-ab08-a69eb121c716@yesilove.beer:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U&sid=1688&sni=tradingview.com#6126 | 🌐 Unknown | 🏳️ CIDR-OLD | VLESS | TG: @YoutubeUnBlockRu
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#0066 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#0159 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
+vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#3014 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
+vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@pr-media.pepro.site:14443?type=ws&security=tls&fp=chrome&sni=pr-media.pepro.site#3248 | 🌐 Unknown | 🏳️ CIDR-Regru | VLESS | TG: @YoutubeUnBlockRu
+vless://cf80b5fc-c445-4373-87e6-f8a22ad10d81@ru-i.monkeyisland.xyz:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ru-i.monkeyisland.xyz#4084 | 🌐 Unknown | 🏳️ CIDR-IHC | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
+vless://51231507-67c3-4141-ab08-a69eb121c716@yesilove.beer:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U&sid=1688&sni=tradingview.com#6189 | 🌐 Unknown | 🏳️ CIDR-OLD | VLESS | TG: @YoutubeUnBlockRu
 vless://1a12bfb1-6104-4329-9456-4d5f3842cb7b@gertest.nekosocks.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=gertest.nekosocks.com&pbk=5HK6AhUPIiVxSCT12HkhlxqfSBaPh6UPqONgMAlSKD0&sid=f34a04185a7a081e#%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%2024%20%D1%87%D0%B0%D1%81%D0%B0
 vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=ee1716767f9b&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://6dfc9149-1ff9-41c3-8563-0ef284381731@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=1374bddeb25d&sni=www.tradingview.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
