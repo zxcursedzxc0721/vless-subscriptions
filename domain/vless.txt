@@ -1,12 +1,12 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-06T20:01:05.988Z
-# Configs: 568
+# Updated: 2026-09-06T21:01:05.905Z
+# Configs: 567
 
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@fi.routeliora.ru:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=dzen.ru&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&sid=f2a3b4c5&spx=%2F&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20dzen.ru
-vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast48.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast_s29.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-vless://c4854b1a-ec0f-4c5e-940b-f23c8fd39253@ru-srv-yt.meow.ac:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru-srv-yt.meow.ac&pbk=07XXjhQmPu0cnXX7IRDc65movxzd0XWV2v0W62Xoqgc&sid=6340e9067e86efaf&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast48.slopllex.app:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast_s29.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@game-booster.sowt.app:443?type=ws&headerType=none&security=tls&encryption=none&sni=game-booster.sowt.app&path=%2Fgateway%2Fv1%2Fws%2F6d50d81f0b49c137b1564bce4760eaee&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://d4719d52-c3fc-4651-98e1-535dbd77dbcf@cdn2.24lider.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=cdn2.24lider.ru#1249 | 🌐 Unknown | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#1446 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
@@ -486,7 +486,6 @@ vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@es.alertyagency.com:443?type=tcp&se
 vless://6ed91f07-89b1-4819-b0d8-64393339dca4@itproxy2.lockdwn.com:8443?type=tcp&security=reality&sni=yandex.ru&fp=firefox&pbk=BO3U4MZIyXeRHHKjZjdrAhoEpsdIN-9zk0YHATAJriE&sid=0f#🇩🇪 Obhod WBL | yandex.ru
 vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:24443?fp=qq&pbk=2_W3YdDic4IWl2-ODbRp0k5e4H0VJbyVrk0PmBdVfnc&security=reality&sid=1615ca860be18acd&sni=api-maps.yandex.ru&type=tcp#🇩🇪 Obhod WBL | api-maps.yandex.ru
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@l90909l.vip:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#🇰🇿 Obhod WBL | id.vk.com
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun&fp=android#🇳🇱 Obhod WBL | api-maps.yandex.ru
 vless://57021f5c-8a89-4f87-8c12-e25d3d4d75d4@ru.cncta.net:443?security=reality&encryption=none&pbk=RkjV_1__FGUXN_VA61Gp5R5dgfjk0K5jCbcy92raBUM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.kinopoisk.ru#🇷🇺 Obhod WBL | www.kinopoisk.ru
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@tr.alertyagency.com:443?security=reality&encryption=none&pbk=DAdWhCSXRRcho_XopxBKq2-KDupbSY_i2r-FJCy58kY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=5a3874f1#🇷🇺 Obhod WBL | api-maps.yandex.ru
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@ru2.alertyagency.com:443?security=reality&encryption=none&pbk=A51UvCAHsWrGkjaZQoE0PfHt-owiBxSMRIc8XfxdYkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=fbc7b5b2#🇷🇺 Obhod WBL | api-maps.yandex.ru
@@ -570,4 +569,4 @@ vless://9adc4114-18c3-4c31-9ef7-b35e87c9d499@pl-dp-01.online:443/?type=tcp&encry
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&security=tls&sni=vk.com&fp=chrome#🇳🇱 Obhod WBL | vk.com
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
-vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@game-booster.sowt.app:443?type=ws&headerType=none&security=tls&encryption=none&sni=game-booster.sowt.app&path=%2Fgateway%2Fv1%2Fws%2F6d50d81f0b49c137b1564bce4760eaee&fp=chrome#ð XX - 001
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@fi.routeliora.ru:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=dzen.ru&fp=firefox&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&sid=f2a3b4c5&spx=%2F&flow=xtls-rprx-vision#🇫🇷 Obhod WBL | dzen.ru
