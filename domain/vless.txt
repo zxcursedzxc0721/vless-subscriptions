@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-07T09:00:46.990Z
-# Configs: 557
+# Updated: 2026-09-07T10:01:19.690Z
+# Configs: 558
 
-vless://b2965434-9d33-4eb7-b463-d1043e39092f@cdn5.cloud-vk.com:443?security=reality&encryption=none&pbk=4Z1HpHko94l9nZW0Gbn22VSwb8DexIzNPjHehOALfWM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b23516&fp=chrome#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@stream.benz.ink:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fv2%2Fstream%2Fshamil2&security=tls&sni=stream.benz.ink&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@pr-media.pepro.site:14443?type=ws&security=tls&fp=android&sni=pr-media.pepro.site#0314 | 🌐 Unknown | 🏳️ CIDR-Regru | VLESS | TG: @YoutubeUnBlockRu
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#1308 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
@@ -560,3 +560,4 @@ vless://9adc4114-18c3-4c31-9ef7-b35e87c9d499@pl-dp-01.online:443/?type=tcp&encry
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&security=tls&sni=vk.com&fp=chrome#🇳🇱 Obhod WBL | vk.com
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
+vless://b2965434-9d33-4eb7-b463-d1043e39092f@cdn5.cloud-vk.com:443?security=reality&encryption=none&pbk=4Z1HpHko94l9nZW0Gbn22VSwb8DexIzNPjHehOALfWM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b23516&fp=chrome#ð XX - 003
