@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-09-07T11:01:18.272Z
+# Updated: 2026-09-07T12:01:20.301Z
 # Configs: 5
 
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.9.15.206:443?encryption=none&security=tls&sni=ru05.abvpn.ru&type=ws&path=%2Fwebsocket#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
