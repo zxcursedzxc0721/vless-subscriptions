@@ -1,14 +1,13 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-08T04:01:32.320Z
-# Configs: 560
+# Updated: 2026-09-08T05:01:16.267Z
+# Configs: 559
 
-vless://7a97f64d-5fc7-4011-9028-58d2ba751595@defaultenginedimly.rivetpress.me:443?type=tcp&headerType=none&security=reality&encryption=none&sni=defaultenginedimly.rivetpress.me&pbk=niL0fb-4IaVHr5VCg2yN_5wDTNYEq9W8wi7pDWLPcVg&sid=7505bfa3b6b933e6&flow=xtls-rprx-vision&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-vless://7a97f64d-5fc7-4011-9028-58d2ba751595@cribkisserevict.indigoyarn.art:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cribkisserevict.indigoyarn.art&pbk=ruLdcX4DDyrZGzDhy4Da87fULoIZs5wbpESDpTbALQw&sid=7afc7016631aa46a&flow=xtls-rprx-vision&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://7a97f64d-5fc7-4011-9028-58d2ba751595@turtlethriftsuds.spindlehouse.art:443?type=tcp&headerType=none&security=reality&encryption=none&sni=turtlethriftsuds.spindlehouse.art&pbk=MRh1vF7XBdr5KhoaMOC8BcZJy0xs5ZfD9gwiVyzhN08&sid=79281cd08b6fad6a&flow=xtls-rprx-vision&freeinternet=kizyak_vpn1788832068817&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@asd.coteite.pro:14443?type=ws&headerType=none&security=tls&encryption=none&sni=asd.coteite.pro&alpn=http%2F1.1&path=%2Ftzws&host=asd.coteite.pro&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://7a97f64d-5fc7-4011-9028-58d2ba751595@cribkisserevict.indigoyarn.art:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cribkisserevict.indigoyarn.art&pbk=ruLdcX4DDyrZGzDhy4Da87fULoIZs5wbpESDpTbALQw&sid=7afc7016631aa46a&flow=xtls-rprx-vision&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+vless://7a97f64d-5fc7-4011-9028-58d2ba751595@turtlethriftsuds.spindlehouse.art:443?type=tcp&headerType=none&security=reality&encryption=none&sni=turtlethriftsuds.spindlehouse.art&pbk=MRh1vF7XBdr5KhoaMOC8BcZJy0xs5ZfD9gwiVyzhN08&sid=79281cd08b6fad6a&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#0524 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
+vless://02f3a6a2-289e-4026-8e26-616d47e0914f@asd.coteite.pro:14443?type=ws&security=tls&fp=firefox&sni=asd.coteite.pro#0619 | 🌐 Unknown | 🏳️ CIDR-OLD | VLESS | TG: @YoutubeUnBlockRu
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#5052 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#5693 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@bv.cloudvk.cc:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&sni=dvc.cloudvk.cc#5739 | 🌐 Unknown | 🏳️ CIDR-IHC | VLESS | TG: @YoutubeUnBlockRu
