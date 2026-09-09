@@ -1,10 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-09T19:01:11.701Z
-# Configs: 562
+# Updated: 2026-09-09T20:01:50.705Z
+# Configs: 560
 
-vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@suboard.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=0NNui3jWwyhoR6EeD1opk7vxjRt3UHb039tvaawdRlM&sni=business.vk.ru&sid=4b0fde52e6963ddb&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20business.vk.ru
-vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@ger.frdmhere.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=D3MfcpELMizpiEByQpaDGGpH884n3wlxG6rIRWGNxE4&sni=cdn.s3.yandex.net&sid=c9873d96deef7a1a&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20cdn.s3.yandex.net
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://7e7605df-7493-4dcf-8e1f-76784f2c6613@rude01.sv-dock.me:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=sntQ0HsOXhaye-K7bKrMw1w3cRmjgp0lT5IhP-ngwlU&sid=998432bc&sni=userapi.com#0603 | 🇩🇪 Germany | 🏳️ SNI-VK | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#0661 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
