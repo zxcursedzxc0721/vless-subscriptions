@@ -1,8 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-10T06:00:47.618Z
+# Updated: 2026-09-10T07:00:47.580Z
 # Configs: 561
 
+vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?type=ws&encryption=none&path=%2Fapi%2Fv2%2Fstream#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#0388 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
 vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@mine-host.mcufa.pro:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=on.mcufa.pro#0422 | 🌐 Unknown | 🏳️ CIDR-TimeWeb | VLESS | TG: @YoutubeUnBlockRu
@@ -561,6 +562,5 @@ vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&secur
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
 vless://d08ff8b7-d4a3-4628-9c39-c9c3d256cbf7@nl12.vpnreal.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&pbk=xUBjC2vNXBrDnJ3rVvQl2CYPvugp3VeVC5NN9ukRojU&sid=e3ebde1f3c9c2b7c#🇬🇧 Obhod WBL | eh.vk.com
 vless://84124a40-4b02-4762-a3a6-6cf43f297724@uk1.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#🇬🇧 Obhod WBL | eh.vk.com
-vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?type=ws&encryption=none&path=%2Fapi%2Fv2%2Fstream#ð·ðº RU - 001
 vless://b90470bc-9067-4923-9ba6-a9adfe3c5fdb@racoonpogosnarl.quarrybindery.live:443?security=reality&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&sid=9698d67e63bc8ee0&sni=racoonpogosnarl.quarrybindery.live&fp=edge#ð©ðª DE - 002
 vless://b90470bc-9067-4923-9ba6-a9adfe3c5fdb@laggeddrenchcurly.brackenmount.com:443?flow=xtls-rprx-vision&pbk=WAiUIB-B_atmuRIEIt3ktYfQcG5aswZz8lg1NLiq1U0&security=reality&sid=ef995c2d2092537f&sni=laggeddrenchcurly.brackenmount.com&fp=android#ð XX - 010
