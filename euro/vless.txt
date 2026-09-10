@@ -1,10 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-09-10T01:00:59.678Z
-# Configs: 31
+# Updated: 2026-09-10T02:00:55.001Z
+# Configs: 30
 
-vless://4cec0315-d5d4-4b29-afe4-7f8b8dd94f36@144.31.243.248:443?type=tcp&headerType=none&security=reality&encryption=none&sni=x5.ru&pbk=Snqizwey11Sp7A3JOzYATE-bcWTOPz1uFblMUiZToVY&sid=f3836ba5541bdc9e&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20x5.ru
-vless://4cec0315-d5d4-4b29-afe4-7f8b8dd94f36@2.27.208.253:443?type=tcp&headerType=none&security=reality&encryption=none&sni=x5.ru&pbk=TqsHQWg0oFULyLiaXe9vuwYXmLR6mRLiL376GJbX2Cs&sid=407f4d9be75efc56&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20x5.ru
+vless://4cec0315-d5d4-4b29-afe4-7f8b8dd94f36@144.31.243.248:443?type=tcp&headerType=none&security=reality&encryption=none&sni=x5.ru&pbk=Snqizwey11Sp7A3JOzYATE-bcWTOPz1uFblMUiZToVY&sid=f3836ba5541bdc9e&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20x5.ru
 vless://40205ae5-d30f-4216-b2e0-0506dbbd382e@2.26.100.192:445?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM&sid=c226283c4de5b1ad&sni=ads.x5.ru#0179 | 🇫🇮 Finland | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&sid=1eb8ea8dae937ae0&sni=vk.ru#0409 | 🇫🇷 France | 🏳️ SNI-VK | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#0625 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
