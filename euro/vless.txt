@@ -1,9 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-09-11T00:00:50.816Z
-# Configs: 27
+# Updated: 2026-09-11T01:00:47.486Z
+# Configs: 26
 
-vless://69f7103a-a7dc-4a07-959c-eaa9e50bd656@2.27.209.60:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.yandex.ru&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&spx=%2F&path=%2Fvideo%2Fdownload&host=evovpn.pro&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20www.yandex.ru
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#0366 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://4cec0315-d5d4-4b29-afe4-7f8b8dd94f36@2.27.208.253:443?type=tcp&security=reality&fp=firefox&pbk=TqsHQWg0oFULyLiaXe9vuwYXmLR6mRLiL376GJbX2Cs&sid=407f4d9be75efc56&sni=x5.ru#0615 | 🇳🇱 Netherlands | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://40205ae5-d30f-4216-b2e0-0506dbbd382e@2.26.100.192:445?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM&sid=c226283c4de5b1ad&sni=ads.x5.ru&packetEncoding=none#1183 | 🇫🇮 Finland | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
