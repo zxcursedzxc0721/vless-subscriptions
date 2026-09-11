@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-11T08:00:32.274Z
+# Updated: 2026-09-11T09:00:29.242Z
 # Configs: 559
 
 vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@cindio.ferreo.sbs:443?security=reality&encryption=none&sni=cindio.ferreo.sbs&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&sid=1067b23f928e7618&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
