@@ -1,10 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-11T21:01:02.528Z
+# Updated: 2026-09-11T22:01:00.726Z
 # Configs: 563
 
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
-vless://3c4591f4-769c-4408-9e12-c04fc4edf06c@hamal.yokkastars.com:40443?type=tcp&headerType=none&security=reality&encryption=none&sni=deepl.com&pbk=uXB85uKJnbmWaeA6H5BW1A3w-1oU1lRb_xSec4CqjhU&sid=3b02e1fbf1f34ff2&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://3c4591f4-769c-4408-9e12-c04fc4edf06c@hamal.yokkastars.com:40443?type=tcp&headerType=none&security=reality&encryption=none&sni=deepl.com&pbk=uXB85uKJnbmWaeA6H5BW1A3w-1oU1lRb_xSec4CqjhU&sid=3b02e1fbf1f34ff2&flow=xtls-rprx-vision&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@mine-host.mcufa.pro:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=on.mcufa.pro#0472 | 🌐 Unknown | 🏳️ CIDR-TimeWeb | VLESS | TG: @YoutubeUnBlockRu
 vless://02722550-1915-4629-a653-cbe95e594f70@spark.betust.net:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=qjJPN31kim0dUeXMg2nKMJMkZKIVPtCMMR-4Eb3XEVc&sid=88546590&sni=spark.betust.net#1070 | 🌐 Unknown | 🏳️ CIDR-TimeWeb | VLESS | TG: @YoutubeUnBlockRu
@@ -457,6 +456,7 @@ vless://b2965434-9d33-4eb7-b463-d1043e39092f@cdn5.cloud-vk.com:443?type=tcp&secu
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@fra2.alertyagency.com:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=5isIe0GLddqsEuDcnLop5Ex3q4Ibg_AKpogxAvhLMWs&sid=4501f602&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇫🇷 Obhod WBL | api-maps.yandex.ru
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@uk.alertyagency.com:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=i5_jSoc9DraIlWT7xls9w5PxjeaIjwBS_24nPX_9eGE&sid=051880fe&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇬🇧 Obhod WBL | api-maps.yandex.ru
 vless://cbe5611f-392b-4ec3-9d8b-5bbe59c0fa68@frabridge1.frost-api.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&flow=xtls-rprx-vision&fp=safari#🇷🇺 Obhod WBL | max.ru
+vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun&fp=android#🇳🇱 Obhod WBL | api-maps.yandex.ru
 vless://d2c6735b-1d72-4596-91e6-f0c190ea0ebb@z0211mq18-z3rk.ru-a1.y-tun.com:40443?encryption=none&flow=xtls-rprx-vision&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&security=reality&sid=a1b2c3d4e5f6789a&sni=api-maps.yandex.ru&type=tcp&host=X5x92nOy1n57n5&fp=android#🇷🇺 Obhod WBL | api-maps.yandex.ru
 vless://24ebe7f7-653f-4fd9-95ba-a9ddbba51cdf@yaf2.cyphervpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&type=tcp&headerType=none#🇺🇸 Obhod WBL | max.ru
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@us01.botovod.space:8021?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QV92PYZ07ryeciKT4zkihDa9h-Swv9npq1mgF6dhgnc&sid=3b9ca2bc82d2c603&sni=video.yandex.ru#🇷🇺 Obhod WBL | video.yandex.ru
