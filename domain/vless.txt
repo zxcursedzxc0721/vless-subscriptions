@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-12T17:00:34.939Z
+# Updated: 2026-09-12T18:00:28.990Z
 # Configs: 572
 
 vless://a71ad164-3b29-4dbe-aa66-24d095ca7b6d@app-twa-19.deep-aispb-analytics.com:443?security=reality&encryption=none&pbk=xlNqoESN53Lu1RsEjOAdDLVJDSsiSqRBMOLn5Sv5ZkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=assets-twa-19.deep-aispb-analytics.com&sid=304b62be6101bb5e&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
