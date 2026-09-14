@@ -1,10 +1,11 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-14T01:00:57.120Z
-# Configs: 572
+# Updated: 2026-09-14T02:00:49.759Z
+# Configs: 573
 
-vless://db89d2f0-fda5-40fa-b1e4-3a405624ff28@ventio.ferreo.sbs:443?security=reality&encryption=none&sni=ventio.ferreo.sbs&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&sid=1067b23f928e7618&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://617dc5cf-915f-43b2-a0d4-4057584d9d33@us.us.1kub1.click:2096?encryption=none&type=grpc&serviceName=vless-grpc-reality&security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
+vless://db89d2f0-fda5-40fa-b1e4-3a405624ff28@ventio.ferreo.sbs:443?security=reality&encryption=none&sni=ventio.ferreo.sbs&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&sid=1067b23f928e7618&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://617dc5cf-915f-43b2-a0d4-4057584d9d33@us.us.1kub1.click:2096?encryption=none&type=grpc&serviceName=vless-grpc-reality&security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://15553b23-a621-4dfd-995e-2fe28d124526@yt2.chick-team.ru:8443/?type=xhttp&encryption=none&flow=&path=%2Fxh&mode=auto&extra=%7B%0A++%22scMaxEachPostBytes%22%3A+%22262144%22%2C%0A++%22xmux%22%3A+%7B%0A++++%22maxConcurrency%22%3A+%220%22%2C%0A++++%22maxConnections%22%3A+%222%22%2C%0A++++%22cMaxReuseTimes%22%3A+%220%22%2C%0A++++%22hMaxRequestTimes%22%3A+%22600-900%22%2C%0A++++%22hMaxReusableSecs%22%3A+%22180-300%22%0A++%7D%0A%7D&sni=www.google.com&security=reality&pbk=9ec9h6mJ6hzfrm_EFHPXuZwfN9Tt8USwSyBzETrDil4&sid=ff6ef323f94eda5d&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#0475 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://97ecaad4-452c-45ec-b591-d68d3308aad4@kama1.api3-max.ru:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=kama1.api3-max.ru#2954 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
