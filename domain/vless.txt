@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-14T12:00:29.817Z
-# Configs: 570
+# Updated: 2026-09-14T13:00:40.082Z
+# Configs: 569
 
 vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@ns.o11111o.club:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
@@ -572,4 +572,3 @@ vless://9adc4114-18c3-4c31-9ef7-b35e87c9d499@pl-dp-01.online:443/?type=tcp&encry
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&security=tls&sni=vk.com&fp=chrome#🇳🇱 Obhod WBL | vk.com
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
-vless://db89d2f0-fda5-40fa-b1e4-3a405624ff28@ventio.ferreo.sbs:443?security=reality&encryption=none&sni=ventio.ferreo.sbs&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&sid=1067b23f928e7618&flow=xtls-rprx-vision&fp=android#ð XX - 002
