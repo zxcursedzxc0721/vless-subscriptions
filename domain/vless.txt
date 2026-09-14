@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-14T03:00:49.668Z
+# Updated: 2026-09-14T04:00:44.939Z
 # Configs: 571
 
 vless://15553b23-a621-4dfd-995e-2fe28d124526@yt2.chick-team.ru:8443/?type=xhttp&encryption=none&flow=&path=%2Fxh&mode=auto&extra=%7B%0A++%22scMaxEachPostBytes%22%3A+%22262144%22%2C%0A++%22xmux%22%3A+%7B%0A++++%22maxConcurrency%22%3A+%220%22%2C%0A++++%22maxConnections%22%3A+%222%22%2C%0A++++%22cMaxReuseTimes%22%3A+%220%22%2C%0A++++%22hMaxRequestTimes%22%3A+%22600-900%22%2C%0A++++%22hMaxReusableSecs%22%3A+%22180-300%22%0A++%7D%0A%7D&sni=www.google.com&security=reality&pbk=9ec9h6mJ6hzfrm_EFHPXuZwfN9Tt8USwSyBzETrDil4&sid=ff6ef323f94eda5d&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
