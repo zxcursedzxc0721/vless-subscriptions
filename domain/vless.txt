@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-16T07:00:18.288Z
+# Updated: 2026-09-16T08:00:19.789Z
 # Configs: 577
 
 vless://tmp_user@atomic-prase23893.my-vm.work:8088?type=ws&headerType=none&security=none&encryption=none&path=%2Fapi&host=queuev4.vk.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20queuev4.vk.com
