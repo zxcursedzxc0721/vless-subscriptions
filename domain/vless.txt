@@ -1,10 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-17T08:00:43.436Z
+# Updated: 2026-09-17T09:00:35.792Z
 # Configs: 575
 
-vless://3a2265d2-9f4f-437b-abf1-a44047776cf0@bz18.wba-pn.ru:2053?type=ws&security=tls&sni=bz18.wba-pn.ru&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-vless://24f8cbc6-6bf6-4109-8909-930d484ee9e0@ru1-edge.safe-connect.info:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ru1-edge.safe-connect.info&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://3a2265d2-9f4f-437b-abf1-a44047776cf0@bz18.wba-pn.ru:2053?type=ws&security=tls&sni=bz18.wba-pn.ru&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://901cb0b0-0185-4983-b42a-67c431fa2f10@in4.linestring.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eWZTT3b4Xa0dYUdW52WtF1n8w3-AS4EHcaettRRa_0Q&sid=5f96c103e5734528&sni=api-maps.yandex.ru#0276 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@flax-spinel23895.my-vm.work:8088?type=ws&host=queuev4.vk.com#0633 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
@@ -578,3 +577,4 @@ vless://9adc4114-18c3-4c31-9ef7-b35e87c9d499@pl-dp-01.online:443/?type=tcp&encry
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&security=tls&sni=vk.com&fp=chrome#🇳🇱 Obhod WBL | vk.com
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
+vless://24f8cbc6-6bf6-4109-8909-930d484ee9e0@ru1-edge.safe-connect.info:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ru1-edge.safe-connect.info&fp=firefox#ð·ðº RU - 002
