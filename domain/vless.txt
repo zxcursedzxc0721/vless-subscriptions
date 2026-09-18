@@ -1,8 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-18T12:00:25.202Z
-# Configs: 586
+# Updated: 2026-09-18T13:00:44.580Z
+# Configs: 587
 
+vless://d8fb1abe-20b1-46ce-9b5b-f9bf12c74631@lesotorg-kirov.ru:443?path=%2Flkws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=lesotorg-kirov.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#0573 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@av513u.sysopnova.art:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&sid=b97e7d4582b6fa6e&sni=yandex.ru#0756 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
