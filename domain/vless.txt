@@ -1,12 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-19T07:00:24.667Z
+# Updated: 2026-09-19T08:00:33.899Z
 # Configs: 587
 
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@bp1-6f0572fa31.shamanapp.online:8444?encryption=none&security=reality&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&type=grpc&serviceName=TunService&fp=random#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20%5B%2ACIDR%5D%20YA
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@bp4-29f1baf990.shamanapp.online:8444?encryption=none&security=reality&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&type=grpc&serviceName=TunService&fp=random#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20%5B%2ACIDR%5D%20YA
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?encryption=none&security=tls&sni=xsru2.freeddns.org&type=ws&path=%2Fwsru&host=xsru2.freeddns.org&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?type=grpc&security=tls&sni=xssite.webredirect.org&mode=gun&serviceName=grpc-ru&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@bp1-6f0572fa31.shamanapp.online:8444?encryption=none&security=reality&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&type=grpc&serviceName=TunService&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20%5B%2ACIDR%5D%20YA
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@bp4-29f1baf990.shamanapp.online:8444?encryption=none&security=reality&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&type=grpc&serviceName=TunService&fp=edge#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20%5B%2ACIDR%5D%20YA
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#0572 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://901cb0b0-0185-4983-b42a-67c431fa2f10@in4.linestring.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eWZTT3b4Xa0dYUdW52WtF1n8w3-AS4EHcaettRRa_0Q&sid=5f96c103e5734528&sni=api-maps.yandex.ru#0836 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
@@ -587,6 +585,8 @@ vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&securit
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?type=ws&security=tls&sni=vk.com&fp=chrome#🇳🇱 Obhod WBL | vk.com
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇷🇺 Obhod WBL | vk.com
 vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=chrome#ð·ðº RU - 001
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?encryption=none&security=tls&sni=xsru2.freeddns.org&type=ws&path=%2Fwsru&host=xsru2.freeddns.org&fp=edge#ð·ðº RU - 002
 vless://e3b7044a-f11d-4fd9-b577-15ecc643607f@de.myfreedom.rest:443?encryption=none&type=tcp&security=reality&sni=cdn.callibri.ru&flow=xtls-rprx-vision&headerType=none&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&sid=1f7f571b&allowInsecure=1&fp=firefox#ð©ðª DE - 003
 vless://e3b7044a-f11d-4fd9-b577-15ecc643607f@nl.myfreedom.rest:443?encryption=none&type=tcp&security=reality&sni=cdn.callibri.ru&flow=xtls-rprx-vision&headerType=none&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&sid=f267&allowInsecure=1&fp=chrome#ð³ð± NL - 004
 vless://e3b7044a-f11d-4fd9-b577-15ecc643607f@sw.myfreedom.rest:443?encryption=none&type=tcp&security=reality&sni=fitauto.ru&flow=xtls-rprx-vision&headerType=none&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&sid=a09b940d&allowInsecure=1&fp=chrome#ð XX - 007
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?type=grpc&security=tls&sni=xssite.webredirect.org&mode=gun&serviceName=grpc-ru&fp=firefox#ð XX - 013
