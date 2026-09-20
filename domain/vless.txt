@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-20T04:00:24.713Z
+# Updated: 2026-09-20T05:00:17.528Z
 # Configs: 279
 
 vless://6a32736d-4b7f-4c35-a1cf-4489d49f2cfb@fi.alpheratzz.org:443/?type=xhttp&encryption=none&flow=&security=tls&sni=6a32736d.ferrin.uk&alpn=h2&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
