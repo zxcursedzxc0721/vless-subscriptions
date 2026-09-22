@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-09-22T15:00:25.287Z
+# Updated: 2026-09-22T16:00:24.039Z
 # Configs: 3
 
 vless://44e1105d-b46e-402f-933b-eaa136fcbb24@45.8.228.131:2096?alpn=h2&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=grpc&sni=vdss.lavivas.org&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2315
