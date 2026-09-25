@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-09-25T15:00:17.283Z
+# Updated: 2026-09-25T16:00:19.395Z
 # Configs: 3
 
 vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?security=reality&sni=pl314j2.sysopnova.art&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&sid=5eca&type=xhttp&path=%2Fxhttp_client_upload&mode=packet-up&encryption=none&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
