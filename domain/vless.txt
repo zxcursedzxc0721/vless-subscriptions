@@ -1,8 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-09-27T07:00:21.956Z
+# Updated: 2026-09-27T08:00:20.977Z
 # Configs: 457
 
+vless://ae0d0211-b7dc-461d-9d41-1eb224876f30@gateru.responsiblecare.uk:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateru.responsiblecare.uk&pbk=Zkjmoy79UuCGCS5_4fMfhv0lXDvgBjUTT7jCdQoWdQQ&sid=2ad4123458ff3fe5&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kosta6.api3-max.ru:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=kosta6.api3-max.ru#0107 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#0188 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
@@ -459,4 +460,3 @@ vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?type=tcp&se
 vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun&fp=android#🇳🇱 Obhod WBL | api-maps.yandex.ru
 vless://84124a40-4b02-4762-a3a6-6cf43f297724@rumain.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#🇷🇺 Obhod WBL | eh.vk.com
 vless://805b52df-0581-495b-b8b5-b99594424053@gos9.portal-guard.com:8080?security=reality&type=xhttp&headerType=&path=%2F&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%2010%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&sni=ozon.ru&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#🇬🇧 Obhod WBL | ozon.ru
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=edge#ð©ðª DE - 001
