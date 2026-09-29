@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-09-29T21:00:45.944Z
+# Updated: 2026-09-29T22:00:47.725Z
 # Configs: 4
 
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&fp=edge&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%2365
-vless://ff2936d3-caa4-4b79-bb96-1475bd39ceda@45.9.118.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&fp=ios&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%2368
+vless://ff2936d3-caa4-4b79-bb96-1475bd39ceda@45.9.118.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?security=reality&encryption=none&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&headerType=none&fp=chrome&type=tcp&sni=mirror.yandex.ru&sid=d94e8f45#🇷🇺 Obhod WBL | mirror.yandex.ru
 vless://2c5268a3-4d6b-43ec-8930-a5de3d3cbbb7@45.8.228.173:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zl_9lzG7OEYb9p6gLEvuF4U5Qvx0c7a4HhSTiQDexg8&security=reality&sni=dzen.ru&type=tcp#🇵🇱 Obhod WBL | dzen.ru
