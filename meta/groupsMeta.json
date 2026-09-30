@@ -3,31 +3,31 @@
     "id": "all",
     "name": "ALL",
     "flag": "🏳️",
-    "count": 2251
+    "count": 2203
   },
   {
     "id": "euro",
     "name": "EURO",
     "flag": "🏳️",
-    "count": 18
+    "count": 17
   },
   {
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 1273
+    "count": 1237
   },
   {
     "id": "domain",
     "name": "Домен",
     "flag": "🌐",
-    "count": 469
+    "count": 461
   },
   {
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 466
+    "count": 458
   },
   {
     "id": "zz",
@@ -42,10 +42,10 @@
     "count": 9
   },
   {
-    "id": "ch",
-    "name": "Швейцария",
-    "flag": "🇨🇭",
-    "count": 3
+    "id": "ve",
+    "name": "VE",
+    "flag": "🏳️",
+    "count": 1
   },
   {
     "id": "us",
@@ -54,10 +54,10 @@
     "count": 9
   },
   {
-    "id": "gb",
-    "name": "Великобритания",
-    "flag": "🇬🇧",
-    "count": 2
+    "id": "ee",
+    "name": "Эстония",
+    "flag": "🇪🇪",
+    "count": 1
   },
   {
     "id": "lt",
@@ -66,27 +66,15 @@
     "count": 1
   },
   {
-    "id": "ee",
-    "name": "Эстония",
-    "flag": "🇪🇪",
+    "id": "al",
+    "name": "AL",
+    "flag": "🏳️",
     "count": 1
   },
   {
     "id": "es",
     "name": "Испания",
     "flag": "🇪🇸",
-    "count": 1
-  },
-  {
-    "id": "tr",
-    "name": "TR",
-    "flag": "🏳️",
-    "count": 3
-  },
-  {
-    "id": "al",
-    "name": "AL",
-    "flag": "🏳️",
     "count": 1
   },
   {
@@ -105,13 +93,19 @@
     "id": "sg",
     "name": "Сингапур",
     "flag": "🇸🇬",
-    "count": 1
+    "count": 2
   },
   {
     "id": "th",
     "name": "TH",
     "flag": "🏳️",
     "count": 1
+  },
+  {
+    "id": "ch",
+    "name": "Швейцария",
+    "flag": "🇨🇭",
+    "count": 3
   },
   {
     "id": "ca",
@@ -129,6 +123,18 @@
     "id": "hk",
     "name": "Гонконг",
     "flag": "🇭🇰",
+    "count": 1
+  },
+  {
+    "id": "au",
+    "name": "Австралия",
+    "flag": "🇦🇺",
+    "count": 3
+  },
+  {
+    "id": "fi",
+    "name": "Финляндия",
+    "flag": "🇫🇮",
     "count": 1
   }
 ]
