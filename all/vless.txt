@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: All Countries
-# Updated: 2026-10-01T00:00:20.159Z
+# Updated: 2026-10-01T00:06:11.785Z
 # Configs: 2288
 
 vless://warning@0.0.0.0:1?type=tcp&security=reality&pbk=dE3wtv44FXcZGAp0MYiYYa79z_JlcVNmPN5t8qa0cTs&fp=chrome&sni=zieng2.org&sid=d3&spx=%2F&flow=xtls-rprx-vision#%D0%92%D0%B0%D1%88%D0%B0%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B5%D0%BB%D0%B0%21
