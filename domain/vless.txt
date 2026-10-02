@@ -1,9 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-02T07:00:29.588Z
-# Configs: 456
+# Updated: 2026-10-02T08:00:24.342Z
+# Configs: 455
 
-vless://ea954244-bd25-4233-a77e-bf04b7a7fd5a@api.setevoyprichal.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.setevoyprichal.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#1087 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#2137 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
