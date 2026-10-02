@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-02T22:00:26.990Z
+# Updated: 2026-10-02T23:00:23.750Z
 # Configs: 448
 
 vless://8325bd97-b77c-4917-acaa-2446e9e8cc03@lbeiggdz.smart-cats.ru:443?encryption=none&type=grpc&security=reality&sni=vk.com&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&sid=79651ae525860543&serviceName=haknewhpjmv&mode=gun&spx=%2F&fp=android#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%20%7C%20%5BSNI-RU%5D%20vk.com
