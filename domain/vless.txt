@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-03T18:00:20.744Z
+# Updated: 2026-10-03T19:00:20.386Z
 # Configs: 449
 
 vless://43c25dbb-1331-4427-acb2-4860677d38ed@eg-cai-1.blook.rs:443?alpn=h3&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2216-32%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%22300-900%22%2C%22maxConnections%22%3A%223-6%22%7D%7D&headerType=&mode=stream-one&path=%2FVLSpdG9k&security=tls&sni=eg-cai-1.blook.rs&type=xhttp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AC%20Egypt%20%7C%20%5B%2ACIDR%5D
