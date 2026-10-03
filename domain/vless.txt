@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-03T22:01:00.851Z
+# Updated: 2026-10-03T23:01:02.877Z
 # Configs: 448
 
 vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@promsnab.cc:443?encryption=none&security=tls&sni=promsnab.cc&alpn=http%2F1.1&type=ws&path=%2Fassets%2Fchunk%2FTULMHho3NN91&host=promsnab.cc&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
