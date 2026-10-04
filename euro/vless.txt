@@ -1,10 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-04T09:01:01.741Z
+# Updated: 2026-10-04T10:01:01.690Z
 # Configs: 5
 
-vless://e3462e2c-618e-41c2-aa69-7fc9bce1213c@45.9.24.205:443?type=ws&security=tls&fp=edge&sni=promsnab.cc&host=promsnab.cc#2147 | 🇷🇺 Russia | 🏳️ CIDR-CloudRu | VLESS | TG: @YoutubeUnBlockRu
-vless://c7eadd30-25fd-41ff-b880-69b2db15e36c@45.9.24.205:443?type=ws&security=tls&fp=edge&sni=promsnab.cc&host=promsnab.cc#2608 | 🇷🇺 Russia | 🏳️ CIDR-CloudRu | VLESS | TG: @YoutubeUnBlockRu
-vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@45.9.24.205:443?type=ws&security=tls&fp=firefox&sni=promsnab.cc&host=promsnab.cc#4788 | 🇷🇺 Russia | 🏳️ CIDR-CloudRu | VLESS | TG: @YoutubeUnBlockRu
+vless://20a00c87-10bc-43c0-9b85-e9255fa90797@45.9.24.205:443?alpn=http%2F1.1&encryption=none&fp=edge&host=slivdom-spb.site&path=%2Fcatalog%2Ffeed%2Fyip1n72FJYVW&security=tls&sni=slivdom-spb.site&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2342
+vless://bb2b5120-ef71-4594-bd6a-5e9e977d26cb@45.9.24.205:443?type=ws&security=tls&fp=edge&sni=promsnab.cc&host=promsnab.cc#1371 | 🇷🇺 Russia | 🏳️ CIDR-CloudRu | VLESS | TG: @YoutubeUnBlockRu
+vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@45.9.24.205:443?type=ws&security=tls&fp=firefox&sni=promsnab.cc&host=promsnab.cc#1782 | 🇷🇺 Russia | 🏳️ CIDR-CloudRu | VLESS | TG: @YoutubeUnBlockRu
 vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?security=reality&encryption=none&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&headerType=none&fp=chrome&type=tcp&sni=mirror.yandex.ru&sid=d94e8f45#🇷🇺 Obhod WBL | mirror.yandex.ru
 vless://2c5268a3-4d6b-43ec-8930-a5de3d3cbbb7@45.8.228.173:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zl_9lzG7OEYb9p6gLEvuF4U5Qvx0c7a4HhSTiQDexg8&security=reality&sni=dzen.ru&type=tcp#🇵🇱 Obhod WBL | dzen.ru
