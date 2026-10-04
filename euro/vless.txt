@@ -1,9 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-04T02:01:00.806Z
-# Configs: 18
+# Updated: 2026-10-04T03:01:00.784Z
+# Configs: 17
 
-vless://b0a05ac4-eade-4f26-a514-bdae074bd63b@189.74.114.142:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediapriboy.cc&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#0400 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://e3462e2c-618e-41c2-aa69-7fc9bce1213c@45.9.24.205:443?type=ws&security=tls&fp=edge&sni=promsnab.cc&host=promsnab.cc#2147 | 🇷🇺 Russia | 🏳️ CIDR-CloudRu | VLESS | TG: @YoutubeUnBlockRu
 vless://c7eadd30-25fd-41ff-b880-69b2db15e36c@45.9.24.205:443?type=ws&security=tls&fp=edge&sni=promsnab.cc&host=promsnab.cc#2608 | 🇷🇺 Russia | 🏳️ CIDR-CloudRu | VLESS | TG: @YoutubeUnBlockRu
