@@ -1,10 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-04T00:01:01.077Z
+# Updated: 2026-10-04T01:01:00.632Z
 # Configs: 18
 
-vless://bb2b5120-ef71-4594-bd6a-5e9e977d26cb@45.9.24.205:443?alpn=http%2F1.1&encryption=none&fp=edge&host=promsnab.cc&path=%2Fcatalog%2Ffeed%2Fyip1n72FJYVW&security=tls&sni=promsnab.cc&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2345
-vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@45.9.24.205:443?encryption=none&fp=chrome&host=promsnab.cc&path=%2Fassets%2Fchunk%2FTULMHho3NN91&security=tls&sni=promsnab.cc&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%2398
+vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@45.9.24.205:443?alpn=http%2F1.1&encryption=none&fp=edge&host=promsnab.cc&path=%2Fassets%2Fchunk%2FTULMHho3NN91&security=tls&sni=promsnab.cc&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%2399
+vless://b0a05ac4-eade-4f26-a514-bdae074bd63b@189.74.114.117:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediapriboy.cc&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#0400 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://e3462e2c-618e-41c2-aa69-7fc9bce1213c@45.9.24.205:443?type=ws&security=tls&fp=edge&sni=promsnab.cc&host=promsnab.cc#2147 | 🇷🇺 Russia | 🏳️ CIDR-CloudRu | VLESS | TG: @YoutubeUnBlockRu
 vless://c7eadd30-25fd-41ff-b880-69b2db15e36c@45.9.24.205:443?type=ws&security=tls&fp=edge&sni=promsnab.cc&host=promsnab.cc#2608 | 🇷🇺 Russia | 🏳️ CIDR-CloudRu | VLESS | TG: @YoutubeUnBlockRu
