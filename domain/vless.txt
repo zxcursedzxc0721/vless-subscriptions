@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-04T13:01:02.032Z
+# Updated: 2026-10-04T14:01:02.256Z
 # Configs: 447
 
 vless://f9a2e475-0c03-4eb4-8680-0c69f90af8ae@by-msq-2.blook.network:443?alpn=h3&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2216-32%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%22300-900%22%2C%22maxConnections%22%3A%223-6%22%7D%7D&headerType=&mode=stream-one&path=%2FVLSpdG9k&security=tls&sni=by-msq-2.blook.network&type=xhttp&fp=firefox#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D
