@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-04T03:01:00.784Z
+# Updated: 2026-10-04T04:01:01.419Z
 # Configs: 17
 
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#0400 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
