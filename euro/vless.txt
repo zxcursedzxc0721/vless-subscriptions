@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-04T15:01:01.736Z
+# Updated: 2026-10-04T16:01:01.937Z
 # Configs: 4
 
 vless://3237fbc3-d644-40a3-906a-88de54365b8f@45.9.24.205:443?alpn=http%2F1.1&encryption=none&fp=edge&host=slivdom-spb.site&path=%2Fcatalog%2Ffeed%2Fyip1n72FJYVW&security=tls&sni=slivdom-spb.site&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2336
-vless://43c23c4a-eed1-4787-92a0-d24f4474e0a0@45.9.24.205:443?alpn=http%2F1.1&encryption=none&fp=edge&host=slivdom-spb.site&path=%2Fcatalog%2Ffeed%2Fyip1n72FJYVW&security=tls&sni=slivdom-spb.site&type=ws#%F0%9F%87%A8%F0%9F%87%ADОбходы - TG: AirLinkVPNBot |0054|
+vless://70b99586-1eb5-4fd9-aae5-eb05ebdda5b8@45.9.24.205:443?alpn=http%2F1.1&encryption=none&fp=edge&host=slivdom-spb.site&path=%2Fcatalog%2Ffeed%2Fyip1n72FJYVW&security=tls&sni=slivdom-spb.site&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2341
 vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?security=reality&encryption=none&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&headerType=none&fp=chrome&type=tcp&sni=mirror.yandex.ru&sid=d94e8f45#🇷🇺 Obhod WBL | mirror.yandex.ru
 vless://2c5268a3-4d6b-43ec-8930-a5de3d3cbbb7@45.8.228.173:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zl_9lzG7OEYb9p6gLEvuF4U5Qvx0c7a4HhSTiQDexg8&security=reality&sni=dzen.ru&type=tcp#🇵🇱 Obhod WBL | dzen.ru
