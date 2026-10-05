@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-05T10:01:02.091Z
+# Updated: 2026-10-05T11:01:03.247Z
 # Configs: 449
 
 vless://20009a4d-ecd0-4fb3-ba2d-71a431210ba6@9micenasralnakover.net:8443?encryption=none&type=xhttp&security=tls&sni=9micenasralnakover.net&alpn=http%2F1.1%2Ch2&path=%2Fapi%2Fv1%2Fupload&host=9micenasralnakover.net&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%7D&fp=android#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20%5B%2ACIDR%5D%20CDN
