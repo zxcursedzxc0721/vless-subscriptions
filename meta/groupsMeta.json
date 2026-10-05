@@ -3,42 +3,144 @@
     "id": "all",
     "name": "ALL",
     "flag": "🏳️",
-    "count": 2127
+    "count": 2238
   },
   {
     "id": "euro",
     "name": "EURO",
     "flag": "🏳️",
-    "count": 4
+    "count": 23
   },
   {
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 1177
+    "count": 1278
   },
   {
     "id": "domain",
     "name": "Домен",
     "flag": "🌐",
-    "count": 452
+    "count": 458
   },
   {
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 493
+    "count": 453
   },
   {
     "id": "zz",
     "name": "ZZ",
     "flag": "🏳️",
-    "count": 1
+    "count": 2
   },
   {
     "id": "nl",
     "name": "Нидерланды",
     "flag": "🇳🇱",
+    "count": 9
+  },
+  {
+    "id": "gb",
+    "name": "Великобритания",
+    "flag": "🇬🇧",
+    "count": 3
+  },
+  {
+    "id": "ie",
+    "name": "Ирландия",
+    "flag": "🇮🇪",
+    "count": 1
+  },
+  {
+    "id": "ee",
+    "name": "Эстония",
+    "flag": "🇪🇪",
+    "count": 1
+  },
+  {
+    "id": "ch",
+    "name": "Швейцария",
+    "flag": "🇨🇭",
     "count": 4
+  },
+  {
+    "id": "es",
+    "name": "Испания",
+    "flag": "🇪🇸",
+    "count": 1
+  },
+  {
+    "id": "il",
+    "name": "IL",
+    "flag": "🏳️",
+    "count": 1
+  },
+  {
+    "id": "us",
+    "name": "США",
+    "flag": "🇺🇸",
+    "count": 6
+  },
+  {
+    "id": "tw",
+    "name": "TW",
+    "flag": "🏳️",
+    "count": 1
+  },
+  {
+    "id": "sg",
+    "name": "Сингапур",
+    "flag": "🇸🇬",
+    "count": 2
+  },
+  {
+    "id": "th",
+    "name": "TH",
+    "flag": "🏳️",
+    "count": 1
+  },
+  {
+    "id": "ca",
+    "name": "Канада",
+    "flag": "🇨🇦",
+    "count": 2
+  },
+  {
+    "id": "pl",
+    "name": "Польша",
+    "flag": "🇵🇱",
+    "count": 1
+  },
+  {
+    "id": "hk",
+    "name": "Гонконг",
+    "flag": "🇭🇰",
+    "count": 1
+  },
+  {
+    "id": "au",
+    "name": "Австралия",
+    "flag": "🇦🇺",
+    "count": 3
+  },
+  {
+    "id": "fi",
+    "name": "Финляндия",
+    "flag": "🇫🇮",
+    "count": 2
+  },
+  {
+    "id": "jp",
+    "name": "Япония",
+    "flag": "🇯🇵",
+    "count": 2
+  },
+  {
+    "id": "de",
+    "name": "Германия",
+    "flag": "🇩🇪",
+    "count": 1
   }
 ]
