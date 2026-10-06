@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-06T12:01:01.389Z
+# Updated: 2026-10-06T13:01:09.744Z
 # Configs: 450
 
 vless://e85d674a-0ef2-4e7b-943c-6f5eb54af52a@begemotov.cc:443?type=ws&security=tls&sni=begemotov.cc&alpn=http%2F1.1&host=begemotov.cc&path=%2Fbgdews&fp=android#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%5B%2ACIDR%5D%20VK
