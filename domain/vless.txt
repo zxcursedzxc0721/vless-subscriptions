@@ -1,11 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-06T20:01:01.571Z
-# Configs: 456
+# Updated: 2026-10-06T21:01:02.943Z
+# Configs: 455
 
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&type=tcp&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443/?type=xhttp&encryption=none&flow=&host=fi.alpheratzz.org&path=%2F&mode=auto&security=tls&sni=20ef7310.ferrin.uk&alpn=h2&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@de12.h1cloud.net:25095?pbk=pvXuNe35fkSbA-CVmh6_b3ADAXLY8tBONjnwE8HM8yY&security=reality&serviceName=f3d967fe8981&sid=397c81bed08f3f78&sni=www.chip.de&type=grpc&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@de12.h1cloud.net:25089?type=tcp&security=reality&sni=www.chip.de&pbk=3ZxTHjZ8XHP2aYzLEKUPI3xQ5jYQYrSrIEXlUlULUEA&sid=56d9d9fba348e5e6&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443/?type=xhttp&encryption=none&flow=&host=fi.alpheratzz.org&path=%2F&mode=auto&security=tls&sni=20ef7310.ferrin.uk&alpn=h2&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#0295 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#0429 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
@@ -458,4 +457,4 @@ vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?type=tcp&se
 vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun&fp=android#🇳🇱 Obhod WBL | api-maps.yandex.ru
 vless://84124a40-4b02-4762-a3a6-6cf43f297724@rumain.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#🇷🇺 Obhod WBL | eh.vk.com
 vless://805b52df-0581-495b-b8b5-b99594424053@gos9.portal-guard.com:8080?security=reality&type=xhttp&headerType=&path=%2F&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%2010%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&sni=ozon.ru&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#🇬🇧 Obhod WBL | ozon.ru
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@nl.alpheratzz.org:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=vusr-6ac431f4.adhil.uk&fp=chrome#ð³ð± NL - 003
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&type=tcp&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&fp=ios#ð XX - 004
