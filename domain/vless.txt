@@ -1,9 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-07T21:01:03.056Z
-# Configs: 453
+# Updated: 2026-10-07T22:01:01.293Z
+# Configs: 454
 
-vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Famsws&host=apis.stroymatdv.cc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Famsws&host=apis.stroymatdv.cc&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@us5.h1cloud.net:25178?encryption=none&security=reality&sni=www.icloud.com&pbk=UTK3fM9wiII4uIcBYUYJwppN1HezxBPhxPfIxDHZqj4&sid=ce43937e79bc30f0&spx=%2F&type=tcp&headerType=none&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s299.kukuss.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098u54d73951s298.kukuss.top&host=54d73951s298.kukuss.top#0664 | 🌐 Unknown | 🏳️ CIDR-Hostkey | VLESS | TG: @YoutubeUnBlockRu
 vless://69b70112-9f7e-4b0e-825b-e1bb9561806e@958fbe5d.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lkM6TUAgqgOYUcsnl6rycqfaL-GNYZyyEI3Zfu9-21s&sid=f2a54777ec76a14c&sni=max.ru#0750 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
