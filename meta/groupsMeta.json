@@ -3,19 +3,19 @@
     "id": "all",
     "name": "ALL",
     "flag": "🏳️",
-    "count": 2130
+    "count": 2145
   },
   {
     "id": "euro",
     "name": "EURO",
     "flag": "🏳️",
-    "count": 13
+    "count": 2
   },
   {
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 1185
+    "count": 1189
   },
   {
     "id": "domain",
@@ -27,114 +27,18 @@
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 454
+    "count": 502
   },
   {
     "id": "zz",
     "name": "ZZ",
     "flag": "🏳️",
-    "count": 2
-  },
-  {
-    "id": "ie",
-    "name": "Ирландия",
-    "flag": "🇮🇪",
-    "count": 1
-  },
-  {
-    "id": "es",
-    "name": "Испания",
-    "flag": "🇪🇸",
-    "count": 1
-  },
-  {
-    "id": "ee",
-    "name": "Эстония",
-    "flag": "🇪🇪",
-    "count": 1
-  },
-  {
-    "id": "us",
-    "name": "США",
-    "flag": "🇺🇸",
-    "count": 7
-  },
-  {
-    "id": "il",
-    "name": "IL",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
-    "id": "tw",
-    "name": "TW",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
-    "id": "sg",
-    "name": "Сингапур",
-    "flag": "🇸🇬",
-    "count": 2
-  },
-  {
-    "id": "th",
-    "name": "TH",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
-    "id": "ch",
-    "name": "Швейцария",
-    "flag": "🇨🇭",
-    "count": 3
-  },
-  {
-    "id": "ca",
-    "name": "Канада",
-    "flag": "🇨🇦",
-    "count": 2
-  },
-  {
-    "id": "pl",
-    "name": "Польша",
-    "flag": "🇵🇱",
-    "count": 1
-  },
-  {
-    "id": "hk",
-    "name": "Гонконг",
-    "flag": "🇭🇰",
     "count": 1
   },
   {
     "id": "nl",
     "name": "Нидерланды",
     "flag": "🇳🇱",
-    "count": 3
-  },
-  {
-    "id": "au",
-    "name": "Австралия",
-    "flag": "🇦🇺",
-    "count": 3
-  },
-  {
-    "id": "fi",
-    "name": "Финляндия",
-    "flag": "🇫🇮",
     "count": 2
-  },
-  {
-    "id": "jp",
-    "name": "Япония",
-    "flag": "🇯🇵",
-    "count": 2
-  },
-  {
-    "id": "de",
-    "name": "Германия",
-    "flag": "🇩🇪",
-    "count": 1
   }
 ]
