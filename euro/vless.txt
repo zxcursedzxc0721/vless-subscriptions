@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-09T19:01:04.894Z
+# Updated: 2026-10-09T20:01:19.595Z
 # Configs: 3
 
 vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@45.9.13.99:443?encryption=none&fp=chrome&host=x.m-90.xyz&path=t.me%2FTEAMNETGRATISCOL&security=tls&sni=x.m-90.xyz&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%2351
