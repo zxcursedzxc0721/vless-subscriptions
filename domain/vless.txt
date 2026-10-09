@@ -1,8 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-09T12:01:25.331Z
-# Configs: 453
+# Updated: 2026-10-09T13:01:49.749Z
+# Configs: 455
 
+vless://4f4ba283-2dd7-4eda-9211-63ae357373cf@ns.l90909l.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com&fp=edge#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20id.vk.com
+vless://8de76932-518a-4ac8-ac92-be6b1f17ddd8@nl.alpheratzz.org:8443?type=tcp&security=tls&sni=api-v1-6ac7858f.vmagnum.win&alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru&host=yandex.ru#0905 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s151.gogocs.xyz:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098u54d73951s298.kukuss.top&host=54d73951s298.kukuss.top#1489 | 🌐 Unknown | 🏳️ CIDR-Hostkey | VLESS | TG: @YoutubeUnBlockRu
