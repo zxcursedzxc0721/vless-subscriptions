@@ -1,8 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-09T16:02:44.711Z
-# Configs: 461
+# Updated: 2026-10-09T17:01:15.889Z
+# Configs: 463
 
+vless://4f4ba283-2dd7-4eda-9211-63ae357373cf@ns.l90909l.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com&fp=edge#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20id.vk.com
+vless://8de76932-518a-4ac8-ac92-be6b1f17ddd8@nl.alpheratzz.org:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-v1-6ac7858f.vmagnum.win&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kostav7.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=kostav7.api3-max.ru#0122 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
 vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kostav9.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=kostav9.api3-max.ru#0182 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
