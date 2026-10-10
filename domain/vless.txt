@@ -1,10 +1,11 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-10T00:01:04.628Z
-# Configs: 466
+# Updated: 2026-10-10T01:01:09.696Z
+# Configs: 467
 
-vless://8de76932-518a-4ac8-ac92-be6b1f17ddd8@nl.alpheratzz.org:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=api-v1-6ac7858f.vmagnum.win&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://7ec9f26a-edec-4bf1-addd-700626df27c1@cosmo-pulse.ru:443?type=ws&headerType=none&security=tls&encryption=none&sni=cosmo-pulse.ru&alpn=http%2F1.1&path=%2Fnl7ws&host=cosmo-pulse.ru&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
+vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@ap2.directly.chat:443?encryption=none&security=tls&sni=ap2.directly.chat&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ap2.directly.chat&path=%2Fmd%2F1&fp=android#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://8de76932-518a-4ac8-ac92-be6b1f17ddd8@nl.alpheratzz.org:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-v1-6ac7858f.vmagnum.win&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://7ec9f26a-edec-4bf1-addd-700626df27c1@cosmo-pulse.ru:443?type=ws&headerType=none&security=tls&encryption=none&sni=cosmo-pulse.ru&alpn=http%2F1.1&path=%2Fnl7ws&host=cosmo-pulse.ru&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s299.kukuss.top:443?allowInsecure=1&type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=s299.kukuss.top#0037 | 🌐 Unknown | 🏳️ CIDR-Hostkey | VLESS | TG: @YoutubeUnBlockRu
 vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@lagaa9.api3-max.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=lagaa9.api3-max.ru#0109 | 🌐 Unknown | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu
