@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-10T03:02:05.776Z
+# Updated: 2026-10-10T04:01:37.197Z
 # Configs: 465
 
 vless://b2d014aa-5c80-4a86-826d-a8d2f9fb1782@kedrovyi-bereg.online:443?encryption=none&security=tls&sni=kedrovyi-bereg.online&type=ws&path=%2Fcheckout%2Fstep%2FYF5ZiDr1AzTN&host=kedrovyi-bereg.online&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
