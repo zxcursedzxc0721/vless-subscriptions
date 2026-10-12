@@ -1,13 +1,11 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-12T19:01:22.275Z
-# Configs: 480
+# Updated: 2026-10-12T20:01:11.708Z
+# Configs: 478
 
-vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@rwyisq.edge-assets.ru:443?encryption=none&security=tls&sni=rwyisq.edge-assets.ru&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fvjycfvml%2Fsync%2F&mode=packet-up&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@dzv5pi.edge-assets.ru:443?encryption=none&type=xhttp&path=%2Fapi%2Fv1%2Fi3vuslq5%2Fsync%2F&host=dzv5pi.edge-assets.ru&mode=packet-up&extra=%7B%22mode%22%3A%22packet-up%22%2C%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22uplinkDataPlacement%22%3A%22body%22%7D&security=tls&sni=dzv5pi.edge-assets.ru&alpn=h2%2Chttp%2F1.1&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119?security=reality&encryption=none&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&headerType=none&spx=%2F5xmOzu3pGosH91u&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=10f517&fp=ios#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
-vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ru-1-1.unturned-rust-dead.lol:443/?type=tcp&encryption=none&flow=&sni=ru-1-1.unturned-rust-dead.lol&security=reality&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&sid=&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://1ed2e903-4bbe-4dc3-abeb-91552789748c@birthdaysale.net:443?security=tls&sni=birthdaysale.net&type=xhttp&host=birthdaysale.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ru-1-1.unturned-rust-dead.lol:443?type=tcp&security=reality&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ru-1-2.unturned-rust-dead.lol:443?encryption=none&security=reality&sni=ru-1-2.unturned-rust-dead.lol&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&serviceName=ru-api&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ru-1-3.unturned-rust-dead.lol:443?encryption=none&security=reality&sni=ru-1-3.unturned-rust-dead.lol&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&serviceName=ru-api&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@sweedenqfds777.qcloud.surf:21221?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RtxGqCtQJeOyUwSe7k6oZOrQWV1hPbC-TMqqgxl9fn4&sid=c430045c&sni=metrika.yandex.ru#0215 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://8bd04756-3beb-4348-82c9-d35453df50ce@spainspeedboostjbl88.qcloud.surf:27311?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9vHDWMrmerdjndp_XHbCc9jaR-9K95H_mwpLvI2emkY&sid=56daff9a&sni=metrika.yandex.ru#0380 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
