@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-12T16:01:45.342Z
+# Updated: 2026-10-12T17:02:10.883Z
 # Configs: 478
 
 vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@rwyisq.edge-assets.ru:443?encryption=none&security=tls&sni=rwyisq.edge-assets.ru&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fvjycfvml%2Fsync%2F&mode=packet-up&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
