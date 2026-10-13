@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-13T08:02:13.410Z
-# Configs: 500
+# Updated: 2026-10-13T09:02:37.507Z
+# Configs: 501
 
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@no-1.24ezonline-con.online:9892?encryption=none&security=reality&sni=amd.com&fp=random&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&serviceName=grpc-tunnel#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
 vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@dzv5pi.edge-assets.ru:443?encryption=none&type=xhttp&path=%2Fapi%2Fv1%2Fi3vuslq5%2Fsync%2F&host=dzv5pi.edge-assets.ru&mode=packet-up&extra=%7B%22mode%22%3A%22packet-up%22%2C%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22uplinkDataPlacement%22%3A%22body%22%7D&security=tls&sni=dzv5pi.edge-assets.ru&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
@@ -503,3 +503,4 @@ vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@ember.datanexi.store:443?encryption
 vless://a6c66efd-71fc-0023-be38-946279666888@gw.itg.bot:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gw.itg.bot&fp=random&pbk=hh5yJUx_1qM2-0RwrwoZs35R0QR2Rxk38p25oGGMFz8&sid=2a8f4c6e1b9d3f7e&spx=%2F&type=tcp#ð XX - 048
 vless://a6c66efd-71fc-0029-be38-946279666888@gw.itg.bot:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gw.itg.bot&fp=random&pbk=hh5yJUx_1qM2-0RwrwoZs35R0QR2Rxk38p25oGGMFz8&sid=2a8f4c6e1b9d3f7e&spx=%2F&type=tcp#ð XX - 050
 vless://a6c66efd-71fc-0001-be38-946279666888@gw.itg.bot:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gw.itg.bot&fp=random&pbk=hh5yJUx_1qM2-0RwrwoZs35R0QR2Rxk38p25oGGMFz8&sid=2a8f4c6e1b9d3f7e&spx=%2F&type=tcp#ð XX - 051
+vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ru-1-5.unturned-rust-dead.lol:443?encryption=none&security=reality&sni=ru-1-5.unturned-rust-dead.lol&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&serviceName=ru-api#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
