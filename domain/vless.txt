@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-14T18:01:13.851Z
-# Configs: 493
+# Updated: 2026-10-14T19:01:13.383Z
+# Configs: 492
 
 vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@storage.fatcutecat.net:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=storage.fatcutecat.net&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
@@ -495,4 +495,3 @@ vless://805b52df-0581-495b-b8b5-b99594424053@gos9.portal-guard.com:8080?security
 vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ru-1-6.unturned-rust-dead.lol:443?security=reality&type=grpc&sni=ru-1-6.unturned-rust-dead.lol&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&serviceName=ru-api&fp=firefox#ð·ðº RU - 001
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@no-1.24ezonline-con.online:9892?encryption=none&security=reality&sni=amd.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&serviceName=grpc-tunnel&fp=edge#ð³ð± NL - 002
 vless://a96ad3ea-4820-43d2-bbf3-27c6bf19d652@pl.bootless.ru:443?encryption=none&security=tls&sni=pl.bootless.ru&type=xhttp&path=%2Fapi%2Fv2%2Fstream&mode=auto&fp=chrome#ðµð± PL - 004
-vless://37e0fe94-02b7-4d08-9555-c8cd9dcde11c@api.mediaplav.cc:443?encryption=none&type=grpc&serviceName=3e99d50d5740985d&mode=gun&authority=api.mediaplav.cc&security=tls&sni=api.mediaplav.cc&alpn=h2&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
