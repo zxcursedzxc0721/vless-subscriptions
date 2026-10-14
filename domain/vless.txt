@@ -1,11 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-14T16:01:13.576Z
-# Configs: 491
+# Updated: 2026-10-14T17:01:14.700Z
+# Configs: 490
 
-vless://3126e5b3-90dd-4ba4-b950-739ac88e59f8@ru.cdn2.vpnruss1.ru:443?type=ws&security=tls&encryption=none&path=%2F&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://a96ad3ea-4820-43d2-bbf3-27c6bf19d652@pl.bootless.ru:443?encryption=none&security=tls&sni=pl.bootless.ru&type=xhttp&path=%2Fapi%2Fv2%2Fstream&mode=auto&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://37e0fe94-02b7-4d08-9555-c8cd9dcde11c@api.mediaplav.cc:443?encryption=none&type=grpc&serviceName=3e99d50d5740985d&mode=gun&authority=api.mediaplav.cc&security=tls&sni=api.mediaplav.cc&alpn=h2&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+vless://37e0fe94-02b7-4d08-9555-c8cd9dcde11c@api.mediaplav.cc:443?encryption=none&type=grpc&serviceName=3e99d50d5740985d&mode=gun&authority=api.mediaplav.cc&security=tls&sni=api.mediaplav.cc&alpn=h2&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://93996a55-febe-4183-9366-df6cb11a34dd@tr.datanode-internal.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&sni=sun9-38.userapi.com#0038 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
 vless://30292475-4666-4c26-bcb2-338a0919958b@lalibobi.online:443?type=grpc&security=tls&fp=edge&sni=lalibobi.online&serviceName=lalibobi.orbit.v3.Connect#0212 | 🌐 Unknown | 🏳️ CIDR-TimeWeb | VLESS | TG: @YoutubeUnBlockRu
@@ -494,3 +492,4 @@ vless://84124a40-4b02-4762-a3a6-6cf43f297724@rumain.fgnconnection.life:443?secur
 vless://805b52df-0581-495b-b8b5-b99594424053@gos9.portal-guard.com:8080?security=reality&type=xhttp&headerType=&path=%2F&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%2010%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&sni=ozon.ru&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#🇬🇧 Obhod WBL | ozon.ru
 vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ru-1-6.unturned-rust-dead.lol:443?security=reality&type=grpc&sni=ru-1-6.unturned-rust-dead.lol&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&serviceName=ru-api&fp=firefox#ð·ðº RU - 001
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@no-1.24ezonline-con.online:9892?encryption=none&security=reality&sni=amd.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&serviceName=grpc-tunnel&fp=edge#ð³ð± NL - 002
+vless://a96ad3ea-4820-43d2-bbf3-27c6bf19d652@pl.bootless.ru:443?encryption=none&security=tls&sni=pl.bootless.ru&type=xhttp&path=%2Fapi%2Fv2%2Fstream&mode=auto&fp=chrome#ðµð± PL - 004
