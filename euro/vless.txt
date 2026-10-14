@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-14T03:01:18.457Z
+# Updated: 2026-10-14T04:01:17.490Z
 # Configs: 16
 
 vless://5aefad36-749b-401c-8b3b-547ef7d2253e@45.131.212.151:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&security=reality&sni=de.lstu.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2388
