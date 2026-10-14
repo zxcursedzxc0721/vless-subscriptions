@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-14T21:01:15.811Z
+# Updated: 2026-10-14T22:01:18.280Z
 # Configs: 489
 
 vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@storage.fatcutecat.net:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=storage.fatcutecat.net&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
