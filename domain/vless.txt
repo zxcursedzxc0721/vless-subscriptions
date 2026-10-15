@@ -1,10 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-15T00:00:52.856Z
+# Updated: 2026-10-15T01:00:54.120Z
 # Configs: 491
 
-vless://a7bee730-ec9f-45fe-a23c-5568af0b202a@heoleti.pro:14443?encryption=none&security=tls&sni=heoleti.pro&type=ws&path=%2Fn3ws&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
-vless://5b5482bf-e4c8-4495-888e-050f59b0beec@asset-cache.ozonvideo.com:443?encryption=none&security=tls&sni=asset-cache.ozonvideo.com&type=tcp&fp=android#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
+vless://bcf7fc76-83ad-419c-91c9-d192797ce7a4@api.wyre-file.ru:443?encryption=none&security=tls&sni=api.wyre-file.ru&type=ws&path=%2Fnl7ws&host=api.wyre-file.ru&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+vless://97c52223-dc53-4d59-ae9b-2bf4344eb5eb@ultimate.warriorofblacksun.run:443/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=ultimate.warriorofblacksun.run&security=reality&pbk=Ww_HS9_n7ob3uESSXtbU23EPM-BOJ5ZYLp-RFB0L0SY&sid=&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://30292475-4666-4c26-bcb2-338a0919958b@lalibobi.online:443?type=grpc&security=tls&fp=edge&sni=lalibobi.online&serviceName=lalibobi.orbit.v3.Connect#0060 | 🌐 Unknown | 🏳️ CIDR-TimeWeb | VLESS | TG: @YoutubeUnBlockRu
 vless://8bd04756-3beb-4348-82c9-d35453df50ce@qcloudge1.exitvpn.shop:20268?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru#0073 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
