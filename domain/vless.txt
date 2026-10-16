@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-16T10:00:55.263Z
-# Configs: 485
+# Updated: 2026-10-16T11:00:55.811Z
+# Configs: 484
 
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.setevoyzaliv.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.setevoyzaliv.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@kaoangeltrahnimenya.net:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=kaoangeltrahnimenya.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=kaoangeltrahnimenya.net&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20CDN
@@ -487,4 +487,3 @@ vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@tr2.h1cloud.net:25375?pbk=PdiXtqIEt
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@b58e68t.lt1.h1clayd.click:443?encryption=none&security=reality&sni=b58e68t.lt1.h1clayd.click&fp=chrome&pbk=MbRONgV8ADD5B_aKDBv15LAW2a8QZok5bkkZexRRVAs&sid=2301ac8aee8bf6d4&type=tcp&headerType=none#ð XX - 022
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&sid=10f517&type=tcp&headerType=none&host=se3.h1cloud.net&path=%2F#ð XX - 028
 vless://05c8eabe-96af-4db2-bb2f-a24fa84344ba@app-ms-33.ecom-ai-search.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-ms-33.ecom-ai-search.com&fp=chrome&pbk=NHvzfpD0Jhc8h1TtYmdTRdd-zoMt6TwOfC5kgORzRFQ&sid=2f67100d7034a510&allowInsecure=1#ð XX - 029
-vless://32986830-442a-43f1-a715-2dca6242ed18@kempekl.online:443?security=tls&sni=kempekl.online&type=ws&path=%2Fgateway%2Fv1%2Fws%2F27e6fdaa541ae0de0d6c60bc75d00969&fp=android#%F0%9F%87%A7%F0%9F%87%BB%20Bouvet%20Island%20%7C%20%5B%2ACIDR%5D
