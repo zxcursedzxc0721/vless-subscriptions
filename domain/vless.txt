@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-16T00:00:51.328Z
+# Updated: 2026-10-16T01:00:55.479Z
 # Configs: 504
 
 vless://db7ce055-e69f-47d1-9cdc-42757a2a442a@node1.yandexdns.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=random&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B9%F0%9F%87%B7%20%5BSNI-RU%5D%20www.vk.com
