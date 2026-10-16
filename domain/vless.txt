@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-16T22:00:48.796Z
+# Updated: 2026-10-16T23:00:49.869Z
 # Configs: 490
 
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediavolna.cc:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=r7Kp4mN9tQ2v&allowInsecure=0&sni=api.mediavolna.cc&fp=safari#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
