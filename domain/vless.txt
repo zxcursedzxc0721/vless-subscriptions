@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-16T19:00:51.692Z
-# Configs: 494
+# Updated: 2026-10-16T20:00:56.180Z
+# Configs: 493
 
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediavolna.cc:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=r7Kp4mN9tQ2v&allowInsecure=0&sni=api.mediavolna.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
 vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?mode=gun&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=www.bing.com&spx=%2F&type=grpc&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
@@ -496,4 +496,3 @@ vless://71c8d2c6-a7f1-4c74-b37d-d7f06fef9c04@fi.chick-chirik.com:443?security=re
 vless://71c8d2c6-a7f1-4c74-b37d-d7f06fef9c04@entry6.chick-chirik.com:443?security=reality&encryption=none&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=89e0494514ec&fp=chrome#ð¹ð· TR - 003
 vless://71c8d2c6-a7f1-4c74-b37d-d7f06fef9c04@lv.chick-chirik.com:443?security=reality&encryption=none&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lv.chick-chirik.com&sid=25f11b01338a8963&fp=edge#ð XX - 005
 vless://71c8d2c6-a7f1-4c74-b37d-d7f06fef9c04@bg.chick-chirik.com:18569?security=reality&encryption=none&pbk=6E5mOchF1kE3xeVVZmdJhmOG1K6zlrovSCvJKmCUxzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bg.chick-chirik.com&sid=67ce41457763df90&fp=edge#ð XX - 010
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.setevoyzaliv.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.setevoyzaliv.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
