@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-16T15:00:51.881Z
+# Updated: 2026-10-16T16:01:06.540Z
 # Configs: 481
 
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.setevoyzaliv.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.setevoyzaliv.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
