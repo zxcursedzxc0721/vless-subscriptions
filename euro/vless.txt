@@ -1,8 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-16T01:00:55.479Z
-# Configs: 14
+# Updated: 2026-10-16T02:00:55.195Z
+# Configs: 16
 
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@144.31.238.115:2443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&type=grpc&serviceName=grpc&sni=api-maps.yandex.ru&sid=ef567890&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
+vless://f6dadd84-7d7b-4e67-9577-7ede6300368a@157.173.27.138:5443?security=reality&type=tcp&sni=travel.yandex.ru&flow=xtls-rprx-vision&pbk=7pr2qWG1_3TjBDCidQWJ2lnbEf72lOcse4Gca8anwEo&sid=57f0eca7ae6be8&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20travel.yandex.ru
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#0391 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#1278 | 🇸🇬 Singapore | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://b4cc503a-c352-4775-85ad-fc982086884a@45.137.43.168:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#1574 | 🇵🇱 Poland | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
