@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-18T16:00:27.258Z
+# Updated: 2026-10-18T17:00:27.793Z
 # Configs: 479
 
 vless://d78d6815-5f00-4fe3-8aae-3344aeb7783f@1f0c1c7297521d51.wgse.info:443?type=ws&security=tls&path=%2Fws&sni=1f0c1c7297521d51.wgse.info&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
