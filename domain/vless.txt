@@ -1,12 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-18T09:00:28.923Z
-# Configs: 477
+# Updated: 2026-10-18T10:00:26.819Z
+# Configs: 469
 
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?mode=gun&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=www.bing.com&spx=%2F&type=grpc&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@ru-auto-02.10media.top:443?security=tls&sni=ru-auto-02.10media.top&alpn=h2&type=grpc&serviceName=northfeed&packetEncoding=xudp&encryption=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@nl.alpheratzz.org:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=api-v2-6ad3c751.vmagnum.win&mode=stream-one&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@yt.noooo.win:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dsapi-v2-6ad3c751.adhil.uk&mode=stream-one&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D%20Beeline
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@ru-auto-02.10media.top:443?security=tls&sni=ru-auto-02.10media.top&alpn=h2&type=grpc&serviceName=northfeed&packetEncoding=xudp&encryption=none&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@yt.noooo.win:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dsapi-v2-6ad3c751.adhil.uk&mode=stream-one&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://8bd04756-3beb-4348-82c9-d35453df50ce@qcloudge1.exitvpn.shop:20268?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru#0160 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://ebd88879-be85-4125-8fc9-48e1bfa411a9@cdn-db2c15.gb2.frameharbor.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0-xSyqw-L1Kywk4O-whZDZicbLwhK-hAk92HB0JSG1s&sni=cdn-db2c15.gb2.frameharbor.net#0164 | 🌐 Unknown | 🏳️ CIDR-GLB | VLESS | TG: @YoutubeUnBlockRu
@@ -472,11 +470,5 @@ vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?type=tcp&se
 vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun&fp=android#🇳🇱 Obhod WBL | api-maps.yandex.ru
 vless://84124a40-4b02-4762-a3a6-6cf43f297724@rumain.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#🇷🇺 Obhod WBL | eh.vk.com
 vless://805b52df-0581-495b-b8b5-b99594424053@gos9.portal-guard.com:8080?security=reality&type=xhttp&headerType=&path=%2F&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%2010%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&sni=ozon.ru&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#🇬🇧 Obhod WBL | ozon.ru
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@ru6.my-cdn.org:23688?encryption=none&mode=gun&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&security=reality&serviceName=awarecricketer&sid=f679b4f2&sni=apple.com&spx=%2F&type=grpc&fp=ios#ð·ðº RU - 001
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@ru8.my-cdn.org:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=x5.lk.v1.AccountService&sni=ru8.my-cdn.org&type=grpc&fp=chrome#ð·ðº RU - 003
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@rus.noooo.win:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=id-6ad3c751.adhil.uk&alpn=h2&type=tcp&headerType=none&path=%2F&fp=edge#ð·ðº RU - 004
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@glazatushi.yandex-api.com:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=glazatushi.yandex-api.com&encryption=none&fp=chrome#ð©ðª DE - 005
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.videolaguna.cc:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videolaguna.cc&type=tcp&fp=edge#ð©ðª DE - 006
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediakaskad.cc:443?flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediakaskad.cc&type=tcp&fp=edge#ð XX - 008
-vless://d78d6815-5f00-4fe3-8aae-3344aeb7783f@1f0c1c7297521d51.wgse.info:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=1f0c1c7297521d51.wgse.info&type=ws&allowInsecure=0&sni=1f0c1c7297521d51.wgse.info&fp=firefox#ð XX - 009
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediapolyana.cc&type=tcp&headerType=none&host=api.mediapolyana.cc&path=%2F&fp=chrome#ð XX - 011
+vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?mode=gun&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=www.bing.com&spx=%2F&type=grpc&fp=ios#ð«ð® FI - 002
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@nl.alpheratzz.org:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=api-v2-6ad3c751.vmagnum.win&mode=stream-one&fp=chrome#ð³ð± NL - 003
