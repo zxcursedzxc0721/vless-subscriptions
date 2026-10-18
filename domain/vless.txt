@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-18T19:00:27.318Z
+# Updated: 2026-10-18T20:00:27.196Z
 # Configs: 481
 
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@kilnledger.10media.top:443?encryption=none&type=grpc&security=tls&sni=kilnledger.10media.top&serviceName=studiofeed&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
