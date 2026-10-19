@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-19T02:00:26.408Z
+# Updated: 2026-10-19T03:00:26.350Z
 # Configs: 18
 
-vless://88737cd7-fc18-4209-b22a-b0429e81b9a3@189.74.114.135:443?security=tls&sni=api.mediaplotina.cc&type=grpc&serviceName=3e99d50d5740985d&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+vless://88737cd7-fc18-4209-b22a-b0429e81b9a3@189.74.114.135:443?encryption=none&fp=firefox&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaplotina.cc&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@145.249.109.112:27311?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=9vHDWMrmerdjndp_XHbCc9jaR-9K95H_mwpLvI2emkY&sid=56daff9a&sni=metrika.yandex.ru#0006 | 🇪🇸 Spain | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@145.249.109.112:27311?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=9vHDWMrmerdjndp_XHbCc9jaR-9K95H_mwpLvI2emkY&sid=56daff9a&sni=metrika.yandex.ru#0031 | 🇪🇸 Spain | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#0387 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
