@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-19T17:00:27.670Z
+# Updated: 2026-10-19T18:00:28.154Z
 # Configs: 479
 
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@ru-auto-02.10media.top:443?security=tls&sni=ru-auto-02.10media.top&alpn=h2&type=grpc&serviceName=northfeed&packetEncoding=xudp&encryption=none&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
