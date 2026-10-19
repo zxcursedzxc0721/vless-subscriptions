@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-19T04:00:26.670Z
+# Updated: 2026-10-19T05:00:26.761Z
 # Configs: 18
 
 vless://88737cd7-fc18-4209-b22a-b0429e81b9a3@189.74.114.135:443?encryption=none&fp=firefox&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaplotina.cc&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
