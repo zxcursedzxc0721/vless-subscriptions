@@ -3,114 +3,36 @@
     "id": "all",
     "name": "ALL",
     "flag": "🏳️",
-    "count": 2233
+    "count": 2225
   },
   {
     "id": "euro",
     "name": "EURO",
     "flag": "🏳️",
-    "count": 18
+    "count": 2
   },
   {
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 1227
+    "count": 1214
   },
   {
     "id": "domain",
     "name": "Домен",
     "flag": "🌐",
-    "count": 487
+    "count": 484
   },
   {
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 475
+    "count": 524
   },
   {
     "id": "zz",
     "name": "ZZ",
     "flag": "🏳️",
-    "count": 2
-  },
-  {
-    "id": "gb",
-    "name": "Великобритания",
-    "flag": "🇬🇧",
-    "count": 4
-  },
-  {
-    "id": "ee",
-    "name": "Эстония",
-    "flag": "🇪🇪",
-    "count": 1
-  },
-  {
-    "id": "de",
-    "name": "Германия",
-    "flag": "🇩🇪",
-    "count": 4
-  },
-  {
-    "id": "tr",
-    "name": "TR",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
-    "id": "es",
-    "name": "Испания",
-    "flag": "🇪🇸",
-    "count": 5
-  },
-  {
-    "id": "us",
-    "name": "США",
-    "flag": "🇺🇸",
-    "count": 6
-  },
-  {
-    "id": "ae",
-    "name": "AE",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
-    "id": "pl",
-    "name": "Польша",
-    "flag": "🇵🇱",
-    "count": 1
-  },
-  {
-    "id": "il",
-    "name": "IL",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
-    "id": "tw",
-    "name": "TW",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
-    "id": "sg",
-    "name": "Сингапур",
-    "flag": "🇸🇬",
-    "count": 1
-  },
-  {
-    "id": "th",
-    "name": "TH",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
-    "id": "ch",
-    "name": "Швейцария",
-    "flag": "🇨🇭",
     "count": 1
   },
   {
