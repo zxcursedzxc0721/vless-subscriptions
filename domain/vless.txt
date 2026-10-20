@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-20T11:00:18.949Z
+# Updated: 2026-10-20T12:00:19.493Z
 # Configs: 473
 
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&type=xhttp&sni=ru2.radiolumens.uk&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://f83ce3c4-07d9-4895-bd14-cb74abbcab37@qcloudge1.exitvpn.shop:20268?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru#0100 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@sweedenqfds777.qcloud.surf:21221?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RtxGqCtQJeOyUwSe7k6oZOrQWV1hPbC-TMqqgxl9fn4&sid=c430045c&sni=metrika.yandex.ru#0182 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
