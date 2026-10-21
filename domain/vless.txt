@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-21T17:00:19.393Z
+# Updated: 2026-10-21T18:00:19.014Z
 # Configs: 472
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?encryption=none&host=summerculture.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20CDN
