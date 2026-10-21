@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-21T09:00:19.047Z
+# Updated: 2026-10-21T10:00:18.966Z
 # Configs: 3
 
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@45.9.12.3:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=russia.russiavibory.ru&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&allowInsecure=1&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20%5B%2ACIDR%5D
