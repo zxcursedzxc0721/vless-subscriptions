@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-21T16:00:23.029Z
+# Updated: 2026-10-21T17:00:19.393Z
 # Configs: 472
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?encryption=none&security=tls&sni=summerculture.net&alpn=h2%2Chttp%2F1.1&type=xhttp&host=summerculture.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?encryption=none&host=summerculture.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20CDN
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@ww3.levikogjgfdd.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&packetEncoding=none#0043 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://f83ce3c4-07d9-4895-bd14-cb74abbcab37@qcloudge1.exitvpn.shop:20268?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru#0151 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
