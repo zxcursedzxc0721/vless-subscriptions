@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-21T22:00:44.092Z
+# Updated: 2026-10-21T23:00:44.624Z
 # Configs: 482
 
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?encryption=none&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&security=reality&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
