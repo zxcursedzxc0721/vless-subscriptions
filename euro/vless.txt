@@ -1,8 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-22T07:00:45.772Z
-# Configs: 3
+# Updated: 2026-10-22T08:00:48.341Z
+# Configs: 2
 
 vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?security=reality&encryption=none&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&headerType=none&fp=chrome&type=tcp&sni=mirror.yandex.ru&sid=d94e8f45#🇷🇺 Obhod WBL | mirror.yandex.ru
 vless://2c5268a3-4d6b-43ec-8930-a5de3d3cbbb7@45.8.228.173:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zl_9lzG7OEYb9p6gLEvuF4U5Qvx0c7a4HhSTiQDexg8&security=reality&sni=dzen.ru&type=tcp#🇵🇱 Obhod WBL | dzen.ru
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@45.9.12.7:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=peskov.russiavibory.online#ð XX - 012
