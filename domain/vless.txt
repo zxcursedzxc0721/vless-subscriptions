@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-22T05:00:46.505Z
+# Updated: 2026-10-22T06:00:45.110Z
 # Configs: 486
 
 vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@lalibobi.online:443/?encryption=none&flow=&security=tls&serviceName=lalibobi.orbit.v3.Connect&sni=lalibobi.online&type=grpc&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
