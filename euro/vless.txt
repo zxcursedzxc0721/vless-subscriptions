@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-22T00:00:47.047Z
+# Updated: 2026-10-22T01:00:44.122Z
 # Configs: 15
 
 vless://261160d5-0343-4b85-8c28-3d40dd681559@45.128.78.171:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20ozon.ru
