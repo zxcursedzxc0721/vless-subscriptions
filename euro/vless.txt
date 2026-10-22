@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-22T05:00:46.505Z
+# Updated: 2026-10-22T06:00:45.110Z
 # Configs: 17
 
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@45.9.12.7:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&security=reality&sni=peskov.russiavibory.online&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
