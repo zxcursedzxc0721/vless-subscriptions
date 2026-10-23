@@ -1,12 +1,12 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-23T14:00:32.690Z
+# Updated: 2026-10-23T15:00:34.710Z
 # Configs: 476
 
+vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast80.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast80.slopllex.app&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast_s78.slopllex.app:443?security=tls&sni=fast_s78.slopllex.app&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@ap2.directly.chat:443?encryption=none&security=tls&sni=ap2.directly.chat&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ap2.directly.chat&path=%2Fmd%2F1&fp=ios#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@shop8.clubster.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&sid=7760b69926f2e507&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20%5B%2ACIDR%5D%20YA
+vless://6258d81e-70ad-41f2-b15d-3e6ee8fb3009@subs.wildvf.esal.cl:443/?type=httpupgrade&encryption=none&flow=&path=%2Fvless%2F40004&security=tls&sni=subs.wildvf.esal.cl&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@fitindoor.net:2053?type=xhttp&security=tls&fp=chrome&path=/api/v1/upload&host=fitindoor.net&mode=auto#0009 | 🌐 Unknown | 🏳️ CIDR-CDNetworks | VLESS | TG: @YoutubeUnBlockRu
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@ww3.levikogjgfdd.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&packetEncoding=none#0055 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
