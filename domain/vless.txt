@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-24T09:00:30.242Z
-# Configs: 484
+# Updated: 2026-10-24T10:00:28.552Z
+# Configs: 479
 
 vless://7c464358-6c89-4623-bd20-7c7bcd51bc55@vd2.outlinevpn.cc:12213?security=reality&type=tcp&sni=music.yandex.ru&host=music.yandex.ru&flow=xtls-rprx-vision&pbk=kTKM-s7XF0s878Ydmq1KeZFiGT6k1Bw_rLE79s1l1jI&sid=6a29a03b21&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20music.yandex.ru
 vless://736d08e1-27b0-4ec2-a5e0-4575e24da6b5@edge.jagavps.ru:443?type=tcp&security=reality&sni=edge.jagavps.ru&flow=xtls-rprx-vision&pbk=NiUsL7f8tuEUltpr9UC98fnZQs510PlQDCCi32WbgAA&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
@@ -482,8 +482,3 @@ vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?type=tcp&se
 vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun&fp=android#🇳🇱 Obhod WBL | api-maps.yandex.ru
 vless://84124a40-4b02-4762-a3a6-6cf43f297724@rumain.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#🇷🇺 Obhod WBL | eh.vk.com
 vless://805b52df-0581-495b-b8b5-b99594424053@gos9.portal-guard.com:8080?security=reality&type=xhttp&headerType=&path=%2F&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%2010%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&sni=ozon.ru&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#🇬🇧 Obhod WBL | ozon.ru
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&security=reality&serviceName=0adb9638509b&sid=b3c9d0c6bdd114a6&sni=36a466g.fi1.h1clayd.click&type=grpc&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@3f8efdt.fi1.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=3f8efdt.fi1.h1clayd.click&sid=023a1e6ffc32be10&pbk=1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-vless://5af23e36-62b7-4765-b27d-ed070f0535ed@95sub.ghost-lan.com:8444?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&pbk=bqLr1d3mbuP10WAYxWj8OEdSuZlVvrywrKq2U6ACw2w&sid=12b9ecabbf3a3b88&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://c8c54160-129b-43d1-8700-91c31f0984c7@de.questlobby.com:443?security=tls&sni=de.questlobby.com&type=ws&path=%2Fflow%2F&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
-vless://3a4c521f-ac6d-4f82-ace9-2c630b8f0b9d@yt-r.white-aist.com:443?flow=xtls-rprx-vision&security=reality&sni=yt-r.white-aist.com&pbk=ja3r1hu9paHOEQDlMOvRuN4lXS33bXnp3B2xeWjBXHU&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
