@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-24T05:00:29.526Z
+# Updated: 2026-10-24T06:00:30.157Z
 # Configs: 20
 
-vless://46785352-db89-4839-8079-d4c69ad87996@45.8.228.173:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zl_9lzG7OEYb9p6gLEvuF4U5Qvx0c7a4HhSTiQDexg8&security=reality&sni=dzen.ru&type=raw#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23111
+vless://46785352-db89-4839-8079-d4c69ad87996@45.8.228.173:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zl_9lzG7OEYb9p6gLEvuF4U5Qvx0c7a4HhSTiQDexg8&security=reality&sni=dzen.ru&type=raw#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%2399
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@103.91.147.238:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5BSNI-RU%5D%20ozon.ru
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@103.91.147.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5BSNI-RU%5D%20ozon.ru
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@113.30.154.251:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ai.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
