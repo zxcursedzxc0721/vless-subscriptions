@@ -1,14 +1,15 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-23T23:00:31.380Z
-# Configs: 477
+# Updated: 2026-10-24T00:00:27.801Z
+# Configs: 478
 
-vless://7c464358-6c89-4623-bd20-7c7bcd51bc55@vd2.outlinevpn.cc:12213?security=reality&encryption=none&pbk=kTKM-s7XF0s878Ydmq1KeZFiGT6k1Bw_rLE79s1l1jI&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=music.yandex.ru&sid=6a29a03b21&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20music.yandex.ru
-vless://928a3079-7c20-40cc-9c92-e878ba959dcd@smart.werfad.online:443?encryption=none&type=xhttp&security=tls&sni=smart.werfad.online&alpn=h2&path=%2Fconnect%2Fstream%2Fxk7Qp2mZ&mode=packet-up&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@gw1.securecdn-app.xyz:24096?encryption=none&type=xhttp&security=tls&sni=ck5.securecdn-app.xyz&alpn=h2%2Chttp%2F1.1&path=%2Fassets%2Fv1&host=ck5.securecdn-app.xyz&mode=packet-up&fp=android#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%7C%20%5B%2ACIDR%5D
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7&fp=android#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20%5B%2ACIDR%5D
-vless://4f7d0057-44d8-499e-8e5c-68fdd63698fd@reg2.gorodokmedia.com:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=wE9QWTa1G-PLRsptUiCjR32a2knp0-5af-snscsxexc&sid=a91d3f7c&sni=reg2.gorodokmedia.com&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
-vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@shop8.clubster.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&sid=7760b69926f2e507&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D%20YA
+vless://7c464358-6c89-4623-bd20-7c7bcd51bc55@vd2.outlinevpn.cc:12213?security=reality&encryption=none&pbk=kTKM-s7XF0s878Ydmq1KeZFiGT6k1Bw_rLE79s1l1jI&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=music.yandex.ru&sid=6a29a03b21&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20music.yandex.ru
+vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&fp=&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&security=reality&serviceName=0adb9638509b&sid=b3c9d0c6bdd114a6&sni=36a466g.fi1.h1clayd.click&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@3f8efdt.fi1.h1clayd.click:443?encryption=none&security=reality&sni=3f8efdt.fi1.h1clayd.click&fp=edge&pbk=1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY&sid=023a1e6ffc32be10&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&fp=&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@gw1.securecdn-app.xyz:24096?encryption=none&type=xhttp&security=tls&sni=ck5.securecdn-app.xyz&alpn=h2%2Chttp%2F1.1&path=%2Fassets%2Fv1&host=ck5.securecdn-app.xyz&mode=packet-up&fp=firefox#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%5B%2ACIDR%5D
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D
+vless://4f7d0057-44d8-499e-8e5c-68fdd63698fd@reg2.gorodokmedia.com:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=wE9QWTa1G-PLRsptUiCjR32a2knp0-5af-snscsxexc&sid=a91d3f7c&sni=reg2.gorodokmedia.com#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@fitindoor.net:2053?type=xhttp&security=tls&fp=chrome&path=/api/v1/upload&host=fitindoor.net&mode=auto#0010 | 🌐 Unknown | 🏳️ CIDR-CDNetworks | VLESS | TG: @YoutubeUnBlockRu
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@ww3.levikogjgfdd.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&packetEncoding=none#0056 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
