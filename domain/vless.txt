@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-24T05:00:29.526Z
+# Updated: 2026-10-24T06:00:30.157Z
 # Configs: 477
 
 vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@gw1.securecdn-app.xyz:24096?type=xhttp&security=tls&sni=ck5.securecdn-app.xyz&alpn=h2%2Chttp%2F1.1&path=%2Fassets%2Fv1&host=ck5.securecdn-app.xyz&mode=packet-up&fp=firefox#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%5B%2ACIDR%5D
