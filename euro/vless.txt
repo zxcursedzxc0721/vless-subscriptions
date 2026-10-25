@@ -1,8 +1,27 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-24T23:00:28.498Z
-# Configs: 3
+# Updated: 2026-10-25T00:00:28.476Z
+# Configs: 22
 
-vless://61c145f0-d4cb-4384-b30e-21095ffeef37@45.9.118.185:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@103.91.147.235:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5BSNI-RU%5D%20ozon.ru
+vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.128.78.176:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20ozon.ru
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@201.51.8.163:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=atk.vkusnews.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@103.91.147.210:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.ozon.ru#0070 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@113.30.154.220:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#0373 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://680e92ac-1688-49e0-af96-7327fbc30ce8@103.91.147.228:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.ozon.ru#0498 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@103.91.147.218:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ai.ozon.ru#0925 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@103.91.147.253:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=gb.ozon.ru#1068 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#1328 | 🇸🇬 Singapore | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@103.91.147.220:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=gb.ozon.ru#1466 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#1640 | 🇬🇧 United Kingdom | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@113.30.154.216:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#1772 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@51.77.108.218:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#2363 | 🇬🇧 United Kingdom | 🏳️ SNI-Ozon | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru#2566 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@113.30.154.226:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.ozon.ru#2818 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://680e92ac-1688-49e0-af96-7327fbc30ce8@113.30.154.240:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#3052 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@103.91.147.215:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.ozon.ru#3200 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@113.30.154.251:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ai.ozon.ru#3326 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@103.91.147.208:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=gb.ozon.ru#3524 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@113.30.154.246:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#3624 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
 vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?security=reality&encryption=none&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&headerType=none&fp=chrome&type=tcp&sni=mirror.yandex.ru&sid=d94e8f45#🇷🇺 Obhod WBL | mirror.yandex.ru
 vless://2c5268a3-4d6b-43ec-8930-a5de3d3cbbb7@45.8.228.173:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zl_9lzG7OEYb9p6gLEvuF4U5Qvx0c7a4HhSTiQDexg8&security=reality&sni=dzen.ru&type=tcp#🇵🇱 Obhod WBL | dzen.ru
