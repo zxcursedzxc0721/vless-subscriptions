@@ -1,8 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-26T22:00:28.372Z
+# Updated: 2026-10-26T23:00:26.166Z
 # Configs: 3
 
-vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@45.9.118.219:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#1055 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
-vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@45.9.118.194:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#2843 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@45.9.118.219:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#1070 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
+vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@45.9.118.194:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#2894 | 🇷🇺 Russia | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu
 vless://46785352-db89-4839-8079-d4c69ad87996@45.8.228.173:8443?type=raw&security=reality&encryption=none&sni=dzen.ru&fp=firefox&pbk=Zl_9lzG7OEYb9p6gLEvuF4U5Qvx0c7a4HhSTiQDexg8&flow=xtls-rprx-vision&headerType=none#🇷🇺 Obhod WBL | dzen.ru
