@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-27T22:00:32.668Z
+# Updated: 2026-10-27T23:00:27.905Z
 # Configs: 1
 
 vless://4b1be712-774c-4b65-8491-a3339e124a70@45.9.12.110:443?encryption=none&flow=xtls-rprx-vision&pbk=myIjvlXZS0rm1eg4q2w5WsQBuj80i2rBA0HpRGCUg1w&security=reality&sid=86d1efde&sni=ru.letsconnectpoint.com&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
