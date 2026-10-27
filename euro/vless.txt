@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-27T07:00:28.663Z
+# Updated: 2026-10-27T08:00:29.431Z
 # Configs: 1
 
 vless://46785352-db89-4839-8079-d4c69ad87996@45.8.228.173:8443?type=raw&security=reality&encryption=none&sni=dzen.ru&fp=firefox&pbk=Zl_9lzG7OEYb9p6gLEvuF4U5Qvx0c7a4HhSTiQDexg8&flow=xtls-rprx-vision&headerType=none#🇷🇺 Obhod WBL | dzen.ru
