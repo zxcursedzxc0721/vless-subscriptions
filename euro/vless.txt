@@ -1,9 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-28T05:00:27.839Z
+# Updated: 2026-10-28T06:00:28.789Z
 # Configs: 17
 
-vless://4b1be712-774c-4b65-8491-a3339e124a70@45.9.12.110:443?&security=reality&flow=xtls-rprx-vision&pbk=myIjvlXZS0rm1eg4q2w5WsQBuj80i2rBA0HpRGCUg1w&sid=86d1efde&fp=firefox&sni=ru.letsconnectpoint.com&type=tcp&headerType=none&host=ru.letsconnectpoint.com&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://4b1be712-774c-4b65-8491-a3339e124a70@45.9.12.110:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.letsconnectpoint.com&security=reality&pbk=myIjvlXZS0rm1eg4q2w5WsQBuj80i2rBA0HpRGCUg1w&sid=86d1efde&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru&packetEncoding=none#0036 | 🇸🇬 Singapore | 🏳️ SNI-Yandex | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru#0190 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@57.128.164.228:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru&packetEncoding=none#1206 | 🇬🇧 United Kingdom | 🏳️ SNI-Ozon | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
