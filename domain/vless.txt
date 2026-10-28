@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-28T20:00:45.948Z
-# Configs: 64
+# Updated: 2026-10-28T21:00:44.869Z
+# Configs: 59
 
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?type=grpc&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&mode=gun&serviceName=vless-grpc-reality&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D
@@ -62,8 +62,3 @@ vless://8bd04756-3beb-4348-82c9-d35453df50ce@qcloudge1.exitvpn.shop:20268?encryp
 vless://3fcec4e4-a674-44d2-8cae-c253cec43b9c@ns.l90909l.vip:2096?encryption=none&security=reality&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=vless-grpc-reality&mode=gun#🌐 Obhod WBL | id.vk.com
 vless://d4001352-dc64-48b8-b786-5860b284ad3d@de.poncheki.xyz:2083?encryption=none&type=grpc&serviceName=tjwvrf1q9d0n&mode=gun&security=reality&sni=vk.com&fp=firefox&pbk=NWNI1krUm5rhcIRnP3KVvatf9hNKu_H-93bPUdw4cxw&sid=0ad9fd399087e404#🌐 Obhod WBL | vk.com
 vless://84d6d574-face-4300-bd27-0eaf3d2942e1@de1-nv.jugploer.icu:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&security=reality&pbk=9k3mM_ZrMDDbd7i0ynyl7u1ZU2dqWcG_SHtm_Mk6xyY&sid=#🌐 Obhod WBL | eh.vk.com
-vless://cadb0528-e6fb-4896-8973-bb83f3d8eec5@vip.minecraftkrim.ru:8443?alpn=http%2F1.1&flow=xtls-rprx-vision&security=tls&sni=vip.minecraftkrim.ru&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-vless://fafc7c16-f890-45ee-a856-02df225172dd@b6a968g.fi7.h1clayd.click:443?encryption=none&type=grpc&security=reality&pbk=cO9GB66W4U7X6WR5LWL-mtwktwr2sOJ_RgTN7vYQojM&sni=b6a968g.fi7.h1clayd.click&sid=52970fb14e7248e6&serviceName=1d9692c21e23&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-vless://fafc7c16-f890-45ee-a856-02df225172dd@d0dc94t.fi7.h1clayd.click:443?encryption=none&type=tcp&security=reality&pbk=x9MHoriLB8T-vHaoM5LQTbSzaaWlNpZg6rEdM75QgRg&sni=d0dc94t.fi7.h1clayd.click&sid=3688e172d5b59457&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-vless://5f09ffe7-fbff-411f-b68f-2a0677626a44@telatviast.link:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc&sni=telatviast.link&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-vless://47e215c1-6648-455d-97f7-4f758d910f05@rus19.roscomsosal.de:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=rus19.roscomsosal.de&type=tcp&headerType=none&fm=%7B%7D&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
