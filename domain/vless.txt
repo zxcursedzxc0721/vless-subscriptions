@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-10-29T17:00:32.639Z
+# Updated: 2026-10-29T18:00:32.425Z
 # Configs: 46
 
 vless://04b7c62b-762e-4a8c-ba37-8328d25c8d74@ararat.rtkdvbr.cc:443?path=%2Famws&security=tls&encryption=none&insecure=0&host=ararat.rtkdvbr.cc&type=ws&allowInsecure=0&sni=ararat.rtkdvbr.cc&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
