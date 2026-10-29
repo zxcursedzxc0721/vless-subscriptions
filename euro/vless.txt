@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-29T13:00:33.202Z
+# Updated: 2026-10-29T14:00:36.642Z
 # Configs: 1
 
 vless://8bab5583-04b1-4b83-96e8-4ed46062eeb7@45.9.14.206:443?security=reality&encryption=none&pbk=HOPfurPXpsRunElwZRRKP33TrHbb6mogS5NafRNWpjU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=haharu2.xixihaha.it.com&sid=bd3fedb4&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
