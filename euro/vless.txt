@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-29T00:00:45.192Z
+# Updated: 2026-10-29T01:00:42.093Z
 # Configs: 17
 
 vless://c6628db6-025d-40e8-b79d-033f4372a6b7@189.74.114.93:443?type=grpc&security=tls&sni=api.mediaklenov.cc&serviceName=3e99d50d5740985d&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
