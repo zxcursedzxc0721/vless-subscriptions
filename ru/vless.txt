@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: RU
-# Updated: 2026-10-30T02:00:40.172Z
+# Updated: 2026-10-30T02:00:50.878Z
 # Configs: 284
 
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%231
