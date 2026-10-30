@@ -1,10 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-10-30T02:00:50.878Z
+# Updated: 2026-10-30T03:00:39.980Z
 # Configs: 15
 
 vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@189.74.114.119:443?encryption=none&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&type=grpc&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://c6628db6-025d-40e8-b79d-033f4372a6b7@189.74.114.93:443?encryption=none&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://c6628db6-025d-40e8-b79d-033f4372a6b7@189.74.114.93:443?encryption=none&security=tls&serviceName=3e99d50d5740985d&sni=api.mediaklenov.cc&type=grpc&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru#0150 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?type=tcp&security=reality&fp=chrome&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&sid=67ece882d65d0f1a&sni=m.vk.com#1107 | 🇫🇮 Finland | 🏳️ SNI-VK | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#1136 | 🇬🇧 United Kingdom | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
