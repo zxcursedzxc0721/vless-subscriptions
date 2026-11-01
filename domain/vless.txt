@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-01T13:00:40.606Z
+# Updated: 2026-11-01T14:00:40.609Z
 # Configs: 38
 
 vless://7dd69047-047e-422e-a2ba-ed773c34fd1a@flatcrest.net:8443?encryption=none&type=xhttp&security=tls&sni=flatcrest.net&host=flatcrest.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=edge#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20CDN
