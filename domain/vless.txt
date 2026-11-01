@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-01T17:00:43.207Z
+# Updated: 2026-11-01T18:00:41.002Z
 # Configs: 27
 
 vless://6116f0f3-15eb-4217-b38e-16514dc00ba1@fr1.robotodata.ru:7443?encryption=none&security=tls&sni=ru2.datacore-tech.ru&fp=safari&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
