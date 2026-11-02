@@ -1,16 +1,14 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-02T04:00:40.159Z
-# Configs: 35
+# Updated: 2026-11-02T05:00:39.961Z
+# Configs: 33
 
-vless://7dd69047-047e-422e-a2ba-ed773c34fd1a@flatcrest.net:8443?type=xhttp&security=tls&fp=firefox&sni=flatcrest.net&path=/api/v1/upload&host=flatcrest.net&mode=auto#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20CDN
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?type=ws&security=tls&path=/blog/posts&host=lorettmay.top&sni=lorettmay.top&fp=firefox&alpn=http/1.1&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@es3.h1cloud.net:25150/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=firefox&security=reality&pbk=Qvn7tV54mdqxJ40LmmoI1PRM1QKXEbfFOZS-omPKhGY&sid=4301a484cc762aa6#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
-vless://241306b3-9f27-4ed3-9524-6c0792c55856@ch2.h1cloud.net:25879/?type=tcp&encryption=none&flow=&sni=www.bing.com&security=reality&pbk=XuI492LMe1OPIwQH5TQlIo33JRqMM3kfnto62tbx5FU&sid=f1a7a14461a3f389&fp=qq#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
-vless://b877b58f-5995-4b25-abec-3213a2f95512@cdn.freetato-converting.ru:2096?path=%2Fchxh&security=tls&encryption=none&insecure=0&host=cdn.freetato-converting.ru&type=xhttp&allowInsecure=0&sni=cdn.freetato-converting.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
-vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?&security=reality&flow=xtls-rprx-vision&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&sid=17fa3af0924c88b3&fp=chrome&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B%2ACIDR%5D
+vless://7dd69047-047e-422e-a2ba-ed773c34fd1a@flatcrest.net:8443?alpn=http%2F1.1%2Ch2&host=flatcrest.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=flatcrest.net&type=xhttp&fp=firefox#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20CDN
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+vless://241306b3-9f27-4ed3-9524-6c0792c55856@ch2.h1cloud.net:25879?headerType=none&host=www.bing.com&path=%2F&pbk=XuI492LMe1OPIwQH5TQlIo33JRqMM3kfnto62tbx5FU&security=reality&sid=f1a7a14461a3f389&sni=www.bing.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
+vless://b877b58f-5995-4b25-abec-3213a2f95512@cdn.freetato-converting.ru:2096?path=/chxh&security=tls&encryption=none&insecure=0&host=cdn.freetato-converting.ru&type=xhttp&allowInsecure=0&sni=cdn.freetato-converting.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
 vless://c05ec3c7-2784-da2b-aa98-a3c132860fcb@xnod13x.artemida.live:8443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&security=reality&sid=a1b2c3d4e5f6a7b8&sni=xnod13x.artemida.live&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2359.kukuss.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=u695098u14c5ddd4s2358.gogocs.xyz&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2359.kukuss.top:443?security=tls&type=tcp&sni=u695098u14c5ddd4s2358.gogocs.xyz&host=u695098u14c5ddd4s2358.gogocs.xyz&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2360.kukuss.top:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision&sni=u695098u14c5ddd4s2358.gogocs.xyz#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://f7e9aed5-74eb-4436-ad3d-10b64f3bb187@sub-edge-12-1g.xrent.cloud:11451?type=xhttp&security=reality&fp=chrome&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&sni=ligastavok.ru#0416 | 🌐 Unknown | 🏳️ CIDR-VK | 🏳️ SNI-OK | VLESS | TG: @YoutubeUnBlockRu
