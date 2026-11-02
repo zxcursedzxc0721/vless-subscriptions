@@ -1,10 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-02T14:00:40.848Z
+# Updated: 2026-11-02T15:00:41.101Z
 # Configs: 13
 
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@72.56.11.115:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=dl-65.topp-con.xyz&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@72.56.11.99:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=updates-94.topp-con.xyz&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@72.56.11.99:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=updates-94.topp-con.xyz&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru#0194 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://a7f73594-fcba-437e-9159-62a043e96ea1@51.250.45.45:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0FsVveXXSVSAOdFmO9gDCAqTLuXFUmIvOH4ynPCy3lw&sid=56057acd033fa61d&sni=ya.ru#0940 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#1343 | 🇬🇧 United Kingdom | 🏳️ SNI-X5 | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
