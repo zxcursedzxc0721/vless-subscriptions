@@ -1,8 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-02T08:00:40.452Z
+# Updated: 2026-11-02T09:00:40.644Z
 # Configs: 13
 
+vless://a7f73594-fcba-437e-9159-62a043e96ea1@51.250.45.45:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0FsVveXXSVSAOdFmO9gDCAqTLuXFUmIvOH4ynPCy3lw&security=reality&sid=56057acd033fa61d&sni=ya.ru&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%2362
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@72.56.11.115:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=dl-65.topp-con.xyz&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@72.56.11.99:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=updates-94.topp-con.xyz&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
 vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#0024 | 🇸🇬 Singapore | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
@@ -10,7 +11,6 @@ vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&securit
 vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?type=tcp&security=reality&fp=edge&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&sid=67ece882d65d0f1a&sni=m.vk.com#0835 | 🇫🇮 Finland | 🏳️ SNI-VK | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://2d2f710b-574c-43e7-bc8c-8d69c3e7806a@138.124.53.224:30447?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=516PSdm_rjV1YdoGT8npOHTH3u8SfiD-2gV-Tkax02g&sid=850a8440dff47fe2&sni=ok.ru#1391 | 🇩🇪 Germany | 🏳️ SNI-OK | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#1685 | 🇬🇧 United Kingdom | 🏳️ SNI-X5 | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
-vless://a7f73594-fcba-437e-9159-62a043e96ea1@51.250.45.45:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0FsVveXXSVSAOdFmO9gDCAqTLuXFUmIvOH4ynPCy3lw&sid=56057acd033fa61d&sni=ya.ru#1813 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://48eb49ce-38b5-4ed1-b6ab-8eaf37cde710@51.250.89.125:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=jOmP_dqNqx6SDQ6Orso5rKGkTQhrFSSgGaq39I2siE4&sid=6c61720cfed28f1a&sni=ya.ru#2051 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?&security=reality&flow=xtls-rprx-vision&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271&fp=firefox&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://d518b4e2-bd6e-4d4e-a26e-238154d8d60c@34.118.70.195:443?fp=ios&pbk=t_ql5pn5MG1bkVQoteCXoKkSTzUzOs_yXMllmsyiqXY&security=reality&sid=7445870d4c2bdcb0&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
