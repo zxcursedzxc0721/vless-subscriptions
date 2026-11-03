@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-03T10:00:51.479Z
-# Configs: 14
+# Updated: 2026-11-03T11:00:51.056Z
+# Configs: 15
 
 vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?type=tcp&security=reality&fp=chrome&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&sid=67ece882d65d0f1a&sni=m.vk.com#0417 | 🇫🇮 Finland | 🏳️ SNI-VK | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&host=passport.yandex.ru#1263 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
@@ -17,3 +17,4 @@ vless://ee39fb11-56a3-4ee7-9e7c-35a4235bd30e@107.181.151.241:443?type=tcp&securi
 vless://317bc783-340f-453c-afb5-b6bf637c0b23@107.181.151.241:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=fc994ae7eb10&sni=www.tradingview.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://5c914259-eea5-4a62-9a65-f2ada4a249e3@51.250.74.50:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🇷🇺 Obhod WBL | api-maps.yandex.ru
 vless://7f99eb58-5983-006e-9c02-d8cea49f7074@45.8.99.5:443?encryption=none&path=%2Faqkk8j6ayx76aw67mb&pbk=0omtLHQHyKnV7w05maiOqvL5PvxdCQKw_zDqqgR28X8&security=reality&sid=8d0ff3d6ec629371&sni=ozon.ru&type=xhttp&fp=firefox#🇷🇺 Obhod WBL | ozon.ru
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@54.37.2.245:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru&encryption=none#🇬🇧 Obhod WBL | ozon.ru
