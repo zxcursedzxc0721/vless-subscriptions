@@ -1,12 +1,10 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-03T10:00:51.479Z
-# Configs: 18
+# Updated: 2026-11-03T11:00:51.056Z
+# Configs: 16
 
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?mode=gun&security=reality&encryption=none&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&spx=%2F&type=grpc&serviceName=grpc-90&sni=max.ru&sid=cbc638acc8ac87&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443/?type=grpc&encryption=none&flow=&serviceName=grpc-90&sni=max.ru&security=reality&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sid=cbc638acc8ac87&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20%5BSNI-RU%5D%20max.ru
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2359.kukuss.top:443?type=tcp&encryption=none&security=tls&path=%2F&flow=xtls-rprx-vision&sni=u695098u14c5ddd4s2358.gogocs.xyz&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2360.kukuss.top:443?security=tls&type=tcp&sni=u695098u14c5ddd4s2358.gogocs.xyz&path=%2F&host=u695098u14c5ddd4s2358.gogocs.xyz&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sni=qq.utiltools.site#0444 | 🌐 Unknown | 🏳️ CIDR-CDNetworks | VLESS | TG: @YoutubeUnBlockRu
 vless://a0052f4f-4c63-485a-a16f-ab2d5d718cd3@vivozim.vyvoz-musora.cc:443?type=ws&security=tls&fp=ios&sni=vivozim.vyvoz-musora.cc&host=vivozim.vyvoz-musora.cc#1528 | 🌐 Unknown | 🏳️ CIDR-VK | VLESS | TG: @YoutubeUnBlockRu
