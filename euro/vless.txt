@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-03T18:00:52.133Z
+# Updated: 2026-11-03T19:00:51.880Z
 # Configs: 1
 
 vless://7f99eb58-5983-006e-9c02-d8cea49f7074@45.8.99.5:443?path=%2Faqkk8j6ayx76aw67mb&pbk=0omtLHQHyKnV7w05maiOqvL5PvxdCQKw_zDqqgR28X8&security=reality&sid=8d0ff3d6ec629371&sni=ozon.ru&type=xhttp&fp=ios#🇷🇺 Obhod WBL | ozon.ru
