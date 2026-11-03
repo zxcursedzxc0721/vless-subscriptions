@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-03T15:00:52.080Z
-# Configs: 18
+# Updated: 2026-11-03T16:00:58.889Z
+# Configs: 19
 
 vless://8a2e5400-c81c-4b11-821c-f42d4710c469@api.mediaroshcha.cc:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=api.mediaroshcha.cc&sid=a8&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%5B%2ACIDR%5D
 vless://4460652a-ac34-454d-a119-afe8f4dde1a0@ru-in-ind-4vp.fast-cdn24.com:443?security=reality&encryption=none&pbk=NUjWUMNrcZKkvXmnK--E7wn_YyhEH6c-YOqjDMHWAxA&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ru-in-ind-4vp.fast-cdn24.com&sid=686b3e179573a80a&fp=edge#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
@@ -20,4 +20,5 @@ vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?type=tcp&security
 vless://d6dba391-9247-4a51-9e9b-eae045378b90@fox.chocolatemango.live:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Obhod WBL | max.ru
 vless://e0175038-ec6f-476a-8745-15828f774152@95sub.ghost-lan.com:8442?security=reality&encryption=none&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=a7f9106ba66e4796#🇷🇺 Obhod WBL | max.ru
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@ww3.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#🇷🇺 Obhod WBL | passport.yandex.ru
+vless://d4001352-dc64-48b8-b786-5860b284ad3d@de.poncheki.xyz:2083?type=grpc&security=reality&sni=vk.com&fp=firefox&pbk=NWNI1krUm5rhcIRnP3KVvatf9hNKu_H-93bPUdw4cxw&sid=0ad9fd399087e404#🇩🇪 Obhod WBL | vk.com
 vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?mode=gun&type=grpc&security=reality&sni=max.ru&fp=chrome&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sid=cbc638acc8ac87&spx=%2F&serviceName=grpc-90#🇫🇷 Obhod WBL | max.ru
