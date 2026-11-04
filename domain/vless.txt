@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-04T03:00:51.227Z
+# Updated: 2026-11-04T04:00:50.950Z
 # Configs: 35
 
 vless://613b64fe-b88d-42db-9d4f-26b8654d4060@dep.slovarik.xyz:10443?encryption=none&security=tls&type=tcp&sni=www.slovarik.xyz&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B%2ACIDR%5D
