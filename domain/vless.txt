@@ -1,19 +1,14 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-04T06:00:50.769Z
-# Configs: 34
+# Updated: 2026-11-04T07:00:50.861Z
+# Configs: 29
 
-vless://613b64fe-b88d-42db-9d4f-26b8654d4060@dep.slovarik.xyz:10443?encryption=none&security=tls&type=tcp&sni=www.slovarik.xyz&flow=xtls-rprx-vision&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-vless://613b64fe-b88d-42db-9d4f-26b8654d4060@slovarik.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.slovarik.xyz&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B%2ACIDR%5D
-vless://7dd69047-047e-422e-a2ba-ed773c34fd1a@flatcrest.net:8443?encryption=none&type=xhttp&security=tls&sni=flatcrest.net&host=flatcrest.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=firefox#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20CDN
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?&security=reality&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&fp=chrome&sni=www.chip.de&type=tcp&headerType=none&host=de15.h1cloud.net&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://a292fd7d-d4ab-4441-aae3-69784202b321@basterdym.asia:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de1.v1&sni=basterdym.asia&type=grpc&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@es3.h1cloud.net:25150/?encryption=none&flow=&pbk=Qvn7tV54mdqxJ40LmmoI1PRM1QKXEbfFOZS-omPKhGY&security=reality&sid=4301a484cc762aa6&sni=www.samsung.com&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
-vless://94042dd1-d32a-4797-b88c-dc48459e2b34@100497t.de2.h1clayd.click:443?security=reality&type=tcp&sni=100497t.de2.h1clayd.click&host=100497t.de2.h1clayd.click&fp=random&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&sid=5be240e45d3c445c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://94042dd1-d32a-4797-b88c-dc48459e2b34@aaf9a7x.de2.h1clayd.click:443?type=xhttp&security=reality&path=%2F9e6c99f913ef&mode=auto&sni=aaf9a7x.de2.h1clayd.click&pbk=JxuqY729RxyPX7D1cZigwHUYbkSPIx2H7vNTcrj4VBs&sid=19a70eda3a2416cb&spx=%2F&encryption=none&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2360.kukuss.top:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision&sni=u695098u14c5ddd4s2358.gogocs.xyz#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2359.kukuss.top:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision&sni=u695098u14c5ddd4s2358.gogocs.xyz#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?host=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+vless://a292fd7d-d4ab-4441-aae3-69784202b321@basterdym.asia:443?type=grpc&security=tls&sni=basterdym.asia&mode=gun&serviceName=glush.de1.v1&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+vless://241306b3-9f27-4ed3-9524-6c0792c55856@ch2.h1cloud.net:25879/?type=tcp&encryption=none&flow=&sni=www.bing.com&security=reality&pbk=XuI492LMe1OPIwQH5TQlIo33JRqMM3kfnto62tbx5FU&sid=f1a7a14461a3f389&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2359.kukuss.top:443?type=tcp&encryption=none&security=tls&path=%2F&flow=xtls-rprx-vision&sni=u695098u14c5ddd4s2358.gogocs.xyz&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2360.kukuss.top:443?security=tls&type=tcp&sni=u695098u14c5ddd4s2358.gogocs.xyz&path=%2F&host=u695098u14c5ddd4s2358.gogocs.xyz&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sni=qq.utiltools.site#0083 | 🌐 Unknown | 🏳️ CIDR-CDNetworks | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@apply.betust.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&sid=b20168a5&sni=apply.betust.net#0163 | 🌐 Unknown | 🏳️ CIDR-Selectel | VLESS | TG: @YoutubeUnBlockRu
