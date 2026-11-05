@@ -1,12 +1,11 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-05T22:00:45.817Z
-# Configs: 47
+# Updated: 2026-11-05T23:00:45.610Z
+# Configs: 46
 
-vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@falmero.store:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de1.v1&security=tls&sni=falmero.store&alpn=h2&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@5a873ag.lt2.h1clayd.click:443?type=grpc&security=reality&pbk=-7jCGkgrVLVo1DgJrvOT_erdlIRf2IyVu1KGS409eBc&sid=40cdf901244028cb&sni=5a873ag.lt2.h1clayd.click&serviceName=8fcf9a0ebfb7&spx=%2F853ca9ab366a80d&support-x25519mlkem768=true&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@5a873ag.lt2.h1clayd.click:443?type=grpc&security=reality&pbk=-7jCGkgrVLVo1DgJrvOT_erdlIRf2IyVu1KGS409eBc&sid=40cdf901244028cb&sni=5a873ag.lt2.h1clayd.click&serviceName=8fcf9a0ebfb7&spx=%2F853ca9ab366a80d&support-x25519mlkem768=true&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
-vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@162afct.lt2.h1clayd.click:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=y_pzv7NPwU8d4gAC3r6f6FZN5vFmaKJK9YPEGOjSYB0&sid=51e7ad7303dba560&sni=162afct.lt2.h1clayd.click&support-x25519mlkem768=true&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@162afct.lt2.h1clayd.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=y_pzv7NPwU8d4gAC3r6f6FZN5vFmaKJK9YPEGOjSYB0&sid=51e7ad7303dba560&sni=162afct.lt2.h1clayd.click&support-x25519mlkem768=true&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sni=qq.utiltools.site#0013 | 🌐 Unknown | 🏳️ CIDR-CDNetworks | VLESS | TG: @YoutubeUnBlockRu
