@@ -1,11 +1,9 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-05T14:00:46.261Z
-# Configs: 36
+# Updated: 2026-11-05T15:00:46.104Z
+# Configs: 34
 
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2359.kukuss.top:443?security=tls&type=tcp&sni=u695098u14c5ddd4s2358.gogocs.xyz&path=%2F&host=u695098u14c5ddd4s2358.gogocs.xyz&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2360.kukuss.top:443?type=tcp&encryption=none&security=tls&path=%2F&flow=xtls-rprx-vision&sni=u695098u14c5ddd4s2358.gogocs.xyz&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://29777784-b5ad-4e2a-be7b-335f033ab97c@cdn.oldertown.ru:443?type=xhttp&security=tls&fp=firefox&sni=cdn.oldertown.ru&path=/api/v4/media/session/poll&host=cdn.oldertown.ru&mode=packet-up&extra={"xmux": {"cMaxReuseTimes": "128-256", "maxConcurrency": "8-16", "hKeepAlivePeriod": 30, "hMaxRequestTimes": "600-1000", "hMaxReusableSecs": "1800-3600"}, "seqKey": "offset", "headers": {"Accept": "application/vnd.api json, application/json, text/plain, */*", "Pragma": "no-cache", "Cache-Control": "no-cache", "Accept-Language": "ru-RU,ru&q=0.9,en-US&q=0.8,en&q=0.7"}, "xPaddingKey": "q", "seqPlacement": "query", "sessionIDKey": "media_sid", "uplinkDataKey": "X-Playback-Token", "xPaddingBytes": "48-320", "xPaddingMethod": "tokenish", "uplinkHTTPMethod": "GET", "xPaddingObfsMode": true, "xPaddingPlacement": "query", "scMaxBufferedPosts": 64, "scMaxEachPostBytes": "1536-6144", "sessionIDPlacement": "path", "uplinkDataPlacement": "header", "scMinPostsIntervalMs": "10-30", "serverMaxHeaderBytes": 32768}#0116 | 🌐 Unknown | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://03929684-0dcf-4add-bb02-2b2ba09d10a2@tfhx4tjzmy39benjh0hg.sellerape.cc:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Kamryj_IUYECmozGabqUqauA0k0QpVUEPSBSEKi-ED0&sni=tfhx4tjzmy39benjh0hg.sellerape.cc#0820 | 🌐 Unknown | 🏳️ CIDR-SmartApe | VLESS | TG: @YoutubeUnBlockRu
