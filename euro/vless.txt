@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-05T05:00:46.281Z
+# Updated: 2026-11-05T06:00:45.882Z
 # Configs: 2
 
 vless://d16f7276-b967-440d-88b7-76945654ed55@45.9.24.199:443?type=ws&security=tls&fp=chrome&sni=agrosnab-stv.biz&host=agrosnab-stv.biz#4697 | 🇷🇺 Russia | 🏳️ CIDR-CloudRu | VLESS | TG: @YoutubeUnBlockRu
