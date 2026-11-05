@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-05T05:00:46.281Z
+# Updated: 2026-11-05T06:00:45.882Z
 # Configs: 39
 
 vless://2f9ff2af-d0c5-4d40-bca0-cb1fbf1cc4bf@api.mediaroshcha.cc:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaroshcha.cc&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D
