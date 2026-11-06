@@ -1,9 +1,8 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-06T08:00:45.669Z
-# Configs: 13
+# Updated: 2026-11-06T09:00:45.650Z
+# Configs: 12
 
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@160.5.219.191:2081?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=raw#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%E2%80%94%20%2318
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru#0573 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#0987 | 🇬🇧 United Kingdom | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#1577 | 🇸🇬 Singapore | 🏳️ SNI-Yandex | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
