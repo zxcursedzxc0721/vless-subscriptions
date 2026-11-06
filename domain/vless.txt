@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-06T08:00:45.669Z
+# Updated: 2026-11-06T09:00:45.650Z
 # Configs: 56
 
 vless://73a0f995-f2f1-4d47-a99d-a6dcc1952bf9@telemetry.gitpacket.pro:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fv2%2Fquery%2Fzpxgr1pf%2F&security=tls&sni=telemetry.gitpacket.pro&type=ws&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
