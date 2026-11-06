@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-06T15:00:45.748Z
-# Configs: 58
+# Updated: 2026-11-06T16:00:45.889Z
+# Configs: 65
 
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 vless://1bbcd15c-aa70-4a09-9266-56951742c401@537df6t.ch4.h1clayd.click:443?type=tcp&security=reality&sni=537df6t.ch4.h1clayd.click&pbk=Q1X7TVCcrpg3d3lsRRpK-RF1ZQcPj_Yv5mUGvg7f1HE&sid=1577fac211816ec3&spx=%2F&encryption=none&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
@@ -51,13 +51,20 @@ vless://317bc783-340f-453c-afb5-b6bf637c0b23@staging.lastilhame.monster:443?type
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&security=reality&sid=5ee019e02e6ed99a&sni=yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=ee1716767f9b&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://6dfc9149-1ff9-41c3-8563-0ef284381731@server.slavkiti.monster:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.tradingview.com&fp=chrome&flow=xtls-rprx-vision&sid=1374bddeb25d&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://92b79c22-f68b-4713-8b21-52f264cb92f5@downloadchache1.song69.fun:28150?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=metrika.yandex.ru&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&fp=firefox#🇷🇺 Obhod WBL | metrika.yandex.ru
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#🇫🇷 Obhod WBL | metrika.yandex.ru
+vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@rapira-dof.whitenw.net:8445?security=reality&encryption=none&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru#🇷🇺 Obhod WBL | passport.yandex.ru
 vless://d6dba391-9247-4a51-9e9b-eae045378b90@fox.chocolatemango.live:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Obhod WBL | max.ru
 vless://e0175038-ec6f-476a-8745-15828f774152@95sub.ghost-lan.com:8442?security=reality&encryption=none&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=a7f9106ba66e4796#🇷🇺 Obhod WBL | max.ru
-vless://e08d9bc5-6832-4dd4-bd44-d9bbe61e5817@g01tig3hasus3.dnetsolutions.ru:443?type=grpc&security=reality&sni=max.ru&fp=chrome&pbk=4qE0kXmxDvNzsns2jdwd74AN35RptcTD4eKo5REa9w8&sid=04#🇷🇺 Obhod WBL | max.ru
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@ww3.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#🇷🇺 Obhod WBL | passport.yandex.ru
+vless://e08d9bc5-6832-4dd4-bd44-d9bbe61e5817@g01tig3hasus3.dnetsolutions.ru:443?type=grpc&security=reality&sni=max.ru&fp=chrome&pbk=4qE0kXmxDvNzsns2jdwd74AN35RptcTD4eKo5REa9w8&sid=04#🇷🇺 Obhod WBL | max.ru
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@wl2.alertyagency.com:443?security=reality&encryption=none&pbk=th3X1X-WZfVfW-mctM2XQJiKQDO5iDZFKv9p3BDD7wM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=8441cdf7#🇷🇺 Obhod WBL | api-maps.yandex.ru
+vless://c5f09ac5-d980-408d-a7fa-00cdb4d8ead4@re-rus4.koska.pro:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=ozon.ru&fp=firefox&pbk=0YT84_xcDsLgiP0Bmwk7YoXKQslmEIHkmJNU20g4yB4&sid=1b8baf052c4e771a&path=%2F&mode=stream-up&extra=%7B%22xPaddingBytes%22%3A%20%22100-2000%22%7D#🇷🇺 Obhod WBL | ozon.ru
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&sid=45ba18f429ad1f28&type=tcp&headerType=none#🇷🇺 Obhod WBL | web.max.ru
+vless://8619e4c1-0984-4dce-83e3-419e2d7f5079@nider-t.sbrf-cdn342.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&security=reality&pbk=IzCxPP6AbT5ncuSfj17EsHCyjnirVQ_LN62uIiQeQVA&sid=111111#🇷🇺 Obhod WBL | max.ru
+vless://1919f8a0-629a-433f-b1ec-28f424a4a2d6@pol1.linkey37.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yandex.ru&fp=edge&security=reality&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&sid=#🇷🇺 Obhod WBL | www.yandex.ru
+vless://49aabf68-e986-4722-8fd1-1702ce996bb6@gr.nodesecure.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=kY32I2PvI5UYqhjoZlcL0z6V6r1AV_lLZolQH78ApmU&sid=ae575a16aa1a19a9#🌐 Obhod WBL | eh.vk.com
+vless://id6856346113@s2.nodu11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=random&security=reality&pbk=yDwHL93MSZMTVyDy0OhZu-NIlgNA9amsi_t1P8Sla0Q&sid=122455#🇫🇮 Obhod WBL | www.vk.com
 vless://419ccc44-0a46-4461-a73f-2d6f44fecede@md2.vmelectronics.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&security=reality&sid=da5f84e85736f625&sni=max.ru&type=tcp#🇷🇺 Obhod WBL | max.ru
+vless://84d6d574-face-4300-bd27-0eaf3d2942e1@de1-nv.jugploer.icu:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&security=reality&pbk=9k3mM_ZrMDDbd7i0ynyl7u1ZU2dqWcG_SHtm_Mk6xyY&sid=#🌐 Obhod WBL | eh.vk.com
 vless://e86870a5-41f2-4b45-b487-795b8c1a33d4@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#🇩🇪 Obhod WBL | www.yandex.ru
-vless://00bc53ff-c447-42fd-8b85-1843985e729a@tw.fixcore.top:443?flow=xtls-rprx-vision&sni=api.yandex.ru&security=reality&pbk=_-GgrwPZ2wH-9uk1jVc_EgIXkdMPm7r51oCY6TkS3lg&sid=a1b2c3d4e5f60002&fp=chrome#🇷🇺 Obhod WBL | api.yandex.ru
-vless://566f2431-4c98-484a-abaa-e29adc3b30c4@ger39.linkey38.ru:443?security=reality&type=xhttp&headerType=&path=%2F&host=&flow=&mode=auto&sni=www.vk.com&fp=qq&pbk=WzY6_TbWME4O5x4Ny-X5_N7Hio4ouoVs3FQsQEKXYg4&sid=#🇩🇪 Obhod WBL | www.vk.com
-vless://566f2431-4c98-484a-abaa-e29adc3b30c4@mostger2.linkey41.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=5hrZPU1wxHgBNQ1FiHfOhRNJulzL_wvAklsTN6wXiS8&sid=#🇩🇪 Obhod WBL | www.vk.com
