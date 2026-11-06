@@ -1,12 +1,13 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-06T14:00:45.761Z
-# Configs: 57
+# Updated: 2026-11-06T15:00:45.748Z
+# Configs: 58
 
-vless://bec30a74-89f3-412f-923a-8f9e338f1429@api.mediapolden.cc:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=r7Kp4mN9tQ2v&allowInsecure=0&sni=api.mediapolden.cc&fp=edge#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect1.accessgate.link:2880?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-vless://043b6cd2-fad5-461c-ae58-31d40ea7073f@stechnostore.life:443?path=%2Fclient%2Freport%2F04c88cca7509%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=stechnostore.life&type=ws&allowInsecure=0&sni=stechnostore.life&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+vless://1bbcd15c-aa70-4a09-9266-56951742c401@537df6t.ch4.h1clayd.click:443?type=tcp&security=reality&sni=537df6t.ch4.h1clayd.click&pbk=Q1X7TVCcrpg3d3lsRRpK-RF1ZQcPj_Yv5mUGvg7f1HE&sid=1577fac211816ec3&spx=%2F&encryption=none&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+vless://1bbcd15c-aa70-4a09-9266-56951742c401@d0f7fax.ch4.h1clayd.click:443?type=xhttp&security=reality&path=%2F17c81cca30e1&mode=auto&sni=d0f7fax.ch4.h1clayd.click&pbk=xei6NUuES9dJDfhU05zlUOnxFjbXANV6iKtxObEC7iA&sid=bc633b43a002e06a&spx=%2F&encryption=none&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+vless://8850dcb3-3978-488e-899c-18def71e1ad9@ru.galacticworld.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru.galacticworld.online&pbk=RAfUjx8zBhp0gpSALr09Myq_lpqqjE3hBVXlUUodVAs&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@ru1.cdn-space.org:443?encryption=none&type=xhttp&path=%2Fassets%2Fapi%2Fv3%2Fconnect%2F&host=ru1.cdn-space.org&mode=auto&security=tls&sni=ru1.cdn-space.org&alpn=h2&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sni=qq.utiltools.site#0014 | 🌐 Unknown | 🏳️ CIDR-CDNetworks | VLESS | TG: @YoutubeUnBlockRu
 vless://1d4937b0-9104-0009-b4a2-ab01f678fd04@main.3.nemnogogo.com:443?type=grpc&security=tls&fp=chrome&serviceName=gw.v1.StreamService#0022 | 🌐 Unknown | 🏳️ CIDR-TimeWeb | VLESS | TG: @YoutubeUnBlockRu
