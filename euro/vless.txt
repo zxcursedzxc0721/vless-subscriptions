@@ -1,11 +1,11 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-07T18:00:45.333Z
-# Configs: 23
+# Updated: 2026-11-07T19:00:45.148Z
+# Configs: 24
 
-vless://e8f7bbc6-3f5b-42b1-9903-45d3ba608e30@192.109.200.108:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=8Y0fk2zTfaBY3VEJF6ySLe6ZrK4liXxQdxKxAunwTlg&sid=3e129765d7ce5606&sni=ads.x5.ru#0920 | 🇳🇱 Netherlands | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@104.253.216.227:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=60500a63ad12#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://e8f7bbc6-3f5b-42b1-9903-45d3ba608e30@192.109.200.108:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=8Y0fk2zTfaBY3VEJF6ySLe6ZrK4liXxQdxKxAunwTlg&sid=3e129765d7ce5606&sni=ads.x5.ru#0940 | 🇳🇱 Netherlands | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@161.97.66.16:443?encryption=none&fp=firefox&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&security=reality&sid=086bf957&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
+vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@104.253.216.227:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=60500a63ad12#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&security=reality&sid=e6&sni=passport.yandex.ru&type=tcp#🇫🇷 Obhod WBL | passport.yandex.ru
 vless://5c914259-eea5-4a62-9a65-f2ada4a249e3@51.250.74.50:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🇷🇺 Obhod WBL | api-maps.yandex.ru
 vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@150.241.75.227:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=jkJjVvjbZmS5Nq-5Oz7GTRSZ_qXfChO7b5Ee8yYglzw&sid=23c0b9cc8395ab36#🇷🇺 Obhod WBL | max.ru
@@ -26,3 +26,4 @@ vless://c518738c-b5b1-41f2-ad7f-b6ca22677188@165.227.239.219:443/?type=ws&encryp
 vless://e7425444-41e1-40ca-9390-d10a2429e6df@143.110.170.20:443/?type=ws&encryption=none&flow=&path=%2Fdoxwomws&security=tls&sni=m.vk.com#🌐 Obhod WBL | m.vk.com
 vless://b95a44a7-c684-407b-b57e-e1681d69de90@51.250.77.124:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLApF78WJzjM4mijtlx4NPIbSA9Hizk66AVeck51wxY&security=reality&sid=fe2f8495c476efd4&sni=api-maps.yandex.ru&type=tcp#🇷🇺 Obhod WBL | api-maps.yandex.ru
 vless://ff527822-be9c-5c11-8519-45b8cc4c644a@144.124.226.216:443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=JkU5Vn1pM0jelR62NIqNwbE-b6Xs4kx-Vc6F-qNq1Fo&security=reality&sid=60e335610b12b2cc&sni=ozon.ru&type=xhttp#🇳🇱 Obhod WBL | ozon.ru
+vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?encryption=none&security=tls&sni=api.avito.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇫🇮 Obhod WBL | api.avito.ru
