@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-07T13:00:45.165Z
-# Configs: 21
+# Updated: 2026-11-07T14:00:45.094Z
+# Configs: 20
 
 vless://e8f7bbc6-3f5b-42b1-9903-45d3ba608e30@192.109.200.108:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=8Y0fk2zTfaBY3VEJF6ySLe6ZrK4liXxQdxKxAunwTlg&sid=3e129765d7ce5606&sni=ads.x5.ru#0860 | 🇳🇱 Netherlands | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@161.97.66.16:443?encryption=none&fp=firefox&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&security=reality&sid=086bf957&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
@@ -23,4 +23,3 @@ vless://72b36a89-a5bb-4c96-8cab-d0f560880ad6@138.68.160.230:443/?type=ws&encrypt
 vless://b214d4b1-2496-407a-8ab2-391e66915291@134.209.29.189:443/?type=ws&encryption=none&flow=&path=%2Fuebodows&security=tls&sni=ozon.ru#🇷🇺 Obhod WBL | ozon.ru
 vless://b869a8d0-0733-4346-8d1c-c1230a78651c@45.145.12.148:443?mode=multi&security=reality&encryption=none&pbk=OOI0p2vKjr8xdwcVCzxcd3rAxmMr7XRA0wMk14IXaFM&fp=firefox&type=grpc&serviceName=grpc&sni=max.ru&sid=35debf0dc757d053#🇷🇺 Obhod WBL | max.ru
 vless://c518738c-b5b1-41f2-ad7f-b6ca22677188@165.227.239.219:443/?type=ws&encryption=none&flow=&path=%2Fbhcukgws&security=tls&sni=www.vk.com&fp=chrome#🌐 Obhod WBL | www.vk.com
-vless://e7425444-41e1-40ca-9390-d10a2429e6df@143.110.170.20:443/?type=ws&encryption=none&flow=&path=%2Fdoxwomws&security=tls&sni=m.vk.com#🌐 Obhod WBL | m.vk.com
