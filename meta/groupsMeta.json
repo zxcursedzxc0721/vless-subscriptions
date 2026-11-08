@@ -15,13 +15,13 @@
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 157
+    "count": 148
   },
   {
     "id": "domain",
     "name": "Домен",
     "flag": "🌐",
-    "count": 38
+    "count": 46
   },
   {
     "id": "zz",
@@ -72,16 +72,16 @@
     "count": 4
   },
   {
-    "id": "bg",
-    "name": "BG",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
     "id": "fi",
     "name": "Финляндия",
     "flag": "🇫🇮",
     "count": 2
+  },
+  {
+    "id": "bg",
+    "name": "BG",
+    "flag": "🏳️",
+    "count": 1
   },
   {
     "id": "ua",
