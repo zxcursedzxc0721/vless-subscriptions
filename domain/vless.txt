@@ -1,11 +1,11 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-12T13:00:39.199Z
+# Updated: 2026-11-12T14:00:39.750Z
 # Configs: 44
 
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?encryption=none&security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@astravellion.xyz:443?encryption=none&security=tls&type=grpc&serviceName=glush.de1.v1&mode=gun&sni=astravellion.xyz&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252525252F1.1&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?sni=vps3.nemnogogo.com&alpn=h2&type=grpc&serviceName=mobile.api.Event&security=tls&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@astravellion.xyz:443?security=tls&type=grpc&sni=astravellion.xyz&serviceName=glush.de1.v1&alpn=h2&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
 vless://95f85937-7b95-45c4-8d69-95da6a978569@chat.gpt.prem-ai.shop:443?alpn=http%2F1.1&encryption=none&path=%2Fgateway%2Fv1%2Fws%2F791f9a4d19f715c2ffaedfbaf99d88bd&security=tls&sni=chat.gpt.prem-ai.shop&type=ws&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu
 vless://29777784-b5ad-4e2a-be7b-335f033ab97c@cdn.oldertown.ru:443?type=xhttp&security=tls&fp=firefox&sni=cdn.oldertown.ru&path=/api/v4/media/session/poll&host=cdn.oldertown.ru&mode=packet-up&extra={"xmux": {"cMaxReuseTimes": "128-256", "maxConcurrency": "8-16", "hKeepAlivePeriod": 30, "hMaxRequestTimes": "600-1000", "hMaxReusableSecs": "1800-3600"}, "seqKey": "offset", "headers": {"Accept": "application/vnd.api json, application/json, text/plain, */*", "Pragma": "no-cache", "Cache-Control": "no-cache", "Accept-Language": "ru-RU,ru&q=0.9,en-US&q=0.8,en&q=0.7"}, "sessionKey": "media_sid", "xPaddingKey": "q", "seqPlacement": "query", "uplinkDataKey": "X-Playback-Token", "xPaddingBytes": "48-320", "xPaddingMethod": "tokenish", "sessionPlacement": "path", "uplinkHTTPMethod": "GET", "xPaddingObfsMode": true, "xPaddingPlacement": "query", "scMaxBufferedPosts": 64, "scMaxEachPostBytes": "1536-6144", "uplinkDataPlacement": "header", "scMinPostsIntervalMs": "10-30", "serverMaxHeaderBytes": 32768}#0104 | 🌐 Unknown | 🏳️ CIDR-Yandex | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
