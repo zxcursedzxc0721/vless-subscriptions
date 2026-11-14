@@ -3,31 +3,31 @@
     "id": "all",
     "name": "ALL",
     "flag": "🏳️",
-    "count": 328
+    "count": 286
   },
   {
     "id": "euro",
     "name": "EURO",
     "flag": "🏳️",
-    "count": 21
+    "count": 15
   },
   {
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 186
+    "count": 169
   },
   {
     "id": "domain",
     "name": "Домен",
     "flag": "🌐",
-    "count": 48
+    "count": 37
   },
   {
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 46
+    "count": 36
   },
   {
     "id": "zz",
@@ -45,7 +45,7 @@
     "id": "ch",
     "name": "Швейцария",
     "flag": "🇨🇭",
-    "count": 2
+    "count": 1
   },
   {
     "id": "fr",
@@ -57,7 +57,7 @@
     "id": "nl",
     "name": "Нидерланды",
     "flag": "🇳🇱",
-    "count": 10
+    "count": 8
   },
   {
     "id": "pl",
@@ -69,25 +69,13 @@
     "id": "de",
     "name": "Германия",
     "flag": "🇩🇪",
-    "count": 5
+    "count": 4
   },
   {
     "id": "us",
     "name": "США",
     "flag": "🇺🇸",
-    "count": 17
-  },
-  {
-    "id": "gb",
-    "name": "Великобритания",
-    "flag": "🇬🇧",
-    "count": 1
-  },
-  {
-    "id": "fi",
-    "name": "Финляндия",
-    "flag": "🇫🇮",
-    "count": 1
+    "count": 18
   },
   {
     "id": "il",
@@ -96,15 +84,9 @@
     "count": 1
   },
   {
-    "id": "ly",
-    "name": "LY",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
     "id": "jp",
     "name": "Япония",
     "flag": "🇯🇵",
-    "count": 3
+    "count": 7
   }
 ]
