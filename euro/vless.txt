@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-14T04:00:48.804Z
+# Updated: 2026-11-14T05:00:48.771Z
 # Configs: 17
 
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=raw#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2318
@@ -18,5 +18,5 @@ vless://719b9354-45e2-4718-8709-d965b64554db@2.24.124.64:443?encryption=none&flo
 vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.118.3:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=cz-next.mediastvor.cc&type=grpc#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D
 vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.114.68:443?security=tls&sni=nl-next.mediastvor.cc&alpn=h2&fp=qq&type=grpc&serviceName=3e99d50d5740985d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.114.99:443?security=tls&sni=nl-next.mediastvor.cc&alpn=h2&fp=qq&type=grpc&serviceName=3e99d50d5740985d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://393f7488-378f-4c3c-98af-702db5f869e3@45.157.116.132:443?encryption=mlkem768x25519plus.native.0rtt.kzOKk1jcguvjxCUVKWtIw-hhlmWmeKdGjj3Qhdzb8BE&fp=firefox&host=30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir&security=tls&sni=30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.127.214:443/?alpn=networld_vpn-channel&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&security=reality&sid=7a76f3c4b9dd&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&security=reality&sid=e6&sni=passport.yandex.ru&type=tcp#🇫🇷 Obhod WBL | passport.yandex.ru
