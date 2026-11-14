@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-14T15:00:49.772Z
-# Configs: 21
+# Updated: 2026-11-14T16:00:49.770Z
+# Configs: 20
 
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=raw#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2324
 vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&security=reality&sid=a44ff7d2e80213c2&sni=www.cloudflare.com&type=raw#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%2339
@@ -21,6 +21,5 @@ vless://75656990-9fe9-4421-a643-53f63e5b1b8f@189.74.117.30:443?flow=xtls-rprx-vi
 vless://75656990-9fe9-4421-a643-53f63e5b1b8f@189.74.116.25:443?flow=xtls-rprx-vision&security=reality&sni=api.mediatropa.cc&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://2ca33ca8-3f56-4d2a-b0ba-4cec30b9c5ba@62.109.22.46:443?security=tls&sni=mscmems.fastystore.ru&alpn=h2%2Chttp%2F1.1&fp=firefox&type=grpc&serviceName=nl-grpc&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://75656990-9fe9-4421-a643-53f63e5b1b8f@189.74.114.99:443?security=tls&sni=nl-next.mediastvor.cc&alpn=h2&fp=qq&type=grpc&serviceName=3e99d50d5740985d&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://83faea99-9f48-4d00-802c-1933e5847a8d@45.11.27.89:2096?type=xhttp&security=reality&fp=firefox&pbk=5sNteqZ0LMnrc-Us7kUB5m4aKmEK4u85XIpFnmSstHI&sid=a5592f6b1a145e4a&sni=assets-a45xy05f.tetsuo.ink&path=/xhttp-21ee1182&host=assets-a45xy05f.tetsuo.ink&mode=stream-one#0919 | 🇷🇺 Russia | 🏳️ CIDR-MTFinance | VLESS | TG: @YoutubeUnBlockRu
-vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&security=reality&sid=52c723e0fad49689&sni=www.nvidia.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://83faea99-9f48-4d00-802c-1933e5847a8d@45.11.27.89:2096?type=xhttp&security=reality&fp=firefox&pbk=5sNteqZ0LMnrc-Us7kUB5m4aKmEK4u85XIpFnmSstHI&sid=a5592f6b1a145e4a&sni=assets-a45xy05f.tetsuo.ink&path=/xhttp-21ee1182&host=assets-a45xy05f.tetsuo.ink&mode=stream-one#0941 | 🇷🇺 Russia | 🏳️ CIDR-MTFinance | VLESS | TG: @YoutubeUnBlockRu
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.129.8.204:443?security=tls&sni=jp3.yohototo.top&type=ws&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
