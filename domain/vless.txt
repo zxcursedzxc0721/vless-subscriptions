@@ -1,7 +1,7 @@
 # VLESS Whitelist Subscription
 # Country: Domain
-# Updated: 2026-11-14T08:00:48.936Z
-# Configs: 41
+# Updated: 2026-11-14T09:00:48.955Z
+# Configs: 40
 
 vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de3.v1&security=tls&sni=luminexorizon.ink&alpn=h2&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nguyxejonb.flowersgood.top&type=ws&allowInsecure=0&sni=nguyxejonb.flowersgood.top&fp=android#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%20%5B%2ACIDR%5D%20VK
@@ -28,9 +28,8 @@ vless://0753957f-bbb0-48ea-8bd3-b0c709e552d7@e9af4bx.de30.h1clayd.shop:443?encry
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?fp=random&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&security=reality&sid=086bf957&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
 vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://2ed1ddca-a5cf-41ba-86f1-677501db9d11@1.235c235.abrdns.com:4041?flow=xtls-rprx-vision&encryption=none&security=reality&sni=genshin.hoyoverse.com&fp=chrome&pbk=ccKm06pTKMz_Mrbn3jL4wXQI6vmw2iYIQ8c--Sn13lI&sid=566f0df921560c&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://393f7488-378f-4c3c-98af-702db5f869e3@30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=mlkem768x25519plus.native.0rtt.kzOKk1jcguvjxCUVKWtIw-hhlmWmeKdGjj3Qhdzb8BE&security=tls&type=ws&headerType=none&path=/&host=30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir&sni=30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?&security=reality&flow=xtls-rprx-vision&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc&fp=firefox&sni=4935e4t.de25.h1clayd.click&type=tcp&headerType=none&host=4935e4t.de25.h1clayd.click&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:55688?&security=reality&flow=xtls-rprx-vision&pbk=6dqd0hqbC0bht9RtsYamvlYdMpxyUbk7uXw0xtO8DzQ&sid=865c1b2c&fp=chrome&sni=bilibili-vn.biliimg.com&type=tcp&headerType=none&host=bilibili-vn.biliimg.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:11802?&security=reality&flow=xtls-rprx-vision&pbk=FUBjYwXlKIVwF7IuJf5dt_HU2sUnrEt10s4TIlTe8Q4&sid=6c84fbac2d&fp=ios&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
 vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443/?type=tcp&encryption=none&flow=&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#🇫🇷 Obhod WBL | metrika.yandex.ru
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&type=tcp&headerType=none&host=yandex.ru&path=%2F%2B#🇷🇺 Obhod WBL | yandex.ru
