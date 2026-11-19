@@ -15,13 +15,13 @@
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 197
+    "count": 192
   },
   {
     "id": "domain",
     "name": "Домен",
     "flag": "🌐",
-    "count": 51
+    "count": 55
   },
   {
     "id": "unknown",
@@ -96,12 +96,6 @@
     "count": 1
   },
   {
-    "id": "ne",
-    "name": "NE",
-    "flag": "🏳️",
-    "count": 1
-  },
-  {
     "id": "tr",
     "name": "TR",
     "flag": "🏳️",
@@ -110,6 +104,18 @@
   {
     "id": "ua",
     "name": "UA",
+    "flag": "🏳️",
+    "count": 1
+  },
+  {
+    "id": "ne",
+    "name": "NE",
+    "flag": "🏳️",
+    "count": 1
+  },
+  {
+    "id": "ly",
+    "name": "LY",
     "flag": "🏳️",
     "count": 1
   }
