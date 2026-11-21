@@ -9,13 +9,13 @@
     "id": "euro",
     "name": "EURO",
     "flag": "🏳️",
-    "count": 23
+    "count": 24
   },
   {
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 211
+    "count": 210
   },
   {
     "id": "domain",
@@ -57,7 +57,7 @@
     "id": "nl",
     "name": "Нидерланды",
     "flag": "🇳🇱",
-    "count": 14
+    "count": 15
   },
   {
     "id": "pl",
