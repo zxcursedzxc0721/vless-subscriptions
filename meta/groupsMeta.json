@@ -15,19 +15,19 @@
     "id": "ru",
     "name": "Россия",
     "flag": "🇷🇺",
-    "count": 256
+    "count": 249
   },
   {
     "id": "domain",
     "name": "Домен",
     "flag": "🌐",
-    "count": 129
+    "count": 131
   },
   {
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 99
+    "count": 104
   },
   {
     "id": "zz",
