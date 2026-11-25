@@ -1,6 +1,6 @@
 # VLESS Whitelist Subscription
 # Country: Europe
-# Updated: 2026-11-25T18:00:14.307Z
+# Updated: 2026-11-25T19:00:14.176Z
 # Configs: 1
 
-vless://a5b1d16b-719b-4bd6-9d7b-fe6d84607da9@45.9.190.245:443?security=tls&sni=fortuna.masynbazar.ru&alpn=h2&fp=firefox&type=xhttp&host=fortuna.masynbazar.ru&path=%2F&mode=auto#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://a5b1d16b-719b-4bd6-9d7b-fe6d84607da9@45.9.190.245:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=tls&alpn=h2&fp=firefox&sni=fortuna.masynbazar.ru#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
