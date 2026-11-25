@@ -3,7 +3,7 @@
     "id": "all",
     "name": "ALL",
     "flag": "🏳️",
-    "count": 484
+    "count": 481
   },
   {
     "id": "euro",
@@ -27,7 +27,7 @@
     "id": "unknown",
     "name": "Неизвестно",
     "flag": "❓",
-    "count": 150
+    "count": 147
   },
   {
     "id": "zz",
